@@ -50,10 +50,11 @@ def compare_nu_invariants(p, e, polynomials, num_nu_inv = 10):
 
     x_axis = [i + 1 for i in range(num_nu_inv)]
     fig, ax = plt.subplots()
-    [ax.plot(x_axis, nu_inv_polynomial, marker = 'o') for nu_inv_polynomial in nu_inv]
+    [ax.plot(x_axis, nu_inv[i], marker = 'o', label = str(polynomials[i])) for i in range(len(polynomials))]
     ax.set_xlim([0, num_nu_inv + 1])
     ax.set_ylim([0, 10 * (math.ceil(max_nu_inv / 10) + 1)])
     ax.grid()
+    ax.legend(loc = 'upper left')
     plt.show()
 
 
@@ -66,6 +67,7 @@ if __name__ == "__main__":
     #     i = int((p ** e - 2) / 3)
     #     print(to_base_n(i, p))
 
+
     p = 5
     e = 1
     R = PolynomialRing(GF(p), 'X, Y')
@@ -77,7 +79,11 @@ if __name__ == "__main__":
 
     f = X**3 + Y**2
     g = X**2 + Y**7
-    compare_nu_invariants(p, e, (f, g))
+
+
+    for elem in dir(f):
+        print(elem)
+    compare_nu_invariants(p, e, (f, g, X + Y))
 
     quit()
     pe = p ** e
