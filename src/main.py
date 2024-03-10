@@ -1,9 +1,9 @@
 import math
 import numpy as np
 
-from sage.all import *
+from sage.all import *  
 from matplotlib import pyplot as plt
-
+    
 import frobenius
 
 def fun1(val, sgn = 1):
@@ -60,15 +60,8 @@ def compare_nu_invariants(p, e, polynomials, num_nu_inv = 10):
 
 if __name__ == "__main__":
 
-    # p = 17
-
-    # for d in range(20):
-    #     e = 2 * d + 1
-    #     i = int((p ** e - 2) / 3)
-    #     print(to_base_n(i, p))
-
-
-    p = 5
+    # p = 71
+    p = 139
     e = 1
     R = PolynomialRing(GF(p), 'X, Y')
     gens = R.gens()
@@ -77,39 +70,13 @@ if __name__ == "__main__":
 
     # def_f = X**3 + Y**2 + X * Y
 
-    f = X**3 + Y**2
-    g = X**2 + Y**7
-
+    f = X**5 + Y**7
+    g = X**5 + Y**7 + X**3 * Y**3
+    print(R.bitmask)
+    quit()
+    # g = X**2 + Y**7
+    # h = X**2 + Y**4
 
     for elem in dir(f):
         print(elem)
-    compare_nu_invariants(p, e, (f, g, X + Y))
-
-    quit()
-    pe = p ** e
-    froot = frobenius.frobenius_root(pe, f)
-
-    print(frobenius.frobenius_root(pe, f))
-    print(frobenius.frobenius_root(pe, def_f))
-
-
-
-    print('Computing nu-invariants')
-
-    compare_deformation_nu_invariants(p, e, f, def_f, num_nu_inv = 10)
-
-    # max_e = 3
-    # num_nu_inv = 10
-    # nu_inv_levels = []
-
-    # for e in range(1, max_e + 1):
-    #     print(f'Computing level {e}...')
-    #     nu_inv_levels.append(frobenius.compute_nu_invariants(p, e, f))
-
-    # x_axis = [i + 1 for i in range(num_nu_inv)]
-    # fig, ax = plt.subplots()
-    # for i in range(max_e):
-    #     ax.plot(x_axis, nu_inv_levels[i], marker = 'o')
-    # plt.show()
-
-    # froot = frobenius
+    compare_nu_invariants(p, e, (f, g), num_nu_inv = 20)

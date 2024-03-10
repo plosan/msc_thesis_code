@@ -1,0 +1,5 @@
+sudo apt remove python3-matplotlib
+sudo apt remove sagemath
+pip uninstall matplotlib
+pip install matplotlib
+sudo apt-get install sagemath
