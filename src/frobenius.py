@@ -46,12 +46,12 @@ def _monomialize_polynomial(pe, f, gens):
     f_coefs = f.coefficients()
     f_exps = f.exponents()
     for i in range(len(f_coefs)):
-        coef, base_elem = _monomialize(pe, f_exps[i])
+        coef, basis_elem = _monomialize(pe, f_exps[i])
         monomial = f_coefs[i] * _exponents_to_monomial(coef, gens)
-        if base_elem not in expression:
-            expression[base_elem] = [monomial]
+        if basis_elem not in expression:
+            expression[basis_elem] = [monomial]
         else:
-            expression[base_elem].append(monomial)
+            expression[basis_elem].append(monomial)
     return expression
     
     # a = list(expression.values())
@@ -63,16 +63,27 @@ def _exponents_to_monomial(exponents, gens):
         f *= gens[i] ** exponents[i]
     return f
 
+# def _check_if_monomial(f):
+
 def frobenius_root(p, e, f):
     gens = f.parent().gens()
     expression = _monomialize_polynomial(p**e, f, gens)
     expression = list(expression.values())
-    for elem in expression:
-        print(elem)
-        print(sum(elem))
-        print()
-    froot_gens = [sum(elem) for elem in expression]
-    return ideal(froot_gens)
+    # for elem in expression:
+    #     print(elem)
+    #     print(sum(elem))
+    #     print()
+    # froot_gens = set[sum(elem) for elem in expression]
+    froot_gens = set([sum(elem) for elem in expression])
+    return ideal(list(froot_gens))
+
+def frobenius_root_ideal(p, e, a):
+    ideal_gens = a.gens()
+    froot_elems = [frobenius_root(p, e, elem) for elem in ideal_gens]
+    froot = froot_elems[0]
+    for i in range(1, len(froot_elems)):
+        froot += froot_elems[i]
+    
 
 def compute_nu_invariants(p, e, f, nu_inv_count = 10):
     """Computes the nu-invariants of level e of the polynomial f.

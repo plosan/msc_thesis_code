@@ -32,6 +32,3 @@ for e in range(1, 10):
     exponent = p**e - 1
     print(e, exponent, type(exponent))
     print(f**exponent)
-    
-    
-    
