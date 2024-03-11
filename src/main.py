@@ -6,6 +6,8 @@ from matplotlib import pyplot as plt
     
 import frobenius
 
+OVERFLOW_LIM = 2**16 - 1
+
 def fun1(val, sgn = 1):
     return sgn * np.power(val, 1.5)
 
@@ -57,11 +59,15 @@ def compare_nu_invariants(p, e, polynomials, num_nu_inv = 10):
     ax.legend(loc = 'upper left')
     plt.show()
 
+def deformation_f(f, t33, t52, t43, t53):
+    X, Y = f.parent().gens()
+    g = f - t33 * X**3 * Y**3 - t52 * X**5 * Y**2 - t43 * X**4 * Y**3 - t53 * X**5 * Y**3
+    return g
+
 
 if __name__ == "__main__":
 
-    # p = 71
-    p = 139
+    p = 71
     e = 1
     R = PolynomialRing(GF(p), 'X, Y')
     gens = R.gens()
@@ -70,10 +76,23 @@ if __name__ == "__main__":
 
     # def_f = X**3 + Y**2 + X * Y
 
-    f = X**5 + Y**7
-    g = X**5 + Y**7 + X**3 * Y**3
-    print(R.bitmask)
+    f = X**7 + Y**5
+    # g = X**5 + Y**7 + X**3 * Y**3
+
+    # for e in range(1, 10):
+    #     power = p ** e
+    #     print(e, f**power)
+
+    print(X**(2**16 - 1))
+
+    print('Computing...')
+    froot2 = frobenius.frobenius_root(p, 1, f**(p**1 - 1))
+
+    print(froot2)
+
+
     quit()
+
     # g = X**2 + Y**7
     # h = X**2 + Y**4
 

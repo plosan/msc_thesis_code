@@ -63,10 +63,14 @@ def _exponents_to_monomial(exponents, gens):
         f *= gens[i] ** exponents[i]
     return f
 
-def frobenius_root(pe, f):
+def frobenius_root(p, e, f):
     gens = f.parent().gens()
-    expression = _monomialize_polynomial(pe, f, gens)
+    expression = _monomialize_polynomial(p**e, f, gens)
     expression = list(expression.values())
+    for elem in expression:
+        print(elem)
+        print(sum(elem))
+        print()
     froot_gens = [sum(elem) for elem in expression]
     return ideal(froot_gens)
 
@@ -96,7 +100,7 @@ def compute_nu_invariants(p, e, f, nu_inv_count = 10):
     while count < nu_inv_count:
         f_power *= f
         n += 2
-        next_froot = frobenius_root(pe, f_power)
+        next_froot = frobenius_root(p, e, f_power)
         if not current_froot <= next_froot:
             nu_invariants.append(n)
             current_froot = next_froot
