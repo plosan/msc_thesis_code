@@ -9,4 +9,4 @@ Let $R = k[x, y]$ be a polynomial ring over a perfect field $k$ of characteristi
 * Codimension of the ring $R / I_e$.
 * Basis expression of $F_\ast^e f^{p^e - 1}$.
 
-Do it for characteristics $p < 100$ and for $(a, b) \in \{ (7,5), \, (7,6) \}$.
+Do it for characteristics $p < 100$ and for $(a, b) = (7,5), (7,6)$.
