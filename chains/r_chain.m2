@@ -1,12 +1,12 @@
 loadPackage "TestIdeals"
 
 p = 11
-e = 3
+e = 1
 R = GF(p)[x, y]
 
 g = y^2 - x^3
-h = x^5 * y
-f = g^2 - h
+f = g^5 - x^5 * y^10
+f = y^2 - x^3
 
 pe = p^e
 rmax = pe
@@ -17,7 +17,12 @@ fRoots = {auxRoot}
 fpower = 1
 
 -- Printing
-print(concatenate("f = ", toString(f)))
+-- print(concatenate("f = ", toString(f)))
+print(concatenate("p = ", toString(p)))
+print(concatenate("e = ", toString(e)))
+-- print(concatenate("f = (y^2 - x^3)^5 - x^3 y^10"))
+print(concatenate("f = y^2 - x^3"))
+print("")
 rprev = 1
 
 for r from 1 to rmax do (
@@ -44,7 +49,3 @@ print(concatenate("Nu-invariants (<= ", toString(rmax), "): ", toString(nuInv)))
 --     print(concatenate("In [", toString(rprev), ", ", toString(nuInv#i), "]: ", toString(fRoots#i)));
 --     rprev = nuInv#i + 1;
 -- )
-
-
-
-
