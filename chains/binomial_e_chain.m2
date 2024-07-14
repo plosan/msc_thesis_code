@@ -17,8 +17,8 @@ for a from 2 to aMax do (
     for b from a to bMax do (
         -- Name of the polynomial for file naming purposes
         polyName := concatenate("x", toString(a), "_+_y", toString(b));
-        file := concatenate("../out/binomial_e_chain", polyName, ".txt");
-        fileLevel := concatenate("../out/binomial_e_chain", polyName, "_level.txt");
+        file := concatenate("../out/binomial_e_chain/", polyName, ".txt");
+        fileLevel := concatenate("../out/binomial_e_chain_level/", polyName, "_level.txt");
         print(polyName);
         -- Compute for primes
         for p from 2 to 100 do (
@@ -26,19 +26,31 @@ for a from 2 to aMax do (
                 print(concatenate("p = ", toString(p)));
                 R := GF(p)[x, y];
                 f := x^a + y^b;
+                isIrred = isPrime(ideal(f));
                 -- Printing and computing
                 print(polyName);
                 out := eChainVerbose(f, 10);
+
                 -- Print to file
-                file << toString(f) << endl;
                 file << "p = " << toString(p);
+                if isIrred then (
+                    file << ", irred = true ";
+                ) else (
+                    file << ", irred = false";
+                );
                 file << ", level = " << toString(out_0) << endl;
                 for i from 0 to (length out_1 - 1) do (
-                    file << "e = " << toString(i + 1) << " : " << toString(out_1#i) << endl;
+                    file << "e = " << toString(i + 1) << ", " << toString(out_1#i) << endl;
                 );
                 file << endl;
+
                 -- Print to fileLevel
                 fileLevel << "p = " << toString(p);
+                if isIrred then (
+                    fileLevel << ", irred = true ";
+                ) else (
+                    fileLevel << ", irred = false";
+                );
                 fileLevel << ", level = " << toString(out_0) << endl;
             );
         );
