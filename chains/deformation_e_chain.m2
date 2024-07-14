@@ -6,33 +6,30 @@ bMax = 10;  -- Max exponent of x^b
 pMax = 100; -- Upper bound for the characteristic; yes, I know 100 is not prime :)
 
 for a from 3 to aMax do (
-    for b from 7 to bMax do (
+    for b from a to bMax do (
         -- Compute the monomials that give a constant Milnor number deformation
         -- of x^a + y^b. If there is no such monomial, skip to the next polynomial
         -- x^a + y^b. If there are such monomials, retain only the first in 
         -- lexicographic order in the exponents.
         defMon := getDeformationMonomials(a, b);   -- Monomials of deformation
-        if #defMon == 0 then (
+        if #defMon == 0 then (  -- No deformation, skip
             continue;
         );
 
         for mon in defMon do (
-
             c := (mon)#0;  -- Exponent of x in the monomial
             d := (mon)#1;  -- Exponent of y in the monomial
-
             -- Filenames for output
             polyName := concatenate("x", toString(a), "_+_y", toString(b), "_+_x", toString(c), "y", toString(d));
             file := concatenate("../out/deformation_e_chain/", polyName, ".txt");
-            fileLevel := concatenate("../out/deformation_e_chain/", polyName, "_level.txt");
+            fileLevel := concatenate("../out/deformation_e_chain_level/", polyName, "_level.txt");
             print(polyName);
-
             -- Optimizations for the max level of the Frobenius root
             level2 := 10;   -- Level of the singularity found two iterations ago
             level1 := 10;   -- Level of the singularity found an iteration ago
             emax := 10;     -- Max level of the Frobenius root computed
             consecSingL1 := false;  -- Set to true when two consecutive level 1 singularities are found
-            optimizationFlag := false;  -- 
+            optimizationFlag := false;  -- When true, chains are computed only for e = 1.
         
             for p from 2 to 100 do (
                 -- Skip p's that are not prime
@@ -42,9 +39,10 @@ for a from 3 to aMax do (
                 -- Computations
                 R := GF(p)[x, y];               -- Polynomial ring Fp[x,y]
                 g := x^a + y^b + x^c * y^d;     -- Deformation of x^a + y^b
+                isIrred := isPrime(ideal(g));
                 print(concatenate("p = ", toString(p)));
                 -- Compute
-                if p >= 17 then (
+                if p >= 17 then (   -- Optimization
                     emax = 1;
                     optimizationFlag = true;
                 );
@@ -52,23 +50,35 @@ for a from 3 to aMax do (
                 out := eChainVerbose(g, emax);
                 -- Optimizations for the max level of the Frobenius root for the 
                 -- nex iteration.
-                levelMod := max(out_0, 1);
-                level2 = level1;
-                level1 = levelMod;
-                emax = max(level1, level2);
+                levelMod := max(out_0, 1);  -- Level modified
+                level2 = level1;            -- Level two iterations ago
+                level1 = levelMod;          -- Level an iteration ago
+                emax = max(level1, level2); -- Max level of Frobenius root for the next iteration
+
                 -- Print to file 
                 file << "p = " << toString(p);
+                if isIrred then (
+                    file << ", irred = true ";
+                ) else (
+                    file << ", irred = false";
+                );
                 file << ", level = " << toString(levelMod);
                 if optimizationFlag then (
                     file << "*";
                 );
                 file << endl;
                 for i from 0 to (length out_1 - 1) do (
-                    file << "e = " << toString(i + 1) << " : " << toString(out_1#i) << endl;
+                    file << "e = " << toString(i + 1) << ", " << toString(out_1#i) << endl;
                 );
                 file << endl;
+
                 -- Print to fileLevel
                 fileLevel << "p = " << toString(p);
+                if isIrred then (
+                    fileLevel << ", irred = true ";
+                ) else (
+                    fileLevel << ", irred = false";
+                );
                 fileLevel << ", level = " << toString(levelMod);
                 if optimizationFlag then (
                     fileLevel << "*";
@@ -76,10 +86,8 @@ for a from 3 to aMax do (
                 fileLevel << endl;
                 print("");
             );
-
             file << close;
             fileLevel << close;
-
         );
     );
 );

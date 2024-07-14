@@ -26,6 +26,8 @@ for a from 2 to aMax do (
                 print(concatenate("p = ", toString(p)));
                 R := GF(p)[x, y];
                 f := x^a + y^b;
+                -- Printing and computing
+                print(polyName);
                 out := eChainVerbose(f, 10);
                 -- Print to file
                 file << toString(f) << endl;

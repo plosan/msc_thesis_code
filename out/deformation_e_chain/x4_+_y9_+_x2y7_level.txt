@@ -1,4 +1,0 @@
-p = 2, level = 3
-p = 3, level = 3
-p = 5, level = 2
-p = 7, level = 2
