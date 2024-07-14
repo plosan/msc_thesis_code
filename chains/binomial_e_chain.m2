@@ -16,9 +16,9 @@ pMax = 100; -- Upper bound for the characteristic; yes, I know 100 is not prime 
 for a from 2 to aMax do (
     for b from a to bMax do (
         -- Name of the polynomial for file naming purposes
-        polyName = concatenate("x", toString(a), "_+_y", toString(b));
-        file = concatenate("../out/binomial_e_chain", polyName, ".txt");
-        fileLevel = concatenate("../out/binomial_e_chain", polyName, "_level.txt");
+        polyName := concatenate("x", toString(a), "_+_y", toString(b));
+        file := concatenate("../out/binomial_e_chain", polyName, ".txt");
+        fileLevel := concatenate("../out/binomial_e_chain", polyName, "_level.txt");
         print(polyName);
         -- Compute for primes
         for p from 2 to 100 do (
