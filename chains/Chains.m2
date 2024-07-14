@@ -154,32 +154,3 @@ eChainVerbose(RingElement, ZZ) := (f, emax) -> (
 
     return (level, fRootList);
 );
-
--- rChainVerbose = method();
--- rChainVerbose()(RingElement, ZZ) := (f, e) -> (
---     -- Computes the different ideals in the chain 
---     -- (f)^[1 / p^e] \supseteq (f^2)^[1 / p^e] \supseteq ... \supseteq (f^(p^e - 1))^[1 / p^e]
---     -- and the nu-invariants
---     R := ring(f);       -- Ring to which f belongs
---     p := char(R);       -- Characteristic of the ring
---     rmax := p^e - 1;    -- Max power of f for which the e-th Frobenius roots is computed
-
---     auxRoot := frobeniusRoot(e, ideal(f));  -- Auxiliary Frobenius root
---     fpower = f;
---     fRootList := {auxRoot};                 -- List of the distinct e-th Frobenius roots
---     nuInvList := {};                        -- List of nu-invariants of level e
-
---     -- Compute Frobenius roots, linearly
---     for r from 2 to rmax do (
---         fpower = fpower * f;
---         root := frobeniusRoot(e, ideal(fpower));
---         if not isSubset(auxRoot, root) then (
---             fRootList = append(fRootList, root);
---             nuInvList = append(nuInvList, r - 1);
---             auxRoot = root;
---         );
---     );
---     nuInvList = append(nuInvList, rmax);    -- p^e - 1 is always a nu-invariant
-
---     return (nuInvList, fRootList);
--- );
