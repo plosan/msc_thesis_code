@@ -1,0 +1,83 @@
+p = 2, level = 3
+e = 1 : ideal(y^4,x*y^3+x^2)
+e = 2 : ideal(x^2*y,x^3,x*y^4,y^6)
+e = 3 : ideal(x^2*y^2,x*y^4,x^2*y^3+x^3,y^6)
+
+p = 3, level = 3
+e = 1 : ideal(x^2*y^2-x^2*y,y^5-x^2,x*y^4-x*y^3)
+e = 2 : ideal(x^2*y^2-x^2*y,x^4-x^2*y,x*y^4-x^3,y^6-x^2*y,x*y^5-x^3,x^2*y^4-x^2*y^3)
+e = 3 : ideal(x^4-x^2*y^2,x*y^4-x^3,x^2*y^3-x^2*y^2,y^6-x^2*y^2,x*y^5-x^3,x^2*y^4-x^2*y^3)
+
+p = 5, level = 2
+e = 1 : ideal(x^2*y,x^3,x*y^3,y^5)
+e = 2 : ideal(x^3,x^2*y^2,x*y^4,y^6)
+
+p = 7, level = 2
+e = 1 : ideal(x^2*y,x^3,x*y^3,y^6)
+e = 2 : ideal(x^3,x^2*y^2,x*y^4,y^6)
+
+p = 11, level = 1
+e = 1 : ideal(x^2*y,x^3,x*y^4,y^6)
+e = 2 : ideal(x^3,x^2*y^2,x*y^4,y^6)
+
+p = 13, level = 1
+e = 1 : ideal(x^2*y,x^3,x*y^4,y^6)
+e = 2 : ideal(x^3,x^2*y^2,x*y^4,y^6)
+
+p = 17, level = 1*
+e = 1 : ideal(x^2*y,x^3,x*y^4,y^6)
+
+p = 19, level = 1*
+e = 1 : ideal(x^2*y,x^3,x*y^4,y^6)
+
+p = 23, level = 1*
+e = 1 : ideal(x^2*y,x^3,x*y^4,y^6)
+
+p = 29, level = 1*
+e = 1 : ideal(x^3,x^2*y^2,x*y^4,y^6)
+
+p = 31, level = 1*
+e = 1 : ideal(x^3,x^2*y^2,x*y^4,y^6)
+
+p = 37, level = 1*
+e = 1 : ideal(x^3,x^2*y^2,x*y^4,y^6)
+
+p = 41, level = 1*
+e = 1 : ideal(x^3,x^2*y^2,x*y^4,y^6)
+
+p = 43, level = 1*
+e = 1 : ideal(x^3,x^2*y^2,x*y^4,y^6)
+
+p = 47, level = 1*
+e = 1 : ideal(x^3,x^2*y^2,x*y^4,y^6)
+
+p = 53, level = 1*
+e = 1 : ideal(x^3,x^2*y^2,x*y^4,y^6)
+
+p = 59, level = 1*
+e = 1 : ideal(x^3,x^2*y^2,x*y^4,y^6)
+
+p = 61, level = 1*
+e = 1 : ideal(x^3,x^2*y^2,x*y^4,y^6)
+
+p = 67, level = 1*
+e = 1 : ideal(x^3,x^2*y^2,x*y^4,y^6)
+
+p = 71, level = 1*
+e = 1 : ideal(x^3,x^2*y^2,x*y^4,y^6)
+
+p = 73, level = 1*
+e = 1 : ideal(x^3,x^2*y^2,x*y^4,y^6)
+
+p = 79, level = 1*
+e = 1 : ideal(x^3,x^2*y^2,x*y^4,y^6)
+
+p = 83, level = 1*
+e = 1 : ideal(x^3,x^2*y^2,x*y^4,y^6)
+
+p = 89, level = 1*
+e = 1 : ideal(x^3,x^2*y^2,x*y^4,y^6)
+
+p = 97, level = 1*
+e = 1 : ideal(x^3,x^2*y^2,x*y^4,y^6)
+

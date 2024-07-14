@@ -23,60 +23,60 @@ e = 2 : ideal(x^2,x*y^2,y^4)
 p = 13, level = 1
 e = 1 : ideal(x^2,x*y^2,y^4)
 
-p = 17, level = 1
+p = 17, level = 1*
 e = 1 : ideal(x^2,x*y^2,y^4)
 
-p = 19, level = 1
+p = 19, level = 1*
 e = 1 : ideal(x^2,x*y^2,y^4)
 
-p = 23, level = 1
+p = 23, level = 1*
 e = 1 : ideal(x^2,x*y^2,y^4)
 
-p = 29, level = 1
+p = 29, level = 1*
 e = 1 : ideal(x^2,x*y^2,y^4)
 
-p = 31, level = 1
+p = 31, level = 1*
 e = 1 : ideal(x^2,x*y^2,y^4)
 
-p = 37, level = 1
+p = 37, level = 1*
 e = 1 : ideal(x^2,x*y^2,y^4)
 
-p = 41, level = 1
+p = 41, level = 1*
 e = 1 : ideal(x^2,x*y^2,y^4)
 
-p = 43, level = 1
+p = 43, level = 1*
 e = 1 : ideal(x^2,x*y^2,y^4)
 
-p = 47, level = 1
+p = 47, level = 1*
 e = 1 : ideal(x^2,x*y^2,y^4)
 
-p = 53, level = 1
+p = 53, level = 1*
 e = 1 : ideal(x^2,x*y^2,y^4)
 
-p = 59, level = 1
+p = 59, level = 1*
 e = 1 : ideal(x^2,x*y^2,y^4)
 
-p = 61, level = 1
+p = 61, level = 1*
 e = 1 : ideal(x^2,x*y^2,y^4)
 
-p = 67, level = 1
+p = 67, level = 1*
 e = 1 : ideal(x^2,x*y^2,y^4)
 
-p = 71, level = 1
+p = 71, level = 1*
 e = 1 : ideal(x^2,x*y^2,y^4)
 
-p = 73, level = 1
+p = 73, level = 1*
 e = 1 : ideal(x^2,x*y^2,y^4)
 
-p = 79, level = 1
+p = 79, level = 1*
 e = 1 : ideal(x^2,x*y^2,y^4)
 
-p = 83, level = 1
+p = 83, level = 1*
 e = 1 : ideal(x^2,x*y^2,y^4)
 
-p = 89, level = 1
+p = 89, level = 1*
 e = 1 : ideal(x^2,x*y^2,y^4)
 
-p = 97, level = 1
+p = 97, level = 1*
 e = 1 : ideal(x^2,x*y^2,y^4)
 

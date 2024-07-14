@@ -32,6 +32,7 @@ for a from 3 to aMax do (
             level1 := 10;   -- Level of the singularity found an iteration ago
             emax := 10;     -- Max level of the Frobenius root computed
             consecSingL1 := false;  -- Set to true when two consecutive level 1 singularities are found
+            optimizationFlag := false;  -- 
         
             for p from 2 to 100 do (
                 -- Skip p's that are not prime
@@ -43,6 +44,10 @@ for a from 3 to aMax do (
                 g := x^a + y^b + x^c * y^d;     -- Deformation of x^a + y^b
                 print(concatenate("p = ", toString(p)));
                 -- Compute
+                if p >= 17 then (
+                    emax = 1;
+                    optimizationFlag = true;
+                );
                 print(concatenate("Computing for p = ", toString(p), ", e = ", toString(emax)));
                 out := eChainVerbose(g, emax);
                 -- Optimizations for the max level of the Frobenius root for the 
@@ -53,14 +58,22 @@ for a from 3 to aMax do (
                 emax = max(level1, level2);
                 -- Print to file 
                 file << "p = " << toString(p);
-                file << ", level = " << toString(levelMod) << endl;
+                file << ", level = " << toString(levelMod);
+                if optimizationFlag then (
+                    file << "*";
+                );
+                file << endl;
                 for i from 0 to (length out_1 - 1) do (
                     file << "e = " << toString(i + 1) << " : " << toString(out_1#i) << endl;
                 );
                 file << endl;
                 -- Print to fileLevel
                 fileLevel << "p = " << toString(p);
-                fileLevel << ", level = " << toString(levelMod) << endl;
+                fileLevel << ", level = " << toString(levelMod);
+                if optimizationFlag then (
+                    fileLevel << "*";
+                );
+                fileLevel << endl;
                 print("");
             );
 
