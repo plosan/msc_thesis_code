@@ -25,9 +25,10 @@ for a from 2 to aMax do (
             if isPrime(p) then (
                 print(concatenate("p = ", toString(p)));
                 R := GF(p)[x, y];
-                f := x^3 + y^7;
+                f := x^a + y^b;
                 out := eChainVerbose(f, 10);
-                -- Print to file 
+                -- Print to file
+                file << toString(f) << endl;
                 file << "p = " << toString(p);
                 file << ", level = " << toString(out_0) << endl;
                 for i from 0 to (length out_1 - 1) do (
