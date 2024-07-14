@@ -1,0 +1,43 @@
+p = 2, irred = true , level = 4
+e = 1, ideal(x,y^2)
+e = 2, ideal(x*y,x^2,y^3)
+e = 3, ideal(x*y,x^2,y^4)
+e = 4, ideal(x^2,x*y^2,y^4)
+
+p = 3, irred = true , level = 2
+e = 1, ideal(x*y,x^2,y^3)
+e = 2, ideal(x^2,x*y^2,y^4)
+
+p = 5, irred = true , level = 2
+e = 1, ideal(x*y,x^2,y^3)
+e = 2, ideal(x^2,x*y^2,y^4)
+
+p = 7, irred = true , level = 1
+e = 1, ideal(x*y,x^2,y^4)
+e = 2, ideal(x^2,x*y^2,y^4)
+
+p = 11, irred = true , level = 1
+e = 1, ideal(x*y,x^2,y^4)
+e = 2, ideal(x^2,x*y^2,y^4)
+
+p = 13, irred = true , level = 1
+e = 1, ideal(x^2,x*y^2,y^4)
+
+p = 17, irred = true , level = 1*
+e = 1, ideal(x^2,x*y^2,y^4)
+
+p = 19, irred = true , level = 1*
+e = 1, ideal(x^2,x*y^2,y^4)
+
+p = 23, irred = true , level = 1*
+e = 1, ideal(x^2,x*y^2,y^4)
+
+p = 29, irred = true , level = 1*
+e = 1, ideal(x^2,x*y^2,y^4)
+
+p = 31, irred = true , level = 1*
+e = 1, ideal(x^2,x*y^2,y^4)
+
+p = 37, irred = true , level = 1*
+e = 1, ideal(x^2,x*y^2,y^4)
+

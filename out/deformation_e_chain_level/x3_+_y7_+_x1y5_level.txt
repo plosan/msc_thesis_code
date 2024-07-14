@@ -1,0 +1,12 @@
+p = 2, irred = true , level = 4
+p = 3, irred = true , level = 2
+p = 5, irred = true , level = 2
+p = 7, irred = true , level = 1
+p = 11, irred = true , level = 1
+p = 13, irred = true , level = 1
+p = 17, irred = true , level = 1*
+p = 19, irred = true , level = 1*
+p = 23, irred = true , level = 1*
+p = 29, irred = true , level = 1*
+p = 31, irred = true , level = 1*
+p = 37, irred = true , level = 1*
