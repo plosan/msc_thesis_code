@@ -1,4 +1,4 @@
-load "chains.m2"
+load "Chains.m2"
 
 for p from 2 to 100 do (
     if isPrime(p) then (
