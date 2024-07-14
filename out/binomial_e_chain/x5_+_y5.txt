@@ -1,0 +1,77 @@
+p = 2, irred = false, level = 2
+e = 1, ideal(y^2,x^2)
+e = 2, ideal(y^3,x*y^2,x^2*y,x^3)
+
+p = 3, irred = false, level = 2
+e = 1, ideal(x*y,y^3,x^3)
+e = 2, ideal(y^3,x*y^2,x^2*y,x^3)
+
+p = 5, irred = false, level = 1
+e = 1, ideal(x^4-x^3*y+x^2*y^2-x*y^3+y^4)
+
+p = 7, irred = false, level = 1
+e = 1, ideal(y^3,x*y^2,x^2*y,x^3)
+
+p = 11, irred = false, level = 1
+e = 1, ideal(y^3,x*y^2,x^2*y,x^3)
+
+p = 13, irred = false, level = 1
+e = 1, ideal(y^3,x*y^2,x^2*y,x^3)
+
+p = 17, irred = false, level = 1
+e = 1, ideal(y^3,x*y^2,x^2*y,x^3)
+
+p = 19, irred = false, level = 1
+e = 1, ideal(y^3,x*y^2,x^2*y,x^3)
+
+p = 23, irred = false, level = 1
+e = 1, ideal(y^3,x*y^2,x^2*y,x^3)
+
+p = 29, irred = false, level = 1
+e = 1, ideal(y^3,x*y^2,x^2*y,x^3)
+
+p = 31, irred = false, level = 1
+e = 1, ideal(y^3,x*y^2,x^2*y,x^3)
+
+p = 37, irred = false, level = 1
+e = 1, ideal(y^3,x*y^2,x^2*y,x^3)
+
+p = 41, irred = false, level = 1
+e = 1, ideal(y^3,x*y^2,x^2*y,x^3)
+
+p = 43, irred = false, level = 1
+e = 1, ideal(y^3,x*y^2,x^2*y,x^3)
+
+p = 47, irred = false, level = 1
+e = 1, ideal(y^3,x*y^2,x^2*y,x^3)
+
+p = 53, irred = false, level = 1
+e = 1, ideal(y^3,x*y^2,x^2*y,x^3)
+
+p = 59, irred = false, level = 1
+e = 1, ideal(y^3,x*y^2,x^2*y,x^3)
+
+p = 61, irred = false, level = 1
+e = 1, ideal(y^3,x*y^2,x^2*y,x^3)
+
+p = 67, irred = false, level = 1
+e = 1, ideal(y^3,x*y^2,x^2*y,x^3)
+
+p = 71, irred = false, level = 1
+e = 1, ideal(y^3,x*y^2,x^2*y,x^3)
+
+p = 73, irred = false, level = 1
+e = 1, ideal(y^3,x*y^2,x^2*y,x^3)
+
+p = 79, irred = false, level = 1
+e = 1, ideal(y^3,x*y^2,x^2*y,x^3)
+
+p = 83, irred = false, level = 1
+e = 1, ideal(y^3,x*y^2,x^2*y,x^3)
+
+p = 89, irred = false, level = 1
+e = 1, ideal(y^3,x*y^2,x^2*y,x^3)
+
+p = 97, irred = false, level = 1
+e = 1, ideal(y^3,x*y^2,x^2*y,x^3)
+

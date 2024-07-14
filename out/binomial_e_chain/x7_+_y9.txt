@@ -1,0 +1,87 @@
+p = 2, irred = true , level = 4
+e = 1, ideal(x^3,y^4)
+e = 2, ideal(x*y^4,x^3*y^2,x^5,y^6)
+e = 3, ideal(y^6,x*y^5,x^2*y^4,x^3*y^3,x^4*y^2,x^5*y,x^6)
+e = 4, ideal(x^3*y^3,x^4*y^2,x^5*y,x^6,y^7,x*y^6,x^2*y^5)
+
+p = 3, irred = true , level = 2
+e = 1, ideal(x^4,x^2*y^3,y^6)
+e = 2, ideal(x^3*y^3,x^4*y^2,x^5*y,x^6,y^7,x*y^6,x^2*y^5)
+
+p = 5, irred = true , level = 2
+e = 1, ideal(x^2*y^3,x^4*y,x^5,x*y^5,y^7)
+e = 2, ideal(x^3*y^3,x^4*y^2,x^5*y,x^6,y^7,x*y^6,x^2*y^5)
+
+p = 7, irred = true , level = 1
+e = 1, ideal(x^3*y^3,x^4*y^2,x^5*y,x^6,y^7,x*y^6,x^2*y^5)
+
+p = 11, irred = true , level = 2
+e = 1, ideal(x^5,x*y^5,x^2*y^4,x^3*y^3,x^4*y^2,y^7)
+e = 2, ideal(x^3*y^3,x^4*y^2,x^5*y,x^6,y^7,x*y^6,x^2*y^5)
+
+p = 13, irred = true , level = 2
+e = 1, ideal(x^5,x^2*y^4,x^3*y^3,x^4*y^2,y^7,x*y^6)
+e = 2, ideal(x^3*y^3,x^4*y^2,x^5*y,x^6,y^7,x*y^6,x^2*y^5)
+
+p = 17, irred = true , level = 2
+e = 1, ideal(x^2*y^4,x^3*y^3,x^4*y^2,x^5*y,x^6,y^7,x*y^6)
+e = 2, ideal(x^3*y^3,x^4*y^2,x^5*y,x^6,y^7,x*y^6,x^2*y^5)
+
+p = 19, irred = true , level = 2
+e = 1, ideal(x^5,x^2*y^4,x^3*y^3,x^4*y^2,y^7,x*y^6)
+e = 2, ideal(x^3*y^3,x^4*y^2,x^5*y,x^6,y^7,x*y^6,x^2*y^5)
+
+p = 23, irred = true , level = 1
+e = 1, ideal(x^3*y^3,x^4*y^2,x^5*y,x^6,y^7,x*y^6,x^2*y^5)
+
+p = 29, irred = true , level = 2
+e = 1, ideal(x^2*y^4,x^3*y^3,x^4*y^2,x^5*y,x^6,y^7,x*y^6)
+e = 2, ideal(x^3*y^3,x^4*y^2,x^5*y,x^6,y^7,x*y^6,x^2*y^5)
+
+p = 31, irred = true , level = 2
+e = 1, ideal(x^2*y^4,x^3*y^3,x^4*y^2,x^5*y,x^6,y^7,x*y^6)
+e = 2, ideal(x^3*y^3,x^4*y^2,x^5*y,x^6,y^7,x*y^6,x^2*y^5)
+
+p = 37, irred = true , level = 1
+e = 1, ideal(x^3*y^3,x^4*y^2,x^5*y,x^6,y^7,x*y^6,x^2*y^5)
+
+p = 41, irred = true , level = 1
+e = 1, ideal(x^3*y^3,x^4*y^2,x^5*y,x^6,y^7,x*y^6,x^2*y^5)
+
+p = 43, irred = true , level = 1
+e = 1, ideal(x^3*y^3,x^4*y^2,x^5*y,x^6,y^7,x*y^6,x^2*y^5)
+
+p = 47, irred = true , level = 2
+e = 1, ideal(x^2*y^4,x^3*y^3,x^4*y^2,x^5*y,x^6,y^7,x*y^6)
+e = 2, ideal(x^3*y^3,x^4*y^2,x^5*y,x^6,y^7,x*y^6,x^2*y^5)
+
+p = 53, irred = true , level = 1
+e = 1, ideal(x^3*y^3,x^4*y^2,x^5*y,x^6,y^7,x*y^6,x^2*y^5)
+
+p = 59, irred = true , level = 1
+e = 1, ideal(x^3*y^3,x^4*y^2,x^5*y,x^6,y^7,x*y^6,x^2*y^5)
+
+p = 61, irred = true , level = 1
+e = 1, ideal(x^3*y^3,x^4*y^2,x^5*y,x^6,y^7,x*y^6,x^2*y^5)
+
+p = 67, irred = true , level = 1
+e = 1, ideal(x^3*y^3,x^4*y^2,x^5*y,x^6,y^7,x*y^6,x^2*y^5)
+
+p = 71, irred = true , level = 1
+e = 1, ideal(x^3*y^3,x^4*y^2,x^5*y,x^6,y^7,x*y^6,x^2*y^5)
+
+p = 73, irred = true , level = 1
+e = 1, ideal(x^3*y^3,x^4*y^2,x^5*y,x^6,y^7,x*y^6,x^2*y^5)
+
+p = 79, irred = true , level = 1
+e = 1, ideal(x^3*y^3,x^4*y^2,x^5*y,x^6,y^7,x*y^6,x^2*y^5)
+
+p = 83, irred = true , level = 1
+e = 1, ideal(x^3*y^3,x^4*y^2,x^5*y,x^6,y^7,x*y^6,x^2*y^5)
+
+p = 89, irred = true , level = 1
+e = 1, ideal(x^3*y^3,x^4*y^2,x^5*y,x^6,y^7,x*y^6,x^2*y^5)
+
+p = 97, irred = true , level = 1
+e = 1, ideal(x^3*y^3,x^4*y^2,x^5*y,x^6,y^7,x*y^6,x^2*y^5)
+

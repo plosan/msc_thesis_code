@@ -1,0 +1,76 @@
+p = 2, irred = false, level = 1
+e = 1, ideal(y^4+x)
+
+p = 3, irred = true , level = 2
+e = 1, ideal(x,y^2)
+e = 2, ideal(x,y^3)
+
+p = 5, irred = false, level = 1
+e = 1, ideal(x,y^3)
+
+p = 7, irred = true , level = 1
+e = 1, ideal(x,y^3)
+
+p = 11, irred = true , level = 1
+e = 1, ideal(x,y^3)
+
+p = 13, irred = false, level = 1
+e = 1, ideal(x,y^3)
+
+p = 17, irred = false, level = 1
+e = 1, ideal(x,y^3)
+
+p = 19, irred = true , level = 1
+e = 1, ideal(x,y^3)
+
+p = 23, irred = true , level = 1
+e = 1, ideal(x,y^3)
+
+p = 29, irred = false, level = 1
+e = 1, ideal(x,y^3)
+
+p = 31, irred = true , level = 1
+e = 1, ideal(x,y^3)
+
+p = 37, irred = false, level = 1
+e = 1, ideal(x,y^3)
+
+p = 41, irred = false, level = 1
+e = 1, ideal(x,y^3)
+
+p = 43, irred = true , level = 1
+e = 1, ideal(x,y^3)
+
+p = 47, irred = true , level = 1
+e = 1, ideal(x,y^3)
+
+p = 53, irred = false, level = 1
+e = 1, ideal(x,y^3)
+
+p = 59, irred = true , level = 1
+e = 1, ideal(x,y^3)
+
+p = 61, irred = false, level = 1
+e = 1, ideal(x,y^3)
+
+p = 67, irred = true , level = 1
+e = 1, ideal(x,y^3)
+
+p = 71, irred = true , level = 1
+e = 1, ideal(x,y^3)
+
+p = 73, irred = false, level = 1
+e = 1, ideal(x,y^3)
+
+p = 79, irred = true , level = 1
+e = 1, ideal(x,y^3)
+
+p = 83, irred = true , level = 1
+e = 1, ideal(x,y^3)
+
+p = 89, irred = false, level = 1
+e = 1, ideal(x,y^3)
+
+p = 97, irred = false, level = 1
+e = 1, ideal(x,y^3)
+
