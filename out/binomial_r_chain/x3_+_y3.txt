@@ -1,0 +1,124 @@
+p = 2, irred = false
+nu-inv = {1}
+[1, 1] : ideal(y,x)
+
+p = 3, irred = false
+nu-inv = {1, 2}
+[1, 1] : ideal(x+y)
+[2, 2] : ideal(x^2-x*y+y^2)
+
+p = 5, irred = false
+nu-inv = {2, 4}
+[1, 2] : ideal 1
+[3, 4] : ideal(y,x)
+
+p = 7, irred = false
+nu-inv = {4, 6}
+[1, 4] : ideal 1
+[5, 6] : ideal(y,x)
+
+p = 11, irred = false
+nu-inv = {6, 10}
+[1, 6] : ideal 1
+[7, 10] : ideal(y,x)
+
+p = 13, irred = false
+nu-inv = {8, 12}
+[1, 8] : ideal 1
+[9, 12] : ideal(y,x)
+
+p = 17, irred = false
+nu-inv = {10, 16}
+[1, 10] : ideal 1
+[11, 16] : ideal(y,x)
+
+p = 19, irred = false
+nu-inv = {12, 18}
+[1, 12] : ideal 1
+[13, 18] : ideal(y,x)
+
+p = 23, irred = false
+nu-inv = {14, 22}
+[1, 14] : ideal 1
+[15, 22] : ideal(y,x)
+
+p = 29, irred = false
+nu-inv = {18, 28}
+[1, 18] : ideal 1
+[19, 28] : ideal(y,x)
+
+p = 31, irred = false
+nu-inv = {20, 30}
+[1, 20] : ideal 1
+[21, 30] : ideal(y,x)
+
+p = 37, irred = false
+nu-inv = {24, 36}
+[1, 24] : ideal 1
+[25, 36] : ideal(y,x)
+
+p = 41, irred = false
+nu-inv = {26, 40}
+[1, 26] : ideal 1
+[27, 40] : ideal(y,x)
+
+p = 43, irred = false
+nu-inv = {28, 42}
+[1, 28] : ideal 1
+[29, 42] : ideal(y,x)
+
+p = 47, irred = false
+nu-inv = {30, 46}
+[1, 30] : ideal 1
+[31, 46] : ideal(y,x)
+
+p = 53, irred = false
+nu-inv = {34, 52}
+[1, 34] : ideal 1
+[35, 52] : ideal(y,x)
+
+p = 59, irred = false
+nu-inv = {38, 58}
+[1, 38] : ideal 1
+[39, 58] : ideal(y,x)
+
+p = 61, irred = false
+nu-inv = {40, 60}
+[1, 40] : ideal 1
+[41, 60] : ideal(y,x)
+
+p = 67, irred = false
+nu-inv = {44, 66}
+[1, 44] : ideal 1
+[45, 66] : ideal(y,x)
+
+p = 71, irred = false
+nu-inv = {46, 70}
+[1, 46] : ideal 1
+[47, 70] : ideal(y,x)
+
+p = 73, irred = false
+nu-inv = {48, 72}
+[1, 48] : ideal 1
+[49, 72] : ideal(y,x)
+
+p = 79, irred = false
+nu-inv = {52, 78}
+[1, 52] : ideal 1
+[53, 78] : ideal(y,x)
+
+p = 83, irred = false
+nu-inv = {54, 82}
+[1, 54] : ideal 1
+[55, 82] : ideal(y,x)
+
+p = 89, irred = false
+nu-inv = {58, 88}
+[1, 58] : ideal 1
+[59, 88] : ideal(y,x)
+
+p = 97, irred = false
+nu-inv = {64, 96}
+[1, 64] : ideal 1
+[65, 96] : ideal(y,x)
+
