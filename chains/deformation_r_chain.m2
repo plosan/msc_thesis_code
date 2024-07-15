@@ -5,7 +5,7 @@ aMax = 10;  -- Max exponent of x^a
 bMax = 10;  -- Max exponent of x^b
 pMax = 100; -- Upper bound for the characteristic; yes, I know 100 is not prime :)
 
-for a from 3 to aMax do (
+for a from 8 to aMax do (
     for b from a to bMax do (
         -- Compute the monomials that give a constant Milnor number deformation
         -- of x^a + y^b. If there is no such monomial, skip to the next polynomial
@@ -22,7 +22,7 @@ for a from 3 to aMax do (
             -- Filenames for output
             polyName := concatenate("x", toString(a), "_+_y", toString(b), "_+_x", toString(c), "y", toString(d));
             file := concatenate("../out/deformation_r_chain/", polyName, ".txt");
-            fileNuInv := concatenate("../out/deformation_r_chain_nu_invariant/", polyName, "_level.txt");
+            fileNuInv := concatenate("../out/deformation_r_chain_nu_invariant/", polyName, "_nu_invariants.txt");
             -- Computations
             e := 1;
         
