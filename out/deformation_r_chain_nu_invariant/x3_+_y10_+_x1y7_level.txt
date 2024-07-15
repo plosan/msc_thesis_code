@@ -1,0 +1,25 @@
+p = 2, irred = true , nu-inv = {1}
+p = 3, irred = true , nu-inv = {1, 2}
+p = 5, irred = true , nu-inv = {1, 2, 3, 4}
+p = 7, irred = true , nu-inv = {2, 3, 4, 5, 6}
+p = 11, irred = true , nu-inv = {4, 5, 6, 7, 8, 9, 10}
+p = 13, irred = true , nu-inv = {5, 6, 7, 9, 10, 11, 12}
+p = 17, irred = true , nu-inv = {6, 8, 10, 12, 13, 14, 15, 16}
+p = 19, irred = true , nu-inv = {7, 9, 11, 13, 14, 15, 16, 17, 18}
+p = 23, irred = true , nu-inv = {9, 11, 14, 16, 17, 18, 19, 21, 22}
+p = 29, irred = true , nu-inv = {12, 15, 17, 20, 21, 23, 24, 26, 27, 28}
+p = 31, irred = true , nu-inv = {13, 16, 19, 22, 23, 25, 26, 28, 29, 30}
+p = 37, irred = true , nu-inv = {15, 19, 23, 26, 27, 30, 31, 34, 35, 36}
+p = 41, irred = true , nu-inv = {17, 21, 25, 29, 31, 33, 35, 37, 39, 40}
+p = 43, irred = true , nu-inv = {18, 22, 26, 31, 32, 35, 36, 39, 41, 42}
+p = 47, irred = true , nu-inv = {19, 24, 29, 34, 35, 38, 40, 43, 45, 46}
+p = 53, irred = true , nu-inv = {22, 27, 33, 38, 40, 43, 45, 49, 50, 52}
+p = 59, irred = true , nu-inv = {25, 31, 36, 42, 44, 48, 50, 54, 56, 58}
+p = 61, irred = true , nu-inv = {26, 32, 38, 44, 46, 50, 52, 56, 58, 60}
+p = 67, irred = true , nu-inv = {28, 35, 42, 48, 50, 55, 57, 62, 64, 66}
+p = 71, irred = true , nu-inv = {30, 37, 44, 51, 54, 58, 61, 65, 68, 70}
+p = 73, irred = true , nu-inv = {31, 38, 45, 53, 55, 60, 62, 67, 70, 72}
+p = 79, irred = true , nu-inv = {33, 41, 49, 57, 60, 65, 68, 73, 75, 78}
+p = 83, irred = true , nu-inv = {35, 43, 52, 60, 63, 68, 71, 77, 79, 82}
+p = 89, irred = true , nu-inv = {38, 47, 55, 64, 67, 73, 76, 82, 85, 88}
+p = 97, irred = true , nu-inv = {41, 51, 61, 70, 73, 80, 83, 90, 93, 96}
