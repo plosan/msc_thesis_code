@@ -1,0 +1,26 @@
+char,cong,irred,nu-invariants,ideals
+2,2,False,1,ideal(x+y)
+3,-1,True,2,ideal 1
+5,1,False,4,ideal 1
+7,-1,True,6,ideal 1
+11,-1,True,10,ideal 1
+13,1,False,12,ideal 1
+17,1,False,16,ideal 1
+19,-1,True,18,ideal 1
+23,-1,True,22,ideal 1
+29,1,False,28,ideal 1
+31,-1,True,30,ideal 1
+37,1,False,36,ideal 1
+41,1,False,40,ideal 1
+43,-1,True,42,ideal 1
+47,-1,True,46,ideal 1
+53,1,False,52,ideal 1
+59,-1,True,58,ideal 1
+61,1,False,60,ideal 1
+67,-1,True,66,ideal 1
+71,-1,True,70,ideal 1
+73,1,False,72,ideal 1
+79,-1,True,78,ideal 1
+83,-1,True,82,ideal 1
+89,1,False,88,ideal 1
+97,1,False,96,ideal 1
