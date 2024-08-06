@@ -6,7 +6,7 @@ bMax = 15;  -- Max exponent of x^b
 pMax = 200; -- Upper bound for the characteristic; yes, I know 100 is not prime :)
 
 for a from 2 to aMax do (
-    for b from 2 to bMax do (
+    for b from a to bMax do (
         -- Filenames for output
         ab := a * b;
         polyName := concatenate("x", toString(a), "_+_y", toString(b));
@@ -35,7 +35,7 @@ for a from 2 to aMax do (
             out := rChainVerbose(f, e);
             nuInv := out_0;
             fRoots := out_1;
-            
+
             -- Print to file
             fileAppend = openOutAppend(file);
             fileAppend << "p = " << toString(p) << endl;
