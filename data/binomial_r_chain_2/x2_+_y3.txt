@@ -1,0 +1,265 @@
+
+ = 5
+irred = true
+nu-inv = {3, 4}
+[1, 3] : ideal 1
+[4, 4] : ideal(y,x)
+
+p = 7
+irred = true
+nu-inv = {5, 6}
+[1, 5] : ideal 1
+[6, 6] : ideal(y,x)
+
+p = 11
+irred = true
+nu-inv = {8, 10}
+[1, 8] : ideal 1
+[9, 10] : ideal(y,x)
+
+p = 13
+irred = true
+nu-inv = {10, 12}
+[1, 10] : ideal 1
+[11, 12] : ideal(y,x)
+
+p = 17
+irred = true
+nu-inv = {13, 16}
+[1, 13] : ideal 1
+[14, 16] : ideal(y,x)
+
+p = 19
+irred = true
+nu-inv = {15, 18}
+[1, 15] : ideal 1
+[16, 18] : ideal(y,x)
+
+p = 23
+irred = true
+nu-inv = {18, 22}
+[1, 18] : ideal 1
+[19, 22] : ideal(y,x)
+
+p = 29
+irred = true
+nu-inv = {23, 28}
+[1, 23] : ideal 1
+[24, 28] : ideal(y,x)
+
+p = 31
+irred = true
+nu-inv = {25, 30}
+[1, 25] : ideal 1
+[26, 30] : ideal(y,x)
+
+p = 37
+irred = true
+nu-inv = {30, 36}
+[1, 30] : ideal 1
+[31, 36] : ideal(y,x)
+
+p = 41
+irred = true
+nu-inv = {33, 40}
+[1, 33] : ideal 1
+[34, 40] : ideal(y,x)
+
+p = 43
+irred = true
+nu-inv = {35, 42}
+[1, 35] : ideal 1
+[36, 42] : ideal(y,x)
+
+p = 47
+irred = true
+nu-inv = {38, 46}
+[1, 38] : ideal 1
+[39, 46] : ideal(y,x)
+
+p = 53
+irred = true
+nu-inv = {43, 52}
+[1, 43] : ideal 1
+[44, 52] : ideal(y,x)
+
+p = 59
+irred = true
+nu-inv = {48, 58}
+[1, 48] : ideal 1
+[49, 58] : ideal(y,x)
+
+p = 61
+irred = true
+nu-inv = {50, 60}
+[1, 50] : ideal 1
+[51, 60] : ideal(y,x)
+
+p = 67
+irred = true
+nu-inv = {55, 66}
+[1, 55] : ideal 1
+[56, 66] : ideal(y,x)
+
+p = 71
+irred = true
+nu-inv = {58, 70}
+[1, 58] : ideal 1
+[59, 70] : ideal(y,x)
+
+p = 73
+irred = true
+nu-inv = {60, 72}
+[1, 60] : ideal 1
+[61, 72] : ideal(y,x)
+
+p = 79
+irred = true
+nu-inv = {65, 78}
+[1, 65] : ideal 1
+[66, 78] : ideal(y,x)
+
+p = 83
+irred = true
+nu-inv = {68, 82}
+[1, 68] : ideal 1
+[69, 82] : ideal(y,x)
+
+p = 89
+irred = true
+nu-inv = {73, 88}
+[1, 73] : ideal 1
+[74, 88] : ideal(y,x)
+
+p = 97
+irred = true
+nu-inv = {80, 96}
+[1, 80] : ideal 1
+[81, 96] : ideal(y,x)
+
+p = 101
+irred = true
+nu-inv = {83, 100}
+[1, 83] : ideal 1
+[84, 100] : ideal(y,x)
+
+p = 103
+irred = true
+nu-inv = {85, 102}
+[1, 85] : ideal 1
+[86, 102] : ideal(y,x)
+
+p = 107
+irred = true
+nu-inv = {88, 106}
+[1, 88] : ideal 1
+[89, 106] : ideal(y,x)
+
+p = 109
+irred = true
+nu-inv = {90, 108}
+[1, 90] : ideal 1
+[91, 108] : ideal(y,x)
+
+p = 113
+irred = true
+nu-inv = {93, 112}
+[1, 93] : ideal 1
+[94, 112] : ideal(y,x)
+
+p = 127
+irred = true
+nu-inv = {105, 126}
+[1, 105] : ideal 1
+[106, 126] : ideal(y,x)
+
+p = 131
+irred = true
+nu-inv = {108, 130}
+[1, 108] : ideal 1
+[109, 130] : ideal(y,x)
+
+p = 137
+irred = true
+nu-inv = {113, 136}
+[1, 113] : ideal 1
+[114, 136] : ideal(y,x)
+
+p = 139
+irred = true
+nu-inv = {115, 138}
+[1, 115] : ideal 1
+[116, 138] : ideal(y,x)
+
+p = 149
+irred = true
+nu-inv = {123, 148}
+[1, 123] : ideal 1
+[124, 148] : ideal(y,x)
+
+p = 151
+irred = true
+nu-inv = {125, 150}
+[1, 125] : ideal 1
+[126, 150] : ideal(y,x)
+
+p = 157
+irred = true
+nu-inv = {130, 156}
+[1, 130] : ideal 1
+[131, 156] : ideal(y,x)
+
+p = 163
+irred = true
+nu-inv = {135, 162}
+[1, 135] : ideal 1
+[136, 162] : ideal(y,x)
+
+p = 167
+irred = true
+nu-inv = {138, 166}
+[1, 138] : ideal 1
+[139, 166] : ideal(y,x)
+
+p = 173
+irred = true
+nu-inv = {143, 172}
+[1, 143] : ideal 1
+[144, 172] : ideal(y,x)
+
+p = 179
+irred = true
+nu-inv = {148, 178}
+[1, 148] : ideal 1
+[149, 178] : ideal(y,x)
+
+p = 181
+irred = true
+nu-inv = {150, 180}
+[1, 150] : ideal 1
+[151, 180] : ideal(y,x)
+
+p = 191
+irred = true
+nu-inv = {158, 190}
+[1, 158] : ideal 1
+[159, 190] : ideal(y,x)
+
+p = 193
+irred = true
+nu-inv = {160, 192}
+[1, 160] : ideal 1
+[161, 192] : ideal(y,x)
+
+p = 197
+irred = true
+nu-inv = {163, 196}
+[1, 163] : ideal 1
+[164, 196] : ideal(y,x)
+
+p = 199
+irred = true
+nu-inv = {165, 198}
+[1, 165] : ideal 1
+[166, 198] : ideal(y,x)
+

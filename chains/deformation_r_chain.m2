@@ -5,7 +5,7 @@ aMax = 15;  -- Max exponent of x^a
 bMax = 15;  -- Max exponent of x^b
 pMax = 200; -- Upper bound for the characteristic; yes, I know 100 is not prime :)
 
-for a from 2 to aMax do (
+for a from 5 to aMax do (
     for b from a to bMax do (
         -- Compute the monomials that give a constant Milnor number deformation
         -- of x^a + y^b. If there is no such monomial, skip to the next polynomial

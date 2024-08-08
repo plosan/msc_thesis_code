@@ -1,0 +1,88 @@
+p = 23
+irred = true
+nu-inv = {9, 12, 14, 16, 18, 20, 22}
+[1, 9] : ideal 1
+[10, 12] : ideal(y,x)
+[13, 14] : ideal(x,y^2)
+[15, 16] : ideal(y^2,x*y,x^2)
+[17, 18] : ideal(x*y,x^2,y^3)
+[19, 20] : ideal(x^2,y^3,x*y^2)
+[21, 22] : ideal(x*y^2,x^2*y,x^3,y^4)
+
+p = 47
+irred = true
+nu-inv = {19, 26, 30, 34, 38, 42, 46}
+[1, 19] : ideal 1
+[20, 26] : ideal(y,x)
+[27, 30] : ideal(x,y^2)
+[31, 34] : ideal(y^2,x*y,x^2)
+[35, 38] : ideal(x*y,x^2,y^3)
+[39, 42] : ideal(x^2,y^3,x*y^2)
+[43, 46] : ideal(x*y^2,x^2*y,x^3,y^4)
+
+p = 71
+irred = true
+nu-inv = {29, 40, 46, 52, 58, 64, 70}
+[1, 29] : ideal 1
+[30, 40] : ideal(y,x)
+[41, 46] : ideal(x,y^2)
+[47, 52] : ideal(y^2,x*y,x^2)
+[53, 58] : ideal(x*y,x^2,y^3)
+[59, 64] : ideal(x^2,y^3,x*y^2)
+[65, 70] : ideal(x*y^2,x^2*y,x^3,y^4)
+
+p = 73
+irred = true
+nu-inv = {30, 42, 48, 54, 60, 66, 72}
+[1, 30] : ideal 1
+[31, 42] : ideal(y,x)
+[43, 48] : ideal(x,y^2)
+[49, 54] : ideal(y^2,x*y,x^2)
+[55, 60] : ideal(x*y,x^2,y^3)
+[61, 66] : ideal(x^2,y^3,x*y^2)
+[67, 72] : ideal(x*y^2,x^2*y,x^3,y^4)
+
+p = 97
+irred = true
+nu-inv = {40, 56, 64, 72, 80, 88, 96}
+[1, 40] : ideal 1
+[41, 56] : ideal(y,x)
+[57, 64] : ideal(x,y^2)
+[65, 72] : ideal(y^2,x*y,x^2)
+[73, 80] : ideal(x*y,x^2,y^3)
+[81, 88] : ideal(x^2,y^3,x*y^2)
+[89, 96] : ideal(x*y^2,x^2*y,x^3,y^4)
+
+p = 167
+irred = true
+nu-inv = {69, 96, 110, 124, 138, 152, 166}
+[1, 69] : ideal 1
+[70, 96] : ideal(y,x)
+[97, 110] : ideal(x,y^2)
+[111, 124] : ideal(y^2,x*y,x^2)
+[125, 138] : ideal(x*y,x^2,y^3)
+[139, 152] : ideal(x^2,y^3,x*y^2)
+[153, 166] : ideal(x*y^2,x^2*y,x^3,y^4)
+
+p = 191
+irred = true
+nu-inv = {79, 110, 126, 142, 158, 174, 190}
+[1, 79] : ideal 1
+[80, 110] : ideal(y,x)
+[111, 126] : ideal(x,y^2)
+[127, 142] : ideal(y^2,x*y,x^2)
+[143, 158] : ideal(x*y,x^2,y^3)
+[159, 174] : ideal(x^2,y^3,x*y^2)
+[175, 190] : ideal(x*y^2,x^2*y,x^3,y^4)
+
+p = 193
+irred = true
+nu-inv = {80, 112, 128, 144, 160, 176, 192}
+[1, 80] : ideal 1
+[81, 112] : ideal(y,x)
+[113, 128] : ideal(x,y^2)
+[129, 144] : ideal(y^2,x*y,x^2)
+[145, 160] : ideal(x*y,x^2,y^3)
+[161, 176] : ideal(x^2,y^3,x*y^2)
+[177, 192] : ideal(x*y^2,x^2*y,x^3,y^4)
+

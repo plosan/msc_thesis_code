@@ -1,0 +1,110 @@
+p = 19
+irred = true
+nu-inv = {8, 11, 12, 15, 16, 17, 18}
+[1, 8] : ideal 1
+[9, 11] : ideal(y,x)
+[12, 12] : ideal(x,y^2)
+[13, 15] : ideal(y^2,x*y,x^2)
+[16, 16] : ideal(x*y,x^2,y^3)
+[17, 17] : ideal(x^2,y^3,x*y^2)
+[18, 18] : ideal(y^3,x*y^2,x^2*y,x^3)
+
+p = 41
+irred = true
+nu-inv = {18, 26, 28, 34, 36, 38, 40}
+[1, 18] : ideal 1
+[19, 26] : ideal(y,x)
+[27, 28] : ideal(x,y^2)
+[29, 34] : ideal(y^2,x*y,x^2)
+[35, 36] : ideal(x*y,x^2,y^3)
+[37, 38] : ideal(x^2,y^3,x*y^2)
+[39, 40] : ideal(y^3,x*y^2,x^2*y,x^3)
+
+p = 59
+irred = true
+nu-inv = {26, 37, 40, 49, 52, 55, 58}
+[1, 26] : ideal 1
+[27, 37] : ideal(y,x)
+[38, 40] : ideal(x,y^2)
+[41, 49] : ideal(y^2,x*y,x^2)
+[50, 52] : ideal(x*y,x^2,y^3)
+[53, 55] : ideal(x^2,y^3,x*y^2)
+[56, 58] : ideal(y^3,x*y^2,x^2*y,x^3)
+
+p = 61
+irred = true
+nu-inv = {27, 39, 42, 51, 54, 57, 60}
+[1, 27] : ideal 1
+[28, 39] : ideal(y,x)
+[40, 42] : ideal(x,y^2)
+[43, 51] : ideal(y^2,x*y,x^2)
+[52, 54] : ideal(x*y,x^2,y^3)
+[55, 57] : ideal(x^2,y^3,x*y^2)
+[58, 60] : ideal(y^3,x*y^2,x^2*y,x^3)
+
+p = 79
+irred = true
+nu-inv = {35, 50, 54, 66, 70, 74, 78}
+[1, 35] : ideal 1
+[36, 50] : ideal(y,x)
+[51, 54] : ideal(x,y^2)
+[55, 66] : ideal(y^2,x*y,x^2)
+[67, 70] : ideal(x*y,x^2,y^3)
+[71, 74] : ideal(x^2,y^3,x*y^2)
+[75, 78] : ideal(y^3,x*y^2,x^2*y,x^3)
+
+p = 101
+irred = true
+nu-inv = {45, 65, 70, 85, 90, 95, 100}
+[1, 45] : ideal 1
+[46, 65] : ideal(y,x)
+[66, 70] : ideal(x,y^2)
+[71, 85] : ideal(y^2,x*y,x^2)
+[86, 90] : ideal(x*y,x^2,y^3)
+[91, 95] : ideal(x^2,y^3,x*y^2)
+[96, 100] : ideal(y^3,x*y^2,x^2*y,x^3)
+
+p = 139
+irred = true
+nu-inv = {62, 89, 96, 117, 124, 131, 138}
+[1, 62] : ideal 1
+[63, 89] : ideal(y,x)
+[90, 96] : ideal(x,y^2)
+[97, 117] : ideal(y^2,x*y,x^2)
+[118, 124] : ideal(x*y,x^2,y^3)
+[125, 131] : ideal(x^2,y^3,x*y^2)
+[132, 138] : ideal(y^3,x*y^2,x^2*y,x^3)
+
+p = 179
+irred = true
+nu-inv = {80, 115, 124, 151, 160, 169, 178}
+[1, 80] : ideal 1
+[81, 115] : ideal(y,x)
+[116, 124] : ideal(x,y^2)
+[125, 151] : ideal(y^2,x*y,x^2)
+[152, 160] : ideal(x*y,x^2,y^3)
+[161, 169] : ideal(x^2,y^3,x*y^2)
+[170, 178] : ideal(y^3,x*y^2,x^2*y,x^3)
+
+p = 181
+irred = true
+nu-inv = {81, 117, 126, 153, 162, 171, 180}
+[1, 81] : ideal 1
+[82, 117] : ideal(y,x)
+[118, 126] : ideal(x,y^2)
+[127, 153] : ideal(y^2,x*y,x^2)
+[154, 162] : ideal(x*y,x^2,y^3)
+[163, 171] : ideal(x^2,y^3,x*y^2)
+[172, 180] : ideal(y^3,x*y^2,x^2*y,x^3)
+
+p = 199
+irred = true
+nu-inv = {89, 128, 138, 168, 178, 188, 198}
+[1, 89] : ideal 1
+[90, 128] : ideal(y,x)
+[129, 138] : ideal(x,y^2)
+[139, 168] : ideal(y^2,x*y,x^2)
+[169, 178] : ideal(x*y,x^2,y^3)
+[179, 188] : ideal(x^2,y^3,x*y^2)
+[189, 198] : ideal(y^3,x*y^2,x^2*y,x^3)
+

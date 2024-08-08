@@ -1,0 +1,64 @@
+
+ = 17
+irred = false
+nu-inv = {8, 12, 16}
+[1, 8] : ideal 1
+[9, 12] : ideal(y,x)
+[13, 16] : ideal(y^2,x*y,x^2)
+
+p = 31
+irred = false
+nu-inv = {14, 22, 30}
+[1, 14] : ideal 1
+[15, 22] : ideal(y,x)
+[23, 30] : ideal(y^2,x*y,x^2)
+
+p = 47
+irred = false
+nu-inv = {22, 34, 46}
+[1, 22] : ideal 1
+[23, 34] : ideal(y,x)
+[35, 46] : ideal(y^2,x*y,x^2)
+
+p = 79
+irred = false
+nu-inv = {38, 58, 78}
+[1, 38] : ideal 1
+[39, 58] : ideal(y,x)
+[59, 78] : ideal(y^2,x*y,x^2)
+
+p = 97
+irred = false
+nu-inv = {48, 72, 96}
+[1, 48] : ideal 1
+[49, 72] : ideal(y,x)
+[73, 96] : ideal(y^2,x*y,x^2)
+
+p = 113
+irred = false
+nu-inv = {56, 84, 112}
+[1, 56] : ideal 1
+[57, 84] : ideal(y,x)
+[85, 112] : ideal(y^2,x*y,x^2)
+
+p = 127
+irred = false
+nu-inv = {62, 94, 126}
+[1, 62] : ideal 1
+[63, 94] : ideal(y,x)
+[95, 126] : ideal(y^2,x*y,x^2)
+
+p = 191
+irred = false
+nu-inv = {94, 142, 190}
+[1, 94] : ideal 1
+[95, 142] : ideal(y,x)
+[143, 190] : ideal(y^2,x*y,x^2)
+
+p = 193
+irred = false
+nu-inv = {96, 144, 192}
+[1, 96] : ideal 1
+[97, 144] : ideal(y,x)
+[145, 192] : ideal(y^2,x*y,x^2)
+
