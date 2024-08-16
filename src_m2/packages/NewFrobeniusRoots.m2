@@ -16,6 +16,7 @@ basisExpression(RingElement, ZZ) := (f, e) -> (
     -- Warning: only works for polynomial rings R = Fp[x1, ..., xn].
 
     R := ring(f);
+    print("here");
     if not instance(R, PolynomialRing) then (
         print("Error: ring must be a polynomial ring");
         return;
@@ -36,7 +37,6 @@ basisExpression(RingElement, ZZ) := (f, e) -> (
     monList = (entries(monList))_0;
     coefList = entries(coefList)_0;
     monCount := length(monList);
-
     -- Basis expression of f
     basisExpression := 0 * toList(0..q^N-1);
     basisExpression = new MutableList from basisExpression;
@@ -63,7 +63,7 @@ basisExpression(RingElement, ZZ) := (f, e) -> (
         basisExpression#basisElementId = basisExpression#basisElementId + coefficientMonomial;
     );
     -- Remove zeros and repeated elements from the basis expression
-    basisExpression = set(toList((select(basisExpression, nonzero))))
+    basisExpression = set(toList((select(basisExpression, nonzero))));
     return basisExpression;
 );
 
