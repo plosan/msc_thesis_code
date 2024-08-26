@@ -1,0 +1,4506 @@
+specialized_2_4_p83.txt
+p = 83
+f = y^7+x^4
+g = y^7+x^4
+t1 = 0, t2 = 0
+irred = true
+nu-inv = {31, 43, 52, 55, 64, 67, 73, 76, 79, 82}
+[1, 31] : ideal 1
+[32, 43] : ideal(y,x)
+[44, 52] : ideal(x,y^2)
+[53, 55] : ideal(y^2,x*y,x^2)
+[56, 64] : ideal(x*y,x^2,y^3)
+[65, 67] : ideal(x^2,y^3,x*y^2)
+[68, 73] : ideal(x^2,x*y^2,y^4)
+[74, 76] : ideal(x*y^2,x^2*y,x^3,y^4)
+[77, 79] : ideal(x^2*y,x^3,y^4,x*y^3)
+[80, 82] : ideal(x^2*y,x^3,x*y^3,y^5)
+
+p = 83
+f = y^7+x^4
+g = x^2*y^5+y^7+x^4
+t1 = 0, t2 = 1
+irred = true
+nu-inv = {32, 43, 52, 55, 64, 67, 73, 76, 79, 82}
+[1, 32] : ideal 1
+[33, 43] : ideal(y,x)
+[44, 52] : ideal(x,y^2)
+[53, 55] : ideal(y^2,x*y,x^2)
+[56, 64] : ideal(x*y,x^2,y^3)
+[65, 67] : ideal(x^2,y^3,x*y^2)
+[68, 73] : ideal(x^2,x*y^2,y^4)
+[74, 76] : ideal(x*y^2,x^2*y,x^3,y^4)
+[77, 79] : ideal(x^2*y,x^3,y^4,x*y^3)
+[80, 82] : ideal(x^2*y,x^3,x*y^3,y^5)
+
+p = 83
+f = y^7+x^4
+g = 2*x^2*y^5+y^7+x^4
+t1 = 0, t2 = 2
+irred = true
+nu-inv = {32, 43, 52, 55, 64, 67, 73, 76, 79, 82}
+[1, 32] : ideal 1
+[33, 43] : ideal(y,x)
+[44, 52] : ideal(x,y^2)
+[53, 55] : ideal(y^2,x*y,x^2)
+[56, 64] : ideal(x*y,x^2,y^3)
+[65, 67] : ideal(x^2,y^3,x*y^2)
+[68, 73] : ideal(x^2,x*y^2,y^4)
+[74, 76] : ideal(x*y^2,x^2*y,x^3,y^4)
+[77, 79] : ideal(x^2*y,x^3,y^4,x*y^3)
+[80, 82] : ideal(x^2*y,x^3,x*y^3,y^5)
+
+p = 83
+f = y^7+x^4
+g = 3*x^2*y^5+y^7+x^4
+t1 = 0, t2 = 3
+irred = true
+nu-inv = {32, 43, 52, 55, 64, 67, 73, 76, 79, 82}
+[1, 32] : ideal 1
+[33, 43] : ideal(y,x)
+[44, 52] : ideal(x,y^2)
+[53, 55] : ideal(y^2,x*y,x^2)
+[56, 64] : ideal(x*y,x^2,y^3)
+[65, 67] : ideal(x^2,y^3,x*y^2)
+[68, 73] : ideal(x^2,x*y^2,y^4)
+[74, 76] : ideal(x*y^2,x^2*y,x^3,y^4)
+[77, 79] : ideal(x^2*y,x^3,y^4,x*y^3)
+[80, 82] : ideal(x^2*y,x^3,x*y^3,y^5)
+
+p = 83
+f = y^7+x^4
+g = 4*x^2*y^5+y^7+x^4
+t1 = 0, t2 = 4
+irred = true
+nu-inv = {32, 43, 52, 55, 64, 67, 73, 76, 79, 82}
+[1, 32] : ideal 1
+[33, 43] : ideal(y,x)
+[44, 52] : ideal(x,y^2)
+[53, 55] : ideal(y^2,x*y,x^2)
+[56, 64] : ideal(x*y,x^2,y^3)
+[65, 67] : ideal(x^2,y^3,x*y^2)
+[68, 73] : ideal(x^2,x*y^2,y^4)
+[74, 76] : ideal(x*y^2,x^2*y,x^3,y^4)
+[77, 79] : ideal(x^2*y,x^3,y^4,x*y^3)
+[80, 82] : ideal(x^2*y,x^3,x*y^3,y^5)
+
+p = 83
+f = y^7+x^4
+g = 5*x^2*y^5+y^7+x^4
+t1 = 0, t2 = 5
+irred = true
+nu-inv = {32, 43, 52, 55, 64, 67, 73, 76, 79, 82}
+[1, 32] : ideal 1
+[33, 43] : ideal(y,x)
+[44, 52] : ideal(x,y^2)
+[53, 55] : ideal(y^2,x*y,x^2)
+[56, 64] : ideal(x*y,x^2,y^3)
+[65, 67] : ideal(x^2,y^3,x*y^2)
+[68, 73] : ideal(x^2,x*y^2,y^4)
+[74, 76] : ideal(x*y^2,x^2*y,x^3,y^4)
+[77, 79] : ideal(x^2*y,x^3,y^4,x*y^3)
+[80, 82] : ideal(x^2*y,x^3,x*y^3,y^5)
+
+p = 83
+f = y^7+x^4
+g = 6*x^2*y^5+y^7+x^4
+t1 = 0, t2 = 6
+irred = true
+nu-inv = {32, 43, 52, 55, 64, 67, 73, 76, 79, 82}
+[1, 32] : ideal 1
+[33, 43] : ideal(y,x)
+[44, 52] : ideal(x,y^2)
+[53, 55] : ideal(y^2,x*y,x^2)
+[56, 64] : ideal(x*y,x^2,y^3)
+[65, 67] : ideal(x^2,y^3,x*y^2)
+[68, 73] : ideal(x^2,x*y^2,y^4)
+[74, 76] : ideal(x*y^2,x^2*y,x^3,y^4)
+[77, 79] : ideal(x^2*y,x^3,y^4,x*y^3)
+[80, 82] : ideal(x^2*y,x^3,x*y^3,y^5)
+
+p = 83
+f = y^7+x^4
+g = 7*x^2*y^5+y^7+x^4
+t1 = 0, t2 = 7
+irred = true
+nu-inv = {32, 43, 52, 55, 64, 67, 73, 76, 79, 82}
+[1, 32] : ideal 1
+[33, 43] : ideal(y,x)
+[44, 52] : ideal(x,y^2)
+[53, 55] : ideal(y^2,x*y,x^2)
+[56, 64] : ideal(x*y,x^2,y^3)
+[65, 67] : ideal(x^2,y^3,x*y^2)
+[68, 73] : ideal(x^2,x*y^2,y^4)
+[74, 76] : ideal(x*y^2,x^2*y,x^3,y^4)
+[77, 79] : ideal(x^2*y,x^3,y^4,x*y^3)
+[80, 82] : ideal(x^2*y,x^3,x*y^3,y^5)
+
+p = 83
+f = y^7+x^4
+g = 8*x^2*y^5+y^7+x^4
+t1 = 0, t2 = 8
+irred = true
+nu-inv = {32, 43, 52, 55, 64, 67, 73, 76, 79, 82}
+[1, 32] : ideal 1
+[33, 43] : ideal(y,x)
+[44, 52] : ideal(x,y^2)
+[53, 55] : ideal(y^2,x*y,x^2)
+[56, 64] : ideal(x*y,x^2,y^3)
+[65, 67] : ideal(x^2,y^3,x*y^2)
+[68, 73] : ideal(x^2,x*y^2,y^4)
+[74, 76] : ideal(x*y^2,x^2*y,x^3,y^4)
+[77, 79] : ideal(x^2*y,x^3,y^4,x*y^3)
+[80, 82] : ideal(x^2*y,x^3,x*y^3,y^5)
+
+p = 83
+f = y^7+x^4
+g = 9*x^2*y^5+y^7+x^4
+t1 = 0, t2 = 9
+irred = true
+nu-inv = {32, 43, 52, 55, 64, 67, 73, 76, 79, 82}
+[1, 32] : ideal 1
+[33, 43] : ideal(y,x)
+[44, 52] : ideal(x,y^2)
+[53, 55] : ideal(y^2,x*y,x^2)
+[56, 64] : ideal(x*y,x^2,y^3)
+[65, 67] : ideal(x^2,y^3,x*y^2)
+[68, 73] : ideal(x^2,x*y^2,y^4)
+[74, 76] : ideal(x*y^2,x^2*y,x^3,y^4)
+[77, 79] : ideal(x^2*y,x^3,y^4,x*y^3)
+[80, 82] : ideal(x^2*y,x^3,x*y^3,y^5)
+
+p = 83
+f = y^7+x^4
+g = 10*x^2*y^5+y^7+x^4
+t1 = 0, t2 = 10
+irred = true
+nu-inv = {32, 43, 52, 55, 64, 67, 73, 76, 79, 82}
+[1, 32] : ideal 1
+[33, 43] : ideal(y,x)
+[44, 52] : ideal(x,y^2)
+[53, 55] : ideal(y^2,x*y,x^2)
+[56, 64] : ideal(x*y,x^2,y^3)
+[65, 67] : ideal(x^2,y^3,x*y^2)
+[68, 73] : ideal(x^2,x*y^2,y^4)
+[74, 76] : ideal(x*y^2,x^2*y,x^3,y^4)
+[77, 79] : ideal(x^2*y,x^3,y^4,x*y^3)
+[80, 82] : ideal(x^2*y,x^3,x*y^3,y^5)
+
+p = 83
+f = y^7+x^4
+g = 11*x^2*y^5+y^7+x^4
+t1 = 0, t2 = 11
+irred = true
+nu-inv = {32, 43, 52, 55, 64, 67, 73, 76, 79, 82}
+[1, 32] : ideal 1
+[33, 43] : ideal(y,x)
+[44, 52] : ideal(x,y^2)
+[53, 55] : ideal(y^2,x*y,x^2)
+[56, 64] : ideal(x*y,x^2,y^3)
+[65, 67] : ideal(x^2,y^3,x*y^2)
+[68, 73] : ideal(x^2,x*y^2,y^4)
+[74, 76] : ideal(x*y^2,x^2*y,x^3,y^4)
+[77, 79] : ideal(x^2*y,x^3,y^4,x*y^3)
+[80, 82] : ideal(x^2*y,x^3,x*y^3,y^5)
+
+p = 83
+f = y^7+x^4
+g = 12*x^2*y^5+y^7+x^4
+t1 = 0, t2 = 12
+irred = true
+nu-inv = {32, 43, 52, 55, 64, 67, 73, 76, 79, 82}
+[1, 32] : ideal 1
+[33, 43] : ideal(y,x)
+[44, 52] : ideal(x,y^2)
+[53, 55] : ideal(y^2,x*y,x^2)
+[56, 64] : ideal(x*y,x^2,y^3)
+[65, 67] : ideal(x^2,y^3,x*y^2)
+[68, 73] : ideal(x^2,x*y^2,y^4)
+[74, 76] : ideal(x*y^2,x^2*y,x^3,y^4)
+[77, 79] : ideal(x^2*y,x^3,y^4,x*y^3)
+[80, 82] : ideal(x^2*y,x^3,x*y^3,y^5)
+
+p = 83
+f = y^7+x^4
+g = 13*x^2*y^5+y^7+x^4
+t1 = 0, t2 = 13
+irred = true
+nu-inv = {32, 43, 52, 55, 64, 67, 73, 76, 79, 82}
+[1, 32] : ideal 1
+[33, 43] : ideal(y,x)
+[44, 52] : ideal(x,y^2)
+[53, 55] : ideal(y^2,x*y,x^2)
+[56, 64] : ideal(x*y,x^2,y^3)
+[65, 67] : ideal(x^2,y^3,x*y^2)
+[68, 73] : ideal(x^2,x*y^2,y^4)
+[74, 76] : ideal(x*y^2,x^2*y,x^3,y^4)
+[77, 79] : ideal(x^2*y,x^3,y^4,x*y^3)
+[80, 82] : ideal(x^2*y,x^3,x*y^3,y^5)
+
+p = 83
+f = y^7+x^4
+g = 14*x^2*y^5+y^7+x^4
+t1 = 0, t2 = 14
+irred = true
+nu-inv = {32, 43, 52, 55, 64, 67, 73, 76, 79, 82}
+[1, 32] : ideal 1
+[33, 43] : ideal(y,x)
+[44, 52] : ideal(x,y^2)
+[53, 55] : ideal(y^2,x*y,x^2)
+[56, 64] : ideal(x*y,x^2,y^3)
+[65, 67] : ideal(x^2,y^3,x*y^2)
+[68, 73] : ideal(x^2,x*y^2,y^4)
+[74, 76] : ideal(x*y^2,x^2*y,x^3,y^4)
+[77, 79] : ideal(x^2*y,x^3,y^4,x*y^3)
+[80, 82] : ideal(x^2*y,x^3,x*y^3,y^5)
+
+p = 83
+f = y^7+x^4
+g = 15*x^2*y^5+y^7+x^4
+t1 = 0, t2 = 15
+irred = true
+nu-inv = {32, 43, 52, 55, 64, 67, 73, 76, 79, 82}
+[1, 32] : ideal 1
+[33, 43] : ideal(y,x)
+[44, 52] : ideal(x,y^2)
+[53, 55] : ideal(y^2,x*y,x^2)
+[56, 64] : ideal(x*y,x^2,y^3)
+[65, 67] : ideal(x^2,y^3,x*y^2)
+[68, 73] : ideal(x^2,x*y^2,y^4)
+[74, 76] : ideal(x*y^2,x^2*y,x^3,y^4)
+[77, 79] : ideal(x^2*y,x^3,y^4,x*y^3)
+[80, 82] : ideal(x^2*y,x^3,x*y^3,y^5)
+
+p = 83
+f = y^7+x^4
+g = 16*x^2*y^5+y^7+x^4
+t1 = 0, t2 = 16
+irred = true
+nu-inv = {32, 43, 52, 55, 64, 67, 73, 76, 79, 82}
+[1, 32] : ideal 1
+[33, 43] : ideal(y,x)
+[44, 52] : ideal(x,y^2)
+[53, 55] : ideal(y^2,x*y,x^2)
+[56, 64] : ideal(x*y,x^2,y^3)
+[65, 67] : ideal(x^2,y^3,x*y^2)
+[68, 73] : ideal(x^2,x*y^2,y^4)
+[74, 76] : ideal(x*y^2,x^2*y,x^3,y^4)
+[77, 79] : ideal(x^2*y,x^3,y^4,x*y^3)
+[80, 82] : ideal(x^2*y,x^3,x*y^3,y^5)
+
+p = 83
+f = y^7+x^4
+g = 17*x^2*y^5+y^7+x^4
+t1 = 0, t2 = 17
+irred = true
+nu-inv = {32, 43, 52, 55, 64, 67, 73, 76, 79, 82}
+[1, 32] : ideal 1
+[33, 43] : ideal(y,x)
+[44, 52] : ideal(x,y^2)
+[53, 55] : ideal(y^2,x*y,x^2)
+[56, 64] : ideal(x*y,x^2,y^3)
+[65, 67] : ideal(x^2,y^3,x*y^2)
+[68, 73] : ideal(x^2,x*y^2,y^4)
+[74, 76] : ideal(x*y^2,x^2*y,x^3,y^4)
+[77, 79] : ideal(x^2*y,x^3,y^4,x*y^3)
+[80, 82] : ideal(x^2*y,x^3,x*y^3,y^5)
+
+p = 83
+f = y^7+x^4
+g = 18*x^2*y^5+y^7+x^4
+t1 = 0, t2 = 18
+irred = true
+nu-inv = {32, 43, 52, 55, 64, 67, 73, 76, 79, 82}
+[1, 32] : ideal 1
+[33, 43] : ideal(y,x)
+[44, 52] : ideal(x,y^2)
+[53, 55] : ideal(y^2,x*y,x^2)
+[56, 64] : ideal(x*y,x^2,y^3)
+[65, 67] : ideal(x^2,y^3,x*y^2)
+[68, 73] : ideal(x^2,x*y^2,y^4)
+[74, 76] : ideal(x*y^2,x^2*y,x^3,y^4)
+[77, 79] : ideal(x^2*y,x^3,y^4,x*y^3)
+[80, 82] : ideal(x^2*y,x^3,x*y^3,y^5)
+
+p = 83
+f = y^7+x^4
+g = 19*x^2*y^5+y^7+x^4
+t1 = 0, t2 = 19
+irred = true
+nu-inv = {32, 43, 52, 55, 64, 67, 73, 76, 79, 82}
+[1, 32] : ideal 1
+[33, 43] : ideal(y,x)
+[44, 52] : ideal(x,y^2)
+[53, 55] : ideal(y^2,x*y,x^2)
+[56, 64] : ideal(x*y,x^2,y^3)
+[65, 67] : ideal(x^2,y^3,x*y^2)
+[68, 73] : ideal(x^2,x*y^2,y^4)
+[74, 76] : ideal(x*y^2,x^2*y,x^3,y^4)
+[77, 79] : ideal(x^2*y,x^3,y^4,x*y^3)
+[80, 82] : ideal(x^2*y,x^3,x*y^3,y^5)
+
+p = 83
+f = y^7+x^4
+g = 20*x^2*y^5+y^7+x^4
+t1 = 0, t2 = 20
+irred = true
+nu-inv = {32, 43, 52, 55, 64, 67, 73, 76, 79, 82}
+[1, 32] : ideal 1
+[33, 43] : ideal(y,x)
+[44, 52] : ideal(x,y^2)
+[53, 55] : ideal(y^2,x*y,x^2)
+[56, 64] : ideal(x*y,x^2,y^3)
+[65, 67] : ideal(x^2,y^3,x*y^2)
+[68, 73] : ideal(x^2,x*y^2,y^4)
+[74, 76] : ideal(x*y^2,x^2*y,x^3,y^4)
+[77, 79] : ideal(x^2*y,x^3,y^4,x*y^3)
+[80, 82] : ideal(x^2*y,x^3,x*y^3,y^5)
+
+p = 83
+f = y^7+x^4
+g = 21*x^2*y^5+y^7+x^4
+t1 = 0, t2 = 21
+irred = true
+nu-inv = {32, 43, 52, 55, 64, 67, 73, 76, 79, 82}
+[1, 32] : ideal 1
+[33, 43] : ideal(y,x)
+[44, 52] : ideal(x,y^2)
+[53, 55] : ideal(y^2,x*y,x^2)
+[56, 64] : ideal(x*y,x^2,y^3)
+[65, 67] : ideal(x^2,y^3,x*y^2)
+[68, 73] : ideal(x^2,x*y^2,y^4)
+[74, 76] : ideal(x*y^2,x^2*y,x^3,y^4)
+[77, 79] : ideal(x^2*y,x^3,y^4,x*y^3)
+[80, 82] : ideal(x^2*y,x^3,x*y^3,y^5)
+
+p = 83
+f = y^7+x^4
+g = 22*x^2*y^5+y^7+x^4
+t1 = 0, t2 = 22
+irred = true
+nu-inv = {32, 43, 52, 55, 64, 67, 73, 76, 79, 82}
+[1, 32] : ideal 1
+[33, 43] : ideal(y,x)
+[44, 52] : ideal(x,y^2)
+[53, 55] : ideal(y^2,x*y,x^2)
+[56, 64] : ideal(x*y,x^2,y^3)
+[65, 67] : ideal(x^2,y^3,x*y^2)
+[68, 73] : ideal(x^2,x*y^2,y^4)
+[74, 76] : ideal(x*y^2,x^2*y,x^3,y^4)
+[77, 79] : ideal(x^2*y,x^3,y^4,x*y^3)
+[80, 82] : ideal(x^2*y,x^3,x*y^3,y^5)
+
+p = 83
+f = y^7+x^4
+g = 23*x^2*y^5+y^7+x^4
+t1 = 0, t2 = 23
+irred = true
+nu-inv = {32, 43, 52, 55, 64, 67, 73, 76, 79, 82}
+[1, 32] : ideal 1
+[33, 43] : ideal(y,x)
+[44, 52] : ideal(x,y^2)
+[53, 55] : ideal(y^2,x*y,x^2)
+[56, 64] : ideal(x*y,x^2,y^3)
+[65, 67] : ideal(x^2,y^3,x*y^2)
+[68, 73] : ideal(x^2,x*y^2,y^4)
+[74, 76] : ideal(x*y^2,x^2*y,x^3,y^4)
+[77, 79] : ideal(x^2*y,x^3,y^4,x*y^3)
+[80, 82] : ideal(x^2*y,x^3,x*y^3,y^5)
+
+p = 83
+f = y^7+x^4
+g = 24*x^2*y^5+y^7+x^4
+t1 = 0, t2 = 24
+irred = true
+nu-inv = {32, 43, 52, 55, 64, 67, 73, 76, 79, 82}
+[1, 32] : ideal 1
+[33, 43] : ideal(y,x)
+[44, 52] : ideal(x,y^2)
+[53, 55] : ideal(y^2,x*y,x^2)
+[56, 64] : ideal(x*y,x^2,y^3)
+[65, 67] : ideal(x^2,y^3,x*y^2)
+[68, 73] : ideal(x^2,x*y^2,y^4)
+[74, 76] : ideal(x*y^2,x^2*y,x^3,y^4)
+[77, 79] : ideal(x^2*y,x^3,y^4,x*y^3)
+[80, 82] : ideal(x^2*y,x^3,x*y^3,y^5)
+
+p = 83
+f = y^7+x^4
+g = 25*x^2*y^5+y^7+x^4
+t1 = 0, t2 = 25
+irred = true
+nu-inv = {32, 43, 52, 55, 64, 67, 73, 76, 79, 82}
+[1, 32] : ideal 1
+[33, 43] : ideal(y,x)
+[44, 52] : ideal(x,y^2)
+[53, 55] : ideal(y^2,x*y,x^2)
+[56, 64] : ideal(x*y,x^2,y^3)
+[65, 67] : ideal(x^2,y^3,x*y^2)
+[68, 73] : ideal(x^2,x*y^2,y^4)
+[74, 76] : ideal(x*y^2,x^2*y,x^3,y^4)
+[77, 79] : ideal(x^2*y,x^3,y^4,x*y^3)
+[80, 82] : ideal(x^2*y,x^3,x*y^3,y^5)
+
+p = 83
+f = y^7+x^4
+g = 26*x^2*y^5+y^7+x^4
+t1 = 0, t2 = 26
+irred = true
+nu-inv = {32, 43, 52, 55, 64, 67, 73, 76, 79, 82}
+[1, 32] : ideal 1
+[33, 43] : ideal(y,x)
+[44, 52] : ideal(x,y^2)
+[53, 55] : ideal(y^2,x*y,x^2)
+[56, 64] : ideal(x*y,x^2,y^3)
+[65, 67] : ideal(x^2,y^3,x*y^2)
+[68, 73] : ideal(x^2,x*y^2,y^4)
+[74, 76] : ideal(x*y^2,x^2*y,x^3,y^4)
+[77, 79] : ideal(x^2*y,x^3,y^4,x*y^3)
+[80, 82] : ideal(x^2*y,x^3,x*y^3,y^5)
+
+p = 83
+f = y^7+x^4
+g = 27*x^2*y^5+y^7+x^4
+t1 = 0, t2 = 27
+irred = true
+nu-inv = {32, 43, 52, 55, 64, 67, 73, 76, 79, 82}
+[1, 32] : ideal 1
+[33, 43] : ideal(y,x)
+[44, 52] : ideal(x,y^2)
+[53, 55] : ideal(y^2,x*y,x^2)
+[56, 64] : ideal(x*y,x^2,y^3)
+[65, 67] : ideal(x^2,y^3,x*y^2)
+[68, 73] : ideal(x^2,x*y^2,y^4)
+[74, 76] : ideal(x*y^2,x^2*y,x^3,y^4)
+[77, 79] : ideal(x^2*y,x^3,y^4,x*y^3)
+[80, 82] : ideal(x^2*y,x^3,x*y^3,y^5)
+
+p = 83
+f = y^7+x^4
+g = 28*x^2*y^5+y^7+x^4
+t1 = 0, t2 = 28
+irred = true
+nu-inv = {32, 43, 52, 55, 64, 67, 73, 76, 79, 82}
+[1, 32] : ideal 1
+[33, 43] : ideal(y,x)
+[44, 52] : ideal(x,y^2)
+[53, 55] : ideal(y^2,x*y,x^2)
+[56, 64] : ideal(x*y,x^2,y^3)
+[65, 67] : ideal(x^2,y^3,x*y^2)
+[68, 73] : ideal(x^2,x*y^2,y^4)
+[74, 76] : ideal(x*y^2,x^2*y,x^3,y^4)
+[77, 79] : ideal(x^2*y,x^3,y^4,x*y^3)
+[80, 82] : ideal(x^2*y,x^3,x*y^3,y^5)
+
+p = 83
+f = y^7+x^4
+g = 29*x^2*y^5+y^7+x^4
+t1 = 0, t2 = 29
+irred = true
+nu-inv = {32, 43, 52, 55, 64, 67, 73, 76, 79, 82}
+[1, 32] : ideal 1
+[33, 43] : ideal(y,x)
+[44, 52] : ideal(x,y^2)
+[53, 55] : ideal(y^2,x*y,x^2)
+[56, 64] : ideal(x*y,x^2,y^3)
+[65, 67] : ideal(x^2,y^3,x*y^2)
+[68, 73] : ideal(x^2,x*y^2,y^4)
+[74, 76] : ideal(x*y^2,x^2*y,x^3,y^4)
+[77, 79] : ideal(x^2*y,x^3,y^4,x*y^3)
+[80, 82] : ideal(x^2*y,x^3,x*y^3,y^5)
+
+p = 83
+f = y^7+x^4
+g = 30*x^2*y^5+y^7+x^4
+t1 = 0, t2 = 30
+irred = true
+nu-inv = {32, 43, 52, 55, 64, 67, 73, 76, 79, 82}
+[1, 32] : ideal 1
+[33, 43] : ideal(y,x)
+[44, 52] : ideal(x,y^2)
+[53, 55] : ideal(y^2,x*y,x^2)
+[56, 64] : ideal(x*y,x^2,y^3)
+[65, 67] : ideal(x^2,y^3,x*y^2)
+[68, 73] : ideal(x^2,x*y^2,y^4)
+[74, 76] : ideal(x*y^2,x^2*y,x^3,y^4)
+[77, 79] : ideal(x^2*y,x^3,y^4,x*y^3)
+[80, 82] : ideal(x^2*y,x^3,x*y^3,y^5)
+
+p = 83
+f = y^7+x^4
+g = 31*x^2*y^5+y^7+x^4
+t1 = 0, t2 = 31
+irred = true
+nu-inv = {32, 43, 52, 55, 64, 67, 73, 76, 79, 82}
+[1, 32] : ideal 1
+[33, 43] : ideal(y,x)
+[44, 52] : ideal(x,y^2)
+[53, 55] : ideal(y^2,x*y,x^2)
+[56, 64] : ideal(x*y,x^2,y^3)
+[65, 67] : ideal(x^2,y^3,x*y^2)
+[68, 73] : ideal(x^2,x*y^2,y^4)
+[74, 76] : ideal(x*y^2,x^2*y,x^3,y^4)
+[77, 79] : ideal(x^2*y,x^3,y^4,x*y^3)
+[80, 82] : ideal(x^2*y,x^3,x*y^3,y^5)
+
+p = 83
+f = y^7+x^4
+g = 32*x^2*y^5+y^7+x^4
+t1 = 0, t2 = 32
+irred = true
+nu-inv = {32, 43, 52, 55, 64, 67, 73, 76, 79, 82}
+[1, 32] : ideal 1
+[33, 43] : ideal(y,x)
+[44, 52] : ideal(x,y^2)
+[53, 55] : ideal(y^2,x*y,x^2)
+[56, 64] : ideal(x*y,x^2,y^3)
+[65, 67] : ideal(x^2,y^3,x*y^2)
+[68, 73] : ideal(x^2,x*y^2,y^4)
+[74, 76] : ideal(x*y^2,x^2*y,x^3,y^4)
+[77, 79] : ideal(x^2*y,x^3,y^4,x*y^3)
+[80, 82] : ideal(x^2*y,x^3,x*y^3,y^5)
+
+p = 83
+f = y^7+x^4
+g = 33*x^2*y^5+y^7+x^4
+t1 = 0, t2 = 33
+irred = true
+nu-inv = {32, 43, 52, 55, 64, 67, 73, 76, 79, 82}
+[1, 32] : ideal 1
+[33, 43] : ideal(y,x)
+[44, 52] : ideal(x,y^2)
+[53, 55] : ideal(y^2,x*y,x^2)
+[56, 64] : ideal(x*y,x^2,y^3)
+[65, 67] : ideal(x^2,y^3,x*y^2)
+[68, 73] : ideal(x^2,x*y^2,y^4)
+[74, 76] : ideal(x*y^2,x^2*y,x^3,y^4)
+[77, 79] : ideal(x^2*y,x^3,y^4,x*y^3)
+[80, 82] : ideal(x^2*y,x^3,x*y^3,y^5)
+
+p = 83
+f = y^7+x^4
+g = 34*x^2*y^5+y^7+x^4
+t1 = 0, t2 = 34
+irred = true
+nu-inv = {32, 43, 52, 55, 64, 67, 73, 76, 79, 82}
+[1, 32] : ideal 1
+[33, 43] : ideal(y,x)
+[44, 52] : ideal(x,y^2)
+[53, 55] : ideal(y^2,x*y,x^2)
+[56, 64] : ideal(x*y,x^2,y^3)
+[65, 67] : ideal(x^2,y^3,x*y^2)
+[68, 73] : ideal(x^2,x*y^2,y^4)
+[74, 76] : ideal(x*y^2,x^2*y,x^3,y^4)
+[77, 79] : ideal(x^2*y,x^3,y^4,x*y^3)
+[80, 82] : ideal(x^2*y,x^3,x*y^3,y^5)
+
+p = 83
+f = y^7+x^4
+g = 35*x^2*y^5+y^7+x^4
+t1 = 0, t2 = 35
+irred = true
+nu-inv = {32, 43, 52, 55, 64, 67, 73, 76, 79, 82}
+[1, 32] : ideal 1
+[33, 43] : ideal(y,x)
+[44, 52] : ideal(x,y^2)
+[53, 55] : ideal(y^2,x*y,x^2)
+[56, 64] : ideal(x*y,x^2,y^3)
+[65, 67] : ideal(x^2,y^3,x*y^2)
+[68, 73] : ideal(x^2,x*y^2,y^4)
+[74, 76] : ideal(x*y^2,x^2*y,x^3,y^4)
+[77, 79] : ideal(x^2*y,x^3,y^4,x*y^3)
+[80, 82] : ideal(x^2*y,x^3,x*y^3,y^5)
+
+p = 83
+f = y^7+x^4
+g = 36*x^2*y^5+y^7+x^4
+t1 = 0, t2 = 36
+irred = true
+nu-inv = {32, 43, 52, 55, 64, 67, 73, 76, 79, 82}
+[1, 32] : ideal 1
+[33, 43] : ideal(y,x)
+[44, 52] : ideal(x,y^2)
+[53, 55] : ideal(y^2,x*y,x^2)
+[56, 64] : ideal(x*y,x^2,y^3)
+[65, 67] : ideal(x^2,y^3,x*y^2)
+[68, 73] : ideal(x^2,x*y^2,y^4)
+[74, 76] : ideal(x*y^2,x^2*y,x^3,y^4)
+[77, 79] : ideal(x^2*y,x^3,y^4,x*y^3)
+[80, 82] : ideal(x^2*y,x^3,x*y^3,y^5)
+
+p = 83
+f = y^7+x^4
+g = 37*x^2*y^5+y^7+x^4
+t1 = 0, t2 = 37
+irred = true
+nu-inv = {32, 43, 52, 55, 64, 67, 73, 76, 79, 82}
+[1, 32] : ideal 1
+[33, 43] : ideal(y,x)
+[44, 52] : ideal(x,y^2)
+[53, 55] : ideal(y^2,x*y,x^2)
+[56, 64] : ideal(x*y,x^2,y^3)
+[65, 67] : ideal(x^2,y^3,x*y^2)
+[68, 73] : ideal(x^2,x*y^2,y^4)
+[74, 76] : ideal(x*y^2,x^2*y,x^3,y^4)
+[77, 79] : ideal(x^2*y,x^3,y^4,x*y^3)
+[80, 82] : ideal(x^2*y,x^3,x*y^3,y^5)
+
+p = 83
+f = y^7+x^4
+g = 38*x^2*y^5+y^7+x^4
+t1 = 0, t2 = 38
+irred = true
+nu-inv = {32, 43, 52, 55, 64, 67, 73, 76, 79, 82}
+[1, 32] : ideal 1
+[33, 43] : ideal(y,x)
+[44, 52] : ideal(x,y^2)
+[53, 55] : ideal(y^2,x*y,x^2)
+[56, 64] : ideal(x*y,x^2,y^3)
+[65, 67] : ideal(x^2,y^3,x*y^2)
+[68, 73] : ideal(x^2,x*y^2,y^4)
+[74, 76] : ideal(x*y^2,x^2*y,x^3,y^4)
+[77, 79] : ideal(x^2*y,x^3,y^4,x*y^3)
+[80, 82] : ideal(x^2*y,x^3,x*y^3,y^5)
+
+p = 83
+f = y^7+x^4
+g = 39*x^2*y^5+y^7+x^4
+t1 = 0, t2 = 39
+irred = true
+nu-inv = {32, 43, 52, 55, 64, 67, 73, 76, 79, 82}
+[1, 32] : ideal 1
+[33, 43] : ideal(y,x)
+[44, 52] : ideal(x,y^2)
+[53, 55] : ideal(y^2,x*y,x^2)
+[56, 64] : ideal(x*y,x^2,y^3)
+[65, 67] : ideal(x^2,y^3,x*y^2)
+[68, 73] : ideal(x^2,x*y^2,y^4)
+[74, 76] : ideal(x*y^2,x^2*y,x^3,y^4)
+[77, 79] : ideal(x^2*y,x^3,y^4,x*y^3)
+[80, 82] : ideal(x^2*y,x^3,x*y^3,y^5)
+
+p = 83
+f = y^7+x^4
+g = 40*x^2*y^5+y^7+x^4
+t1 = 0, t2 = 40
+irred = true
+nu-inv = {32, 43, 52, 55, 64, 67, 73, 76, 79, 82}
+[1, 32] : ideal 1
+[33, 43] : ideal(y,x)
+[44, 52] : ideal(x,y^2)
+[53, 55] : ideal(y^2,x*y,x^2)
+[56, 64] : ideal(x*y,x^2,y^3)
+[65, 67] : ideal(x^2,y^3,x*y^2)
+[68, 73] : ideal(x^2,x*y^2,y^4)
+[74, 76] : ideal(x*y^2,x^2*y,x^3,y^4)
+[77, 79] : ideal(x^2*y,x^3,y^4,x*y^3)
+[80, 82] : ideal(x^2*y,x^3,x*y^3,y^5)
+
+p = 83
+f = y^7+x^4
+g = 41*x^2*y^5+y^7+x^4
+t1 = 0, t2 = 41
+irred = true
+nu-inv = {32, 43, 52, 55, 64, 67, 73, 76, 79, 82}
+[1, 32] : ideal 1
+[33, 43] : ideal(y,x)
+[44, 52] : ideal(x,y^2)
+[53, 55] : ideal(y^2,x*y,x^2)
+[56, 64] : ideal(x*y,x^2,y^3)
+[65, 67] : ideal(x^2,y^3,x*y^2)
+[68, 73] : ideal(x^2,x*y^2,y^4)
+[74, 76] : ideal(x*y^2,x^2*y,x^3,y^4)
+[77, 79] : ideal(x^2*y,x^3,y^4,x*y^3)
+[80, 82] : ideal(x^2*y,x^3,x*y^3,y^5)
+
+p = 83
+f = y^7+x^4
+g = -41*x^2*y^5+y^7+x^4
+t1 = 0, t2 = 42
+irred = true
+nu-inv = {32, 43, 52, 55, 64, 67, 73, 76, 79, 82}
+[1, 32] : ideal 1
+[33, 43] : ideal(y,x)
+[44, 52] : ideal(x,y^2)
+[53, 55] : ideal(y^2,x*y,x^2)
+[56, 64] : ideal(x*y,x^2,y^3)
+[65, 67] : ideal(x^2,y^3,x*y^2)
+[68, 73] : ideal(x^2,x*y^2,y^4)
+[74, 76] : ideal(x*y^2,x^2*y,x^3,y^4)
+[77, 79] : ideal(x^2*y,x^3,y^4,x*y^3)
+[80, 82] : ideal(x^2*y,x^3,x*y^3,y^5)
+
+p = 83
+f = y^7+x^4
+g = -40*x^2*y^5+y^7+x^4
+t1 = 0, t2 = 43
+irred = true
+nu-inv = {32, 43, 52, 55, 64, 67, 73, 76, 79, 82}
+[1, 32] : ideal 1
+[33, 43] : ideal(y,x)
+[44, 52] : ideal(x,y^2)
+[53, 55] : ideal(y^2,x*y,x^2)
+[56, 64] : ideal(x*y,x^2,y^3)
+[65, 67] : ideal(x^2,y^3,x*y^2)
+[68, 73] : ideal(x^2,x*y^2,y^4)
+[74, 76] : ideal(x*y^2,x^2*y,x^3,y^4)
+[77, 79] : ideal(x^2*y,x^3,y^4,x*y^3)
+[80, 82] : ideal(x^2*y,x^3,x*y^3,y^5)
+
+p = 83
+f = y^7+x^4
+g = -39*x^2*y^5+y^7+x^4
+t1 = 0, t2 = 44
+irred = true
+nu-inv = {32, 43, 52, 55, 64, 67, 73, 76, 79, 82}
+[1, 32] : ideal 1
+[33, 43] : ideal(y,x)
+[44, 52] : ideal(x,y^2)
+[53, 55] : ideal(y^2,x*y,x^2)
+[56, 64] : ideal(x*y,x^2,y^3)
+[65, 67] : ideal(x^2,y^3,x*y^2)
+[68, 73] : ideal(x^2,x*y^2,y^4)
+[74, 76] : ideal(x*y^2,x^2*y,x^3,y^4)
+[77, 79] : ideal(x^2*y,x^3,y^4,x*y^3)
+[80, 82] : ideal(x^2*y,x^3,x*y^3,y^5)
+
+p = 83
+f = y^7+x^4
+g = -38*x^2*y^5+y^7+x^4
+t1 = 0, t2 = 45
+irred = true
+nu-inv = {32, 43, 52, 55, 64, 67, 73, 76, 79, 82}
+[1, 32] : ideal 1
+[33, 43] : ideal(y,x)
+[44, 52] : ideal(x,y^2)
+[53, 55] : ideal(y^2,x*y,x^2)
+[56, 64] : ideal(x*y,x^2,y^3)
+[65, 67] : ideal(x^2,y^3,x*y^2)
+[68, 73] : ideal(x^2,x*y^2,y^4)
+[74, 76] : ideal(x*y^2,x^2*y,x^3,y^4)
+[77, 79] : ideal(x^2*y,x^3,y^4,x*y^3)
+[80, 82] : ideal(x^2*y,x^3,x*y^3,y^5)
+
+p = 83
+f = y^7+x^4
+g = -37*x^2*y^5+y^7+x^4
+t1 = 0, t2 = 46
+irred = true
+nu-inv = {32, 43, 52, 55, 64, 67, 73, 76, 79, 82}
+[1, 32] : ideal 1
+[33, 43] : ideal(y,x)
+[44, 52] : ideal(x,y^2)
+[53, 55] : ideal(y^2,x*y,x^2)
+[56, 64] : ideal(x*y,x^2,y^3)
+[65, 67] : ideal(x^2,y^3,x*y^2)
+[68, 73] : ideal(x^2,x*y^2,y^4)
+[74, 76] : ideal(x*y^2,x^2*y,x^3,y^4)
+[77, 79] : ideal(x^2*y,x^3,y^4,x*y^3)
+[80, 82] : ideal(x^2*y,x^3,x*y^3,y^5)
+
+p = 83
+f = y^7+x^4
+g = -36*x^2*y^5+y^7+x^4
+t1 = 0, t2 = 47
+irred = true
+nu-inv = {32, 43, 52, 55, 64, 67, 73, 76, 79, 82}
+[1, 32] : ideal 1
+[33, 43] : ideal(y,x)
+[44, 52] : ideal(x,y^2)
+[53, 55] : ideal(y^2,x*y,x^2)
+[56, 64] : ideal(x*y,x^2,y^3)
+[65, 67] : ideal(x^2,y^3,x*y^2)
+[68, 73] : ideal(x^2,x*y^2,y^4)
+[74, 76] : ideal(x*y^2,x^2*y,x^3,y^4)
+[77, 79] : ideal(x^2*y,x^3,y^4,x*y^3)
+[80, 82] : ideal(x^2*y,x^3,x*y^3,y^5)
+
+p = 83
+f = y^7+x^4
+g = -35*x^2*y^5+y^7+x^4
+t1 = 0, t2 = 48
+irred = true
+nu-inv = {32, 43, 52, 55, 64, 67, 73, 76, 79, 82}
+[1, 32] : ideal 1
+[33, 43] : ideal(y,x)
+[44, 52] : ideal(x,y^2)
+[53, 55] : ideal(y^2,x*y,x^2)
+[56, 64] : ideal(x*y,x^2,y^3)
+[65, 67] : ideal(x^2,y^3,x*y^2)
+[68, 73] : ideal(x^2,x*y^2,y^4)
+[74, 76] : ideal(x*y^2,x^2*y,x^3,y^4)
+[77, 79] : ideal(x^2*y,x^3,y^4,x*y^3)
+[80, 82] : ideal(x^2*y,x^3,x*y^3,y^5)
+
+p = 83
+f = y^7+x^4
+g = -34*x^2*y^5+y^7+x^4
+t1 = 0, t2 = 49
+irred = true
+nu-inv = {32, 43, 52, 55, 64, 67, 73, 76, 79, 82}
+[1, 32] : ideal 1
+[33, 43] : ideal(y,x)
+[44, 52] : ideal(x,y^2)
+[53, 55] : ideal(y^2,x*y,x^2)
+[56, 64] : ideal(x*y,x^2,y^3)
+[65, 67] : ideal(x^2,y^3,x*y^2)
+[68, 73] : ideal(x^2,x*y^2,y^4)
+[74, 76] : ideal(x*y^2,x^2*y,x^3,y^4)
+[77, 79] : ideal(x^2*y,x^3,y^4,x*y^3)
+[80, 82] : ideal(x^2*y,x^3,x*y^3,y^5)
+
+p = 83
+f = y^7+x^4
+g = -33*x^2*y^5+y^7+x^4
+t1 = 0, t2 = 50
+irred = true
+nu-inv = {32, 43, 52, 55, 64, 67, 73, 76, 79, 82}
+[1, 32] : ideal 1
+[33, 43] : ideal(y,x)
+[44, 52] : ideal(x,y^2)
+[53, 55] : ideal(y^2,x*y,x^2)
+[56, 64] : ideal(x*y,x^2,y^3)
+[65, 67] : ideal(x^2,y^3,x*y^2)
+[68, 73] : ideal(x^2,x*y^2,y^4)
+[74, 76] : ideal(x*y^2,x^2*y,x^3,y^4)
+[77, 79] : ideal(x^2*y,x^3,y^4,x*y^3)
+[80, 82] : ideal(x^2*y,x^3,x*y^3,y^5)
+
+p = 83
+f = y^7+x^4
+g = -32*x^2*y^5+y^7+x^4
+t1 = 0, t2 = 51
+irred = true
+nu-inv = {32, 43, 52, 55, 64, 67, 73, 76, 79, 82}
+[1, 32] : ideal 1
+[33, 43] : ideal(y,x)
+[44, 52] : ideal(x,y^2)
+[53, 55] : ideal(y^2,x*y,x^2)
+[56, 64] : ideal(x*y,x^2,y^3)
+[65, 67] : ideal(x^2,y^3,x*y^2)
+[68, 73] : ideal(x^2,x*y^2,y^4)
+[74, 76] : ideal(x*y^2,x^2*y,x^3,y^4)
+[77, 79] : ideal(x^2*y,x^3,y^4,x*y^3)
+[80, 82] : ideal(x^2*y,x^3,x*y^3,y^5)
+
+p = 83
+f = y^7+x^4
+g = -31*x^2*y^5+y^7+x^4
+t1 = 0, t2 = 52
+irred = true
+nu-inv = {32, 43, 52, 55, 64, 67, 73, 76, 79, 82}
+[1, 32] : ideal 1
+[33, 43] : ideal(y,x)
+[44, 52] : ideal(x,y^2)
+[53, 55] : ideal(y^2,x*y,x^2)
+[56, 64] : ideal(x*y,x^2,y^3)
+[65, 67] : ideal(x^2,y^3,x*y^2)
+[68, 73] : ideal(x^2,x*y^2,y^4)
+[74, 76] : ideal(x*y^2,x^2*y,x^3,y^4)
+[77, 79] : ideal(x^2*y,x^3,y^4,x*y^3)
+[80, 82] : ideal(x^2*y,x^3,x*y^3,y^5)
+
+p = 83
+f = y^7+x^4
+g = -30*x^2*y^5+y^7+x^4
+t1 = 0, t2 = 53
+irred = true
+nu-inv = {32, 43, 52, 55, 64, 67, 73, 76, 79, 82}
+[1, 32] : ideal 1
+[33, 43] : ideal(y,x)
+[44, 52] : ideal(x,y^2)
+[53, 55] : ideal(y^2,x*y,x^2)
+[56, 64] : ideal(x*y,x^2,y^3)
+[65, 67] : ideal(x^2,y^3,x*y^2)
+[68, 73] : ideal(x^2,x*y^2,y^4)
+[74, 76] : ideal(x*y^2,x^2*y,x^3,y^4)
+[77, 79] : ideal(x^2*y,x^3,y^4,x*y^3)
+[80, 82] : ideal(x^2*y,x^3,x*y^3,y^5)
+
+p = 83
+f = y^7+x^4
+g = -29*x^2*y^5+y^7+x^4
+t1 = 0, t2 = 54
+irred = true
+nu-inv = {32, 43, 52, 55, 64, 67, 73, 76, 79, 82}
+[1, 32] : ideal 1
+[33, 43] : ideal(y,x)
+[44, 52] : ideal(x,y^2)
+[53, 55] : ideal(y^2,x*y,x^2)
+[56, 64] : ideal(x*y,x^2,y^3)
+[65, 67] : ideal(x^2,y^3,x*y^2)
+[68, 73] : ideal(x^2,x*y^2,y^4)
+[74, 76] : ideal(x*y^2,x^2*y,x^3,y^4)
+[77, 79] : ideal(x^2*y,x^3,y^4,x*y^3)
+[80, 82] : ideal(x^2*y,x^3,x*y^3,y^5)
+
+p = 83
+f = y^7+x^4
+g = -28*x^2*y^5+y^7+x^4
+t1 = 0, t2 = 55
+irred = true
+nu-inv = {32, 43, 52, 55, 64, 67, 73, 76, 79, 82}
+[1, 32] : ideal 1
+[33, 43] : ideal(y,x)
+[44, 52] : ideal(x,y^2)
+[53, 55] : ideal(y^2,x*y,x^2)
+[56, 64] : ideal(x*y,x^2,y^3)
+[65, 67] : ideal(x^2,y^3,x*y^2)
+[68, 73] : ideal(x^2,x*y^2,y^4)
+[74, 76] : ideal(x*y^2,x^2*y,x^3,y^4)
+[77, 79] : ideal(x^2*y,x^3,y^4,x*y^3)
+[80, 82] : ideal(x^2*y,x^3,x*y^3,y^5)
+
+p = 83
+f = y^7+x^4
+g = -27*x^2*y^5+y^7+x^4
+t1 = 0, t2 = 56
+irred = true
+nu-inv = {32, 43, 52, 55, 64, 67, 73, 76, 79, 82}
+[1, 32] : ideal 1
+[33, 43] : ideal(y,x)
+[44, 52] : ideal(x,y^2)
+[53, 55] : ideal(y^2,x*y,x^2)
+[56, 64] : ideal(x*y,x^2,y^3)
+[65, 67] : ideal(x^2,y^3,x*y^2)
+[68, 73] : ideal(x^2,x*y^2,y^4)
+[74, 76] : ideal(x*y^2,x^2*y,x^3,y^4)
+[77, 79] : ideal(x^2*y,x^3,y^4,x*y^3)
+[80, 82] : ideal(x^2*y,x^3,x*y^3,y^5)
+
+p = 83
+f = y^7+x^4
+g = -26*x^2*y^5+y^7+x^4
+t1 = 0, t2 = 57
+irred = true
+nu-inv = {32, 43, 52, 55, 64, 67, 73, 76, 79, 82}
+[1, 32] : ideal 1
+[33, 43] : ideal(y,x)
+[44, 52] : ideal(x,y^2)
+[53, 55] : ideal(y^2,x*y,x^2)
+[56, 64] : ideal(x*y,x^2,y^3)
+[65, 67] : ideal(x^2,y^3,x*y^2)
+[68, 73] : ideal(x^2,x*y^2,y^4)
+[74, 76] : ideal(x*y^2,x^2*y,x^3,y^4)
+[77, 79] : ideal(x^2*y,x^3,y^4,x*y^3)
+[80, 82] : ideal(x^2*y,x^3,x*y^3,y^5)
+
+p = 83
+f = y^7+x^4
+g = -25*x^2*y^5+y^7+x^4
+t1 = 0, t2 = 58
+irred = true
+nu-inv = {32, 43, 52, 55, 64, 67, 73, 76, 79, 82}
+[1, 32] : ideal 1
+[33, 43] : ideal(y,x)
+[44, 52] : ideal(x,y^2)
+[53, 55] : ideal(y^2,x*y,x^2)
+[56, 64] : ideal(x*y,x^2,y^3)
+[65, 67] : ideal(x^2,y^3,x*y^2)
+[68, 73] : ideal(x^2,x*y^2,y^4)
+[74, 76] : ideal(x*y^2,x^2*y,x^3,y^4)
+[77, 79] : ideal(x^2*y,x^3,y^4,x*y^3)
+[80, 82] : ideal(x^2*y,x^3,x*y^3,y^5)
+
+p = 83
+f = y^7+x^4
+g = -24*x^2*y^5+y^7+x^4
+t1 = 0, t2 = 59
+irred = true
+nu-inv = {32, 43, 52, 55, 64, 67, 73, 76, 79, 82}
+[1, 32] : ideal 1
+[33, 43] : ideal(y,x)
+[44, 52] : ideal(x,y^2)
+[53, 55] : ideal(y^2,x*y,x^2)
+[56, 64] : ideal(x*y,x^2,y^3)
+[65, 67] : ideal(x^2,y^3,x*y^2)
+[68, 73] : ideal(x^2,x*y^2,y^4)
+[74, 76] : ideal(x*y^2,x^2*y,x^3,y^4)
+[77, 79] : ideal(x^2*y,x^3,y^4,x*y^3)
+[80, 82] : ideal(x^2*y,x^3,x*y^3,y^5)
+
+p = 83
+f = y^7+x^4
+g = -23*x^2*y^5+y^7+x^4
+t1 = 0, t2 = 60
+irred = true
+nu-inv = {32, 43, 52, 55, 64, 67, 73, 76, 79, 82}
+[1, 32] : ideal 1
+[33, 43] : ideal(y,x)
+[44, 52] : ideal(x,y^2)
+[53, 55] : ideal(y^2,x*y,x^2)
+[56, 64] : ideal(x*y,x^2,y^3)
+[65, 67] : ideal(x^2,y^3,x*y^2)
+[68, 73] : ideal(x^2,x*y^2,y^4)
+[74, 76] : ideal(x*y^2,x^2*y,x^3,y^4)
+[77, 79] : ideal(x^2*y,x^3,y^4,x*y^3)
+[80, 82] : ideal(x^2*y,x^3,x*y^3,y^5)
+
+p = 83
+f = y^7+x^4
+g = -22*x^2*y^5+y^7+x^4
+t1 = 0, t2 = 61
+irred = true
+nu-inv = {32, 43, 52, 55, 64, 67, 73, 76, 79, 82}
+[1, 32] : ideal 1
+[33, 43] : ideal(y,x)
+[44, 52] : ideal(x,y^2)
+[53, 55] : ideal(y^2,x*y,x^2)
+[56, 64] : ideal(x*y,x^2,y^3)
+[65, 67] : ideal(x^2,y^3,x*y^2)
+[68, 73] : ideal(x^2,x*y^2,y^4)
+[74, 76] : ideal(x*y^2,x^2*y,x^3,y^4)
+[77, 79] : ideal(x^2*y,x^3,y^4,x*y^3)
+[80, 82] : ideal(x^2*y,x^3,x*y^3,y^5)
+
+p = 83
+f = y^7+x^4
+g = -21*x^2*y^5+y^7+x^4
+t1 = 0, t2 = 62
+irred = true
+nu-inv = {32, 43, 52, 55, 64, 67, 73, 76, 79, 82}
+[1, 32] : ideal 1
+[33, 43] : ideal(y,x)
+[44, 52] : ideal(x,y^2)
+[53, 55] : ideal(y^2,x*y,x^2)
+[56, 64] : ideal(x*y,x^2,y^3)
+[65, 67] : ideal(x^2,y^3,x*y^2)
+[68, 73] : ideal(x^2,x*y^2,y^4)
+[74, 76] : ideal(x*y^2,x^2*y,x^3,y^4)
+[77, 79] : ideal(x^2*y,x^3,y^4,x*y^3)
+[80, 82] : ideal(x^2*y,x^3,x*y^3,y^5)
+
+p = 83
+f = y^7+x^4
+g = -20*x^2*y^5+y^7+x^4
+t1 = 0, t2 = 63
+irred = true
+nu-inv = {32, 43, 52, 55, 64, 67, 73, 76, 79, 82}
+[1, 32] : ideal 1
+[33, 43] : ideal(y,x)
+[44, 52] : ideal(x,y^2)
+[53, 55] : ideal(y^2,x*y,x^2)
+[56, 64] : ideal(x*y,x^2,y^3)
+[65, 67] : ideal(x^2,y^3,x*y^2)
+[68, 73] : ideal(x^2,x*y^2,y^4)
+[74, 76] : ideal(x*y^2,x^2*y,x^3,y^4)
+[77, 79] : ideal(x^2*y,x^3,y^4,x*y^3)
+[80, 82] : ideal(x^2*y,x^3,x*y^3,y^5)
+
+p = 83
+f = y^7+x^4
+g = -19*x^2*y^5+y^7+x^4
+t1 = 0, t2 = 64
+irred = true
+nu-inv = {32, 43, 52, 55, 64, 67, 73, 76, 79, 82}
+[1, 32] : ideal 1
+[33, 43] : ideal(y,x)
+[44, 52] : ideal(x,y^2)
+[53, 55] : ideal(y^2,x*y,x^2)
+[56, 64] : ideal(x*y,x^2,y^3)
+[65, 67] : ideal(x^2,y^3,x*y^2)
+[68, 73] : ideal(x^2,x*y^2,y^4)
+[74, 76] : ideal(x*y^2,x^2*y,x^3,y^4)
+[77, 79] : ideal(x^2*y,x^3,y^4,x*y^3)
+[80, 82] : ideal(x^2*y,x^3,x*y^3,y^5)
+
+p = 83
+f = y^7+x^4
+g = -18*x^2*y^5+y^7+x^4
+t1 = 0, t2 = 65
+irred = true
+nu-inv = {32, 43, 52, 55, 64, 67, 73, 76, 79, 82}
+[1, 32] : ideal 1
+[33, 43] : ideal(y,x)
+[44, 52] : ideal(x,y^2)
+[53, 55] : ideal(y^2,x*y,x^2)
+[56, 64] : ideal(x*y,x^2,y^3)
+[65, 67] : ideal(x^2,y^3,x*y^2)
+[68, 73] : ideal(x^2,x*y^2,y^4)
+[74, 76] : ideal(x*y^2,x^2*y,x^3,y^4)
+[77, 79] : ideal(x^2*y,x^3,y^4,x*y^3)
+[80, 82] : ideal(x^2*y,x^3,x*y^3,y^5)
+
+p = 83
+f = y^7+x^4
+g = -17*x^2*y^5+y^7+x^4
+t1 = 0, t2 = 66
+irred = true
+nu-inv = {32, 43, 52, 55, 64, 67, 73, 76, 79, 82}
+[1, 32] : ideal 1
+[33, 43] : ideal(y,x)
+[44, 52] : ideal(x,y^2)
+[53, 55] : ideal(y^2,x*y,x^2)
+[56, 64] : ideal(x*y,x^2,y^3)
+[65, 67] : ideal(x^2,y^3,x*y^2)
+[68, 73] : ideal(x^2,x*y^2,y^4)
+[74, 76] : ideal(x*y^2,x^2*y,x^3,y^4)
+[77, 79] : ideal(x^2*y,x^3,y^4,x*y^3)
+[80, 82] : ideal(x^2*y,x^3,x*y^3,y^5)
+
+p = 83
+f = y^7+x^4
+g = -16*x^2*y^5+y^7+x^4
+t1 = 0, t2 = 67
+irred = true
+nu-inv = {32, 43, 52, 55, 64, 67, 73, 76, 79, 82}
+[1, 32] : ideal 1
+[33, 43] : ideal(y,x)
+[44, 52] : ideal(x,y^2)
+[53, 55] : ideal(y^2,x*y,x^2)
+[56, 64] : ideal(x*y,x^2,y^3)
+[65, 67] : ideal(x^2,y^3,x*y^2)
+[68, 73] : ideal(x^2,x*y^2,y^4)
+[74, 76] : ideal(x*y^2,x^2*y,x^3,y^4)
+[77, 79] : ideal(x^2*y,x^3,y^4,x*y^3)
+[80, 82] : ideal(x^2*y,x^3,x*y^3,y^5)
+
+p = 83
+f = y^7+x^4
+g = -15*x^2*y^5+y^7+x^4
+t1 = 0, t2 = 68
+irred = true
+nu-inv = {32, 43, 52, 55, 64, 67, 73, 76, 79, 82}
+[1, 32] : ideal 1
+[33, 43] : ideal(y,x)
+[44, 52] : ideal(x,y^2)
+[53, 55] : ideal(y^2,x*y,x^2)
+[56, 64] : ideal(x*y,x^2,y^3)
+[65, 67] : ideal(x^2,y^3,x*y^2)
+[68, 73] : ideal(x^2,x*y^2,y^4)
+[74, 76] : ideal(x*y^2,x^2*y,x^3,y^4)
+[77, 79] : ideal(x^2*y,x^3,y^4,x*y^3)
+[80, 82] : ideal(x^2*y,x^3,x*y^3,y^5)
+
+p = 83
+f = y^7+x^4
+g = -14*x^2*y^5+y^7+x^4
+t1 = 0, t2 = 69
+irred = true
+nu-inv = {32, 43, 52, 55, 64, 67, 73, 76, 79, 82}
+[1, 32] : ideal 1
+[33, 43] : ideal(y,x)
+[44, 52] : ideal(x,y^2)
+[53, 55] : ideal(y^2,x*y,x^2)
+[56, 64] : ideal(x*y,x^2,y^3)
+[65, 67] : ideal(x^2,y^3,x*y^2)
+[68, 73] : ideal(x^2,x*y^2,y^4)
+[74, 76] : ideal(x*y^2,x^2*y,x^3,y^4)
+[77, 79] : ideal(x^2*y,x^3,y^4,x*y^3)
+[80, 82] : ideal(x^2*y,x^3,x*y^3,y^5)
+
+p = 83
+f = y^7+x^4
+g = -13*x^2*y^5+y^7+x^4
+t1 = 0, t2 = 70
+irred = true
+nu-inv = {32, 43, 52, 55, 64, 67, 73, 76, 79, 82}
+[1, 32] : ideal 1
+[33, 43] : ideal(y,x)
+[44, 52] : ideal(x,y^2)
+[53, 55] : ideal(y^2,x*y,x^2)
+[56, 64] : ideal(x*y,x^2,y^3)
+[65, 67] : ideal(x^2,y^3,x*y^2)
+[68, 73] : ideal(x^2,x*y^2,y^4)
+[74, 76] : ideal(x*y^2,x^2*y,x^3,y^4)
+[77, 79] : ideal(x^2*y,x^3,y^4,x*y^3)
+[80, 82] : ideal(x^2*y,x^3,x*y^3,y^5)
+
+p = 83
+f = y^7+x^4
+g = -12*x^2*y^5+y^7+x^4
+t1 = 0, t2 = 71
+irred = true
+nu-inv = {32, 43, 52, 55, 64, 67, 73, 76, 79, 82}
+[1, 32] : ideal 1
+[33, 43] : ideal(y,x)
+[44, 52] : ideal(x,y^2)
+[53, 55] : ideal(y^2,x*y,x^2)
+[56, 64] : ideal(x*y,x^2,y^3)
+[65, 67] : ideal(x^2,y^3,x*y^2)
+[68, 73] : ideal(x^2,x*y^2,y^4)
+[74, 76] : ideal(x*y^2,x^2*y,x^3,y^4)
+[77, 79] : ideal(x^2*y,x^3,y^4,x*y^3)
+[80, 82] : ideal(x^2*y,x^3,x*y^3,y^5)
+
+p = 83
+f = y^7+x^4
+g = -11*x^2*y^5+y^7+x^4
+t1 = 0, t2 = 72
+irred = true
+nu-inv = {32, 43, 52, 55, 64, 67, 73, 76, 79, 82}
+[1, 32] : ideal 1
+[33, 43] : ideal(y,x)
+[44, 52] : ideal(x,y^2)
+[53, 55] : ideal(y^2,x*y,x^2)
+[56, 64] : ideal(x*y,x^2,y^3)
+[65, 67] : ideal(x^2,y^3,x*y^2)
+[68, 73] : ideal(x^2,x*y^2,y^4)
+[74, 76] : ideal(x*y^2,x^2*y,x^3,y^4)
+[77, 79] : ideal(x^2*y,x^3,y^4,x*y^3)
+[80, 82] : ideal(x^2*y,x^3,x*y^3,y^5)
+
+p = 83
+f = y^7+x^4
+g = -10*x^2*y^5+y^7+x^4
+t1 = 0, t2 = 73
+irred = true
+nu-inv = {32, 43, 52, 55, 64, 67, 73, 76, 79, 82}
+[1, 32] : ideal 1
+[33, 43] : ideal(y,x)
+[44, 52] : ideal(x,y^2)
+[53, 55] : ideal(y^2,x*y,x^2)
+[56, 64] : ideal(x*y,x^2,y^3)
+[65, 67] : ideal(x^2,y^3,x*y^2)
+[68, 73] : ideal(x^2,x*y^2,y^4)
+[74, 76] : ideal(x*y^2,x^2*y,x^3,y^4)
+[77, 79] : ideal(x^2*y,x^3,y^4,x*y^3)
+[80, 82] : ideal(x^2*y,x^3,x*y^3,y^5)
+
+p = 83
+f = y^7+x^4
+g = -9*x^2*y^5+y^7+x^4
+t1 = 0, t2 = 74
+irred = true
+nu-inv = {32, 43, 52, 55, 64, 67, 73, 76, 79, 82}
+[1, 32] : ideal 1
+[33, 43] : ideal(y,x)
+[44, 52] : ideal(x,y^2)
+[53, 55] : ideal(y^2,x*y,x^2)
+[56, 64] : ideal(x*y,x^2,y^3)
+[65, 67] : ideal(x^2,y^3,x*y^2)
+[68, 73] : ideal(x^2,x*y^2,y^4)
+[74, 76] : ideal(x*y^2,x^2*y,x^3,y^4)
+[77, 79] : ideal(x^2*y,x^3,y^4,x*y^3)
+[80, 82] : ideal(x^2*y,x^3,x*y^3,y^5)
+
+p = 83
+f = y^7+x^4
+g = -8*x^2*y^5+y^7+x^4
+t1 = 0, t2 = 75
+irred = true
+nu-inv = {32, 43, 52, 55, 64, 67, 73, 76, 79, 82}
+[1, 32] : ideal 1
+[33, 43] : ideal(y,x)
+[44, 52] : ideal(x,y^2)
+[53, 55] : ideal(y^2,x*y,x^2)
+[56, 64] : ideal(x*y,x^2,y^3)
+[65, 67] : ideal(x^2,y^3,x*y^2)
+[68, 73] : ideal(x^2,x*y^2,y^4)
+[74, 76] : ideal(x*y^2,x^2*y,x^3,y^4)
+[77, 79] : ideal(x^2*y,x^3,y^4,x*y^3)
+[80, 82] : ideal(x^2*y,x^3,x*y^3,y^5)
+
+p = 83
+f = y^7+x^4
+g = -7*x^2*y^5+y^7+x^4
+t1 = 0, t2 = 76
+irred = true
+nu-inv = {32, 43, 52, 55, 64, 67, 73, 76, 79, 82}
+[1, 32] : ideal 1
+[33, 43] : ideal(y,x)
+[44, 52] : ideal(x,y^2)
+[53, 55] : ideal(y^2,x*y,x^2)
+[56, 64] : ideal(x*y,x^2,y^3)
+[65, 67] : ideal(x^2,y^3,x*y^2)
+[68, 73] : ideal(x^2,x*y^2,y^4)
+[74, 76] : ideal(x*y^2,x^2*y,x^3,y^4)
+[77, 79] : ideal(x^2*y,x^3,y^4,x*y^3)
+[80, 82] : ideal(x^2*y,x^3,x*y^3,y^5)
+
+p = 83
+f = y^7+x^4
+g = -6*x^2*y^5+y^7+x^4
+t1 = 0, t2 = 77
+irred = true
+nu-inv = {32, 43, 52, 55, 64, 67, 73, 76, 79, 82}
+[1, 32] : ideal 1
+[33, 43] : ideal(y,x)
+[44, 52] : ideal(x,y^2)
+[53, 55] : ideal(y^2,x*y,x^2)
+[56, 64] : ideal(x*y,x^2,y^3)
+[65, 67] : ideal(x^2,y^3,x*y^2)
+[68, 73] : ideal(x^2,x*y^2,y^4)
+[74, 76] : ideal(x*y^2,x^2*y,x^3,y^4)
+[77, 79] : ideal(x^2*y,x^3,y^4,x*y^3)
+[80, 82] : ideal(x^2*y,x^3,x*y^3,y^5)
+
+p = 83
+f = y^7+x^4
+g = -5*x^2*y^5+y^7+x^4
+t1 = 0, t2 = 78
+irred = true
+nu-inv = {32, 43, 52, 55, 64, 67, 73, 76, 79, 82}
+[1, 32] : ideal 1
+[33, 43] : ideal(y,x)
+[44, 52] : ideal(x,y^2)
+[53, 55] : ideal(y^2,x*y,x^2)
+[56, 64] : ideal(x*y,x^2,y^3)
+[65, 67] : ideal(x^2,y^3,x*y^2)
+[68, 73] : ideal(x^2,x*y^2,y^4)
+[74, 76] : ideal(x*y^2,x^2*y,x^3,y^4)
+[77, 79] : ideal(x^2*y,x^3,y^4,x*y^3)
+[80, 82] : ideal(x^2*y,x^3,x*y^3,y^5)
+
+p = 83
+f = y^7+x^4
+g = -4*x^2*y^5+y^7+x^4
+t1 = 0, t2 = 79
+irred = true
+nu-inv = {32, 43, 52, 55, 64, 67, 73, 76, 79, 82}
+[1, 32] : ideal 1
+[33, 43] : ideal(y,x)
+[44, 52] : ideal(x,y^2)
+[53, 55] : ideal(y^2,x*y,x^2)
+[56, 64] : ideal(x*y,x^2,y^3)
+[65, 67] : ideal(x^2,y^3,x*y^2)
+[68, 73] : ideal(x^2,x*y^2,y^4)
+[74, 76] : ideal(x*y^2,x^2*y,x^3,y^4)
+[77, 79] : ideal(x^2*y,x^3,y^4,x*y^3)
+[80, 82] : ideal(x^2*y,x^3,x*y^3,y^5)
+
+p = 83
+f = y^7+x^4
+g = -3*x^2*y^5+y^7+x^4
+t1 = 0, t2 = 80
+irred = true
+nu-inv = {32, 43, 52, 55, 64, 67, 73, 76, 79, 82}
+[1, 32] : ideal 1
+[33, 43] : ideal(y,x)
+[44, 52] : ideal(x,y^2)
+[53, 55] : ideal(y^2,x*y,x^2)
+[56, 64] : ideal(x*y,x^2,y^3)
+[65, 67] : ideal(x^2,y^3,x*y^2)
+[68, 73] : ideal(x^2,x*y^2,y^4)
+[74, 76] : ideal(x*y^2,x^2*y,x^3,y^4)
+[77, 79] : ideal(x^2*y,x^3,y^4,x*y^3)
+[80, 82] : ideal(x^2*y,x^3,x*y^3,y^5)
+
+p = 83
+f = y^7+x^4
+g = -2*x^2*y^5+y^7+x^4
+t1 = 0, t2 = 81
+irred = true
+nu-inv = {32, 43, 52, 55, 64, 67, 73, 76, 79, 82}
+[1, 32] : ideal 1
+[33, 43] : ideal(y,x)
+[44, 52] : ideal(x,y^2)
+[53, 55] : ideal(y^2,x*y,x^2)
+[56, 64] : ideal(x*y,x^2,y^3)
+[65, 67] : ideal(x^2,y^3,x*y^2)
+[68, 73] : ideal(x^2,x*y^2,y^4)
+[74, 76] : ideal(x*y^2,x^2*y,x^3,y^4)
+[77, 79] : ideal(x^2*y,x^3,y^4,x*y^3)
+[80, 82] : ideal(x^2*y,x^3,x*y^3,y^5)
+
+p = 83
+f = y^7+x^4
+g = -x^2*y^5+y^7+x^4
+t1 = 0, t2 = 82
+irred = true
+nu-inv = {32, 43, 52, 55, 64, 67, 73, 76, 79, 82}
+[1, 32] : ideal 1
+[33, 43] : ideal(y,x)
+[44, 52] : ideal(x,y^2)
+[53, 55] : ideal(y^2,x*y,x^2)
+[56, 64] : ideal(x*y,x^2,y^3)
+[65, 67] : ideal(x^2,y^3,x*y^2)
+[68, 73] : ideal(x^2,x*y^2,y^4)
+[74, 76] : ideal(x*y^2,x^2*y,x^3,y^4)
+[77, 79] : ideal(x^2*y,x^3,y^4,x*y^3)
+[80, 82] : ideal(x^2*y,x^3,x*y^3,y^5)
+
+p = 83
+f = y^7+x^4
+g = y^7+x^2*y^4+x^4
+t1 = 1, t2 = 0
+irred = true
+nu-inv = {32, 44, 52, 55, 64, 67, 73, 76, 79, 82}
+[1, 32] : ideal 1
+[33, 44] : ideal(y,x)
+[45, 52] : ideal(x,y^2)
+[53, 55] : ideal(y^2,x*y,x^2)
+[56, 64] : ideal(x*y,x^2,y^3)
+[65, 67] : ideal(x^2,y^3,x*y^2)
+[68, 73] : ideal(x^2,x*y^2,y^4)
+[74, 76] : ideal(x*y^2,x^2*y,x^3,y^4)
+[77, 79] : ideal(x^2*y,x^3,y^4,x*y^3)
+[80, 82] : ideal(x^2*y,x^3,x*y^3,y^5)
+
+p = 83
+f = y^7+x^4
+g = x^2*y^5+y^7+x^2*y^4+x^4
+t1 = 1, t2 = 1
+irred = true
+nu-inv = {32, 44, 52, 55, 64, 67, 73, 76, 79, 82}
+[1, 32] : ideal 1
+[33, 44] : ideal(y,x)
+[45, 52] : ideal(x,y^2)
+[53, 55] : ideal(y^2,x*y,x^2)
+[56, 64] : ideal(x*y,x^2,y^3)
+[65, 67] : ideal(x^2,y^3,x*y^2)
+[68, 73] : ideal(x^2,x*y^2,y^4)
+[74, 76] : ideal(x*y^2,x^2*y,x^3,y^4)
+[77, 79] : ideal(x^2*y,x^3,y^4,x*y^3)
+[80, 82] : ideal(x^2*y,x^3,x*y^3,y^5)
+
+p = 83
+f = y^7+x^4
+g = 2*x^2*y^5+y^7+x^2*y^4+x^4
+t1 = 1, t2 = 2
+irred = true
+nu-inv = {32, 44, 52, 55, 64, 67, 73, 76, 79, 82}
+[1, 32] : ideal 1
+[33, 44] : ideal(y,x)
+[45, 52] : ideal(x,y^2)
+[53, 55] : ideal(y^2,x*y,x^2)
+[56, 64] : ideal(x*y,x^2,y^3)
+[65, 67] : ideal(x^2,y^3,x*y^2)
+[68, 73] : ideal(x^2,x*y^2,y^4)
+[74, 76] : ideal(x*y^2,x^2*y,x^3,y^4)
+[77, 79] : ideal(x^2*y,x^3,y^4,x*y^3)
+[80, 82] : ideal(x^2*y,x^3,x*y^3,y^5)
+
+p = 83
+f = y^7+x^4
+g = 3*x^2*y^5+y^7+x^2*y^4+x^4
+t1 = 1, t2 = 3
+irred = true
+nu-inv = {32, 44, 52, 55, 64, 67, 73, 76, 79, 82}
+[1, 32] : ideal 1
+[33, 44] : ideal(y,x)
+[45, 52] : ideal(x,y^2)
+[53, 55] : ideal(y^2,x*y,x^2)
+[56, 64] : ideal(x*y,x^2,y^3)
+[65, 67] : ideal(x^2,y^3,x*y^2)
+[68, 73] : ideal(x^2,x*y^2,y^4)
+[74, 76] : ideal(x*y^2,x^2*y,x^3,y^4)
+[77, 79] : ideal(x^2*y,x^3,y^4,x*y^3)
+[80, 82] : ideal(x^2*y,x^3,x*y^3,y^5)
+
+p = 83
+f = y^7+x^4
+g = 4*x^2*y^5+y^7+x^2*y^4+x^4
+t1 = 1, t2 = 4
+irred = true
+nu-inv = {32, 44, 52, 55, 64, 67, 73, 76, 79, 82}
+[1, 32] : ideal 1
+[33, 44] : ideal(y,x)
+[45, 52] : ideal(x,y^2)
+[53, 55] : ideal(y^2,x*y,x^2)
+[56, 64] : ideal(x*y,x^2,y^3)
+[65, 67] : ideal(x^2,y^3,x*y^2)
+[68, 73] : ideal(x^2,x*y^2,y^4)
+[74, 76] : ideal(x*y^2,x^2*y,x^3,y^4)
+[77, 79] : ideal(x^2*y,x^3,y^4,x*y^3)
+[80, 82] : ideal(x^2*y,x^3,x*y^3,y^5)
+
+p = 83
+f = y^7+x^4
+g = 5*x^2*y^5+y^7+x^2*y^4+x^4
+t1 = 1, t2 = 5
+irred = true
+nu-inv = {32, 44, 52, 55, 64, 67, 73, 76, 79, 82}
+[1, 32] : ideal 1
+[33, 44] : ideal(y,x)
+[45, 52] : ideal(x,y^2)
+[53, 55] : ideal(y^2,x*y,x^2)
+[56, 64] : ideal(x*y,x^2,y^3)
+[65, 67] : ideal(x^2,y^3,x*y^2)
+[68, 73] : ideal(x^2,x*y^2,y^4)
+[74, 76] : ideal(x*y^2,x^2*y,x^3,y^4)
+[77, 79] : ideal(x^2*y,x^3,y^4,x*y^3)
+[80, 82] : ideal(x^2*y,x^3,x*y^3,y^5)
+
+p = 83
+f = y^7+x^4
+g = 6*x^2*y^5+y^7+x^2*y^4+x^4
+t1 = 1, t2 = 6
+irred = true
+nu-inv = {32, 44, 52, 55, 64, 67, 73, 76, 79, 82}
+[1, 32] : ideal 1
+[33, 44] : ideal(y,x)
+[45, 52] : ideal(x,y^2)
+[53, 55] : ideal(y^2,x*y,x^2)
+[56, 64] : ideal(x*y,x^2,y^3)
+[65, 67] : ideal(x^2,y^3,x*y^2)
+[68, 73] : ideal(x^2,x*y^2,y^4)
+[74, 76] : ideal(x*y^2,x^2*y,x^3,y^4)
+[77, 79] : ideal(x^2*y,x^3,y^4,x*y^3)
+[80, 82] : ideal(x^2*y,x^3,x*y^3,y^5)
+
+p = 83
+f = y^7+x^4
+g = 7*x^2*y^5+y^7+x^2*y^4+x^4
+t1 = 1, t2 = 7
+irred = true
+nu-inv = {32, 44, 52, 55, 64, 67, 73, 76, 79, 82}
+[1, 32] : ideal 1
+[33, 44] : ideal(y,x)
+[45, 52] : ideal(x,y^2)
+[53, 55] : ideal(y^2,x*y,x^2)
+[56, 64] : ideal(x*y,x^2,y^3)
+[65, 67] : ideal(x^2,y^3,x*y^2)
+[68, 73] : ideal(x^2,x*y^2,y^4)
+[74, 76] : ideal(x*y^2,x^2*y,x^3,y^4)
+[77, 79] : ideal(x^2*y,x^3,y^4,x*y^3)
+[80, 82] : ideal(x^2*y,x^3,x*y^3,y^5)
+
+p = 83
+f = y^7+x^4
+g = 8*x^2*y^5+y^7+x^2*y^4+x^4
+t1 = 1, t2 = 8
+irred = true
+nu-inv = {32, 44, 52, 55, 64, 67, 73, 76, 79, 82}
+[1, 32] : ideal 1
+[33, 44] : ideal(y,x)
+[45, 52] : ideal(x,y^2)
+[53, 55] : ideal(y^2,x*y,x^2)
+[56, 64] : ideal(x*y,x^2,y^3)
+[65, 67] : ideal(x^2,y^3,x*y^2)
+[68, 73] : ideal(x^2,x*y^2,y^4)
+[74, 76] : ideal(x*y^2,x^2*y,x^3,y^4)
+[77, 79] : ideal(x^2*y,x^3,y^4,x*y^3)
+[80, 82] : ideal(x^2*y,x^3,x*y^3,y^5)
+
+p = 83
+f = y^7+x^4
+g = 9*x^2*y^5+y^7+x^2*y^4+x^4
+t1 = 1, t2 = 9
+irred = true
+nu-inv = {32, 44, 52, 55, 64, 67, 73, 76, 79, 82}
+[1, 32] : ideal 1
+[33, 44] : ideal(y,x)
+[45, 52] : ideal(x,y^2)
+[53, 55] : ideal(y^2,x*y,x^2)
+[56, 64] : ideal(x*y,x^2,y^3)
+[65, 67] : ideal(x^2,y^3,x*y^2)
+[68, 73] : ideal(x^2,x*y^2,y^4)
+[74, 76] : ideal(x*y^2,x^2*y,x^3,y^4)
+[77, 79] : ideal(x^2*y,x^3,y^4,x*y^3)
+[80, 82] : ideal(x^2*y,x^3,x*y^3,y^5)
+
+p = 83
+f = y^7+x^4
+g = 10*x^2*y^5+y^7+x^2*y^4+x^4
+t1 = 1, t2 = 10
+irred = true
+nu-inv = {32, 44, 52, 55, 64, 67, 73, 76, 79, 82}
+[1, 32] : ideal 1
+[33, 44] : ideal(y,x)
+[45, 52] : ideal(x,y^2)
+[53, 55] : ideal(y^2,x*y,x^2)
+[56, 64] : ideal(x*y,x^2,y^3)
+[65, 67] : ideal(x^2,y^3,x*y^2)
+[68, 73] : ideal(x^2,x*y^2,y^4)
+[74, 76] : ideal(x*y^2,x^2*y,x^3,y^4)
+[77, 79] : ideal(x^2*y,x^3,y^4,x*y^3)
+[80, 82] : ideal(x^2*y,x^3,x*y^3,y^5)
+
+p = 83
+f = y^7+x^4
+g = 11*x^2*y^5+y^7+x^2*y^4+x^4
+t1 = 1, t2 = 11
+irred = true
+nu-inv = {32, 44, 52, 55, 64, 67, 73, 76, 79, 82}
+[1, 32] : ideal 1
+[33, 44] : ideal(y,x)
+[45, 52] : ideal(x,y^2)
+[53, 55] : ideal(y^2,x*y,x^2)
+[56, 64] : ideal(x*y,x^2,y^3)
+[65, 67] : ideal(x^2,y^3,x*y^2)
+[68, 73] : ideal(x^2,x*y^2,y^4)
+[74, 76] : ideal(x*y^2,x^2*y,x^3,y^4)
+[77, 79] : ideal(x^2*y,x^3,y^4,x*y^3)
+[80, 82] : ideal(x^2*y,x^3,x*y^3,y^5)
+
+p = 83
+f = y^7+x^4
+g = 12*x^2*y^5+y^7+x^2*y^4+x^4
+t1 = 1, t2 = 12
+irred = true
+nu-inv = {32, 44, 52, 55, 64, 67, 73, 76, 79, 82}
+[1, 32] : ideal 1
+[33, 44] : ideal(y,x)
+[45, 52] : ideal(x,y^2)
+[53, 55] : ideal(y^2,x*y,x^2)
+[56, 64] : ideal(x*y,x^2,y^3)
+[65, 67] : ideal(x^2,y^3,x*y^2)
+[68, 73] : ideal(x^2,x*y^2,y^4)
+[74, 76] : ideal(x*y^2,x^2*y,x^3,y^4)
+[77, 79] : ideal(x^2*y,x^3,y^4,x*y^3)
+[80, 82] : ideal(x^2*y,x^3,x*y^3,y^5)
+
+p = 83
+f = y^7+x^4
+g = 13*x^2*y^5+y^7+x^2*y^4+x^4
+t1 = 1, t2 = 13
+irred = true
+nu-inv = {32, 44, 52, 55, 64, 67, 73, 76, 79, 82}
+[1, 32] : ideal 1
+[33, 44] : ideal(y,x)
+[45, 52] : ideal(x,y^2)
+[53, 55] : ideal(y^2,x*y,x^2)
+[56, 64] : ideal(x*y,x^2,y^3)
+[65, 67] : ideal(x^2,y^3,x*y^2)
+[68, 73] : ideal(x^2,x*y^2,y^4)
+[74, 76] : ideal(x*y^2,x^2*y,x^3,y^4)
+[77, 79] : ideal(x^2*y,x^3,y^4,x*y^3)
+[80, 82] : ideal(x^2*y,x^3,x*y^3,y^5)
+
+p = 83
+f = y^7+x^4
+g = 14*x^2*y^5+y^7+x^2*y^4+x^4
+t1 = 1, t2 = 14
+irred = true
+nu-inv = {32, 44, 52, 55, 64, 67, 73, 76, 79, 82}
+[1, 32] : ideal 1
+[33, 44] : ideal(y,x)
+[45, 52] : ideal(x,y^2)
+[53, 55] : ideal(y^2,x*y,x^2)
+[56, 64] : ideal(x*y,x^2,y^3)
+[65, 67] : ideal(x^2,y^3,x*y^2)
+[68, 73] : ideal(x^2,x*y^2,y^4)
+[74, 76] : ideal(x*y^2,x^2*y,x^3,y^4)
+[77, 79] : ideal(x^2*y,x^3,y^4,x*y^3)
+[80, 82] : ideal(x^2*y,x^3,x*y^3,y^5)
+
+p = 83
+f = y^7+x^4
+g = 15*x^2*y^5+y^7+x^2*y^4+x^4
+t1 = 1, t2 = 15
+irred = true
+nu-inv = {32, 44, 52, 55, 64, 67, 73, 76, 79, 82}
+[1, 32] : ideal 1
+[33, 44] : ideal(y,x)
+[45, 52] : ideal(x,y^2)
+[53, 55] : ideal(y^2,x*y,x^2)
+[56, 64] : ideal(x*y,x^2,y^3)
+[65, 67] : ideal(x^2,y^3,x*y^2)
+[68, 73] : ideal(x^2,x*y^2,y^4)
+[74, 76] : ideal(x*y^2,x^2*y,x^3,y^4)
+[77, 79] : ideal(x^2*y,x^3,y^4,x*y^3)
+[80, 82] : ideal(x^2*y,x^3,x*y^3,y^5)
+
+p = 83
+f = y^7+x^4
+g = 16*x^2*y^5+y^7+x^2*y^4+x^4
+t1 = 1, t2 = 16
+irred = true
+nu-inv = {32, 44, 52, 55, 64, 67, 73, 76, 79, 82}
+[1, 32] : ideal 1
+[33, 44] : ideal(y,x)
+[45, 52] : ideal(x,y^2)
+[53, 55] : ideal(y^2,x*y,x^2)
+[56, 64] : ideal(x*y,x^2,y^3)
+[65, 67] : ideal(x^2,y^3,x*y^2)
+[68, 73] : ideal(x^2,x*y^2,y^4)
+[74, 76] : ideal(x*y^2,x^2*y,x^3,y^4)
+[77, 79] : ideal(x^2*y,x^3,y^4,x*y^3)
+[80, 82] : ideal(x^2*y,x^3,x*y^3,y^5)
+
+p = 83
+f = y^7+x^4
+g = 17*x^2*y^5+y^7+x^2*y^4+x^4
+t1 = 1, t2 = 17
+irred = true
+nu-inv = {32, 44, 52, 55, 64, 67, 73, 76, 79, 82}
+[1, 32] : ideal 1
+[33, 44] : ideal(y,x)
+[45, 52] : ideal(x,y^2)
+[53, 55] : ideal(y^2,x*y,x^2)
+[56, 64] : ideal(x*y,x^2,y^3)
+[65, 67] : ideal(x^2,y^3,x*y^2)
+[68, 73] : ideal(x^2,x*y^2,y^4)
+[74, 76] : ideal(x*y^2,x^2*y,x^3,y^4)
+[77, 79] : ideal(x^2*y,x^3,y^4,x*y^3)
+[80, 82] : ideal(x^2*y,x^3,x*y^3,y^5)
+
+p = 83
+f = y^7+x^4
+g = 18*x^2*y^5+y^7+x^2*y^4+x^4
+t1 = 1, t2 = 18
+irred = true
+nu-inv = {32, 44, 52, 55, 64, 67, 73, 76, 79, 82}
+[1, 32] : ideal 1
+[33, 44] : ideal(y,x)
+[45, 52] : ideal(x,y^2)
+[53, 55] : ideal(y^2,x*y,x^2)
+[56, 64] : ideal(x*y,x^2,y^3)
+[65, 67] : ideal(x^2,y^3,x*y^2)
+[68, 73] : ideal(x^2,x*y^2,y^4)
+[74, 76] : ideal(x*y^2,x^2*y,x^3,y^4,x*y^3)
+[77, 79] : ideal(x^2*y,x^3,y^4,x*y^3)
+[80, 82] : ideal(x^2*y,x^3,x*y^3,y^5)
+
+p = 83
+f = y^7+x^4
+g = 19*x^2*y^5+y^7+x^2*y^4+x^4
+t1 = 1, t2 = 19
+irred = true
+nu-inv = {32, 44, 52, 55, 64, 67, 73, 76, 79, 82}
+[1, 32] : ideal 1
+[33, 44] : ideal(y,x)
+[45, 52] : ideal(x,y^2)
+[53, 55] : ideal(y^2,x*y,x^2)
+[56, 64] : ideal(x*y,x^2,y^3)
+[65, 67] : ideal(x^2,y^3,x*y^2)
+[68, 73] : ideal(x^2,x*y^2,y^4)
+[74, 76] : ideal(x*y^2,x^2*y,x^3,y^4)
+[77, 79] : ideal(x^2*y,x^3,y^4,x*y^3)
+[80, 82] : ideal(x^2*y,x^3,x*y^3,y^5)
+
+p = 83
+f = y^7+x^4
+g = 20*x^2*y^5+y^7+x^2*y^4+x^4
+t1 = 1, t2 = 20
+irred = true
+nu-inv = {32, 44, 52, 55, 64, 67, 73, 76, 79, 82}
+[1, 32] : ideal 1
+[33, 44] : ideal(y,x)
+[45, 52] : ideal(x,y^2)
+[53, 55] : ideal(y^2,x*y,x^2)
+[56, 64] : ideal(x*y,x^2,y^3)
+[65, 67] : ideal(x^2,y^3,x*y^2)
+[68, 73] : ideal(x^2,x*y^2,y^4)
+[74, 76] : ideal(x*y^2,x^2*y,x^3,y^4)
+[77, 79] : ideal(x^2*y,x^3,y^4,x*y^3)
+[80, 82] : ideal(x^2*y,x^3,x*y^3,y^5)
+
+p = 83
+f = y^7+x^4
+g = 21*x^2*y^5+y^7+x^2*y^4+x^4
+t1 = 1, t2 = 21
+irred = true
+nu-inv = {32, 44, 52, 55, 64, 67, 73, 76, 79, 82}
+[1, 32] : ideal 1
+[33, 44] : ideal(y,x)
+[45, 52] : ideal(x,y^2)
+[53, 55] : ideal(y^2,x*y,x^2)
+[56, 64] : ideal(x*y,x^2,y^3)
+[65, 67] : ideal(x^2,y^3,x*y^2)
+[68, 73] : ideal(x^2,x*y^2,y^4)
+[74, 76] : ideal(x*y^2,x^2*y,x^3,y^4)
+[77, 79] : ideal(x^2*y,x^3,y^4,x*y^3)
+[80, 82] : ideal(x^2*y,x^3,x*y^3,y^5)
+
+p = 83
+f = y^7+x^4
+g = 22*x^2*y^5+y^7+x^2*y^4+x^4
+t1 = 1, t2 = 22
+irred = true
+nu-inv = {32, 44, 52, 55, 64, 67, 73, 76, 79, 82}
+[1, 32] : ideal 1
+[33, 44] : ideal(y,x)
+[45, 52] : ideal(x,y^2)
+[53, 55] : ideal(y^2,x*y,x^2)
+[56, 64] : ideal(x*y,x^2,y^3)
+[65, 67] : ideal(x^2,y^3,x*y^2)
+[68, 73] : ideal(x^2,x*y^2,y^4)
+[74, 76] : ideal(x*y^2,x^2*y,x^3,y^4)
+[77, 79] : ideal(x^2*y,x^3,y^4,x*y^3)
+[80, 82] : ideal(x^2*y,x^3,x*y^3,y^5)
+
+p = 83
+f = y^7+x^4
+g = 23*x^2*y^5+y^7+x^2*y^4+x^4
+t1 = 1, t2 = 23
+irred = true
+nu-inv = {32, 44, 52, 55, 64, 67, 73, 76, 79, 82}
+[1, 32] : ideal 1
+[33, 44] : ideal(y,x)
+[45, 52] : ideal(x,y^2)
+[53, 55] : ideal(y^2,x*y,x^2)
+[56, 64] : ideal(x*y,x^2,y^3)
+[65, 67] : ideal(x^2,y^3,x*y^2)
+[68, 73] : ideal(x^2,x*y^2,y^4)
+[74, 76] : ideal(x*y^2,x^2*y,x^3,y^4)
+[77, 79] : ideal(x^2*y,x^3,y^4,x*y^3)
+[80, 82] : ideal(x^2*y,x^3,x*y^3,y^5)
+
+p = 83
+f = y^7+x^4
+g = 24*x^2*y^5+y^7+x^2*y^4+x^4
+t1 = 1, t2 = 24
+irred = true
+nu-inv = {32, 44, 52, 55, 64, 67, 73, 76, 79, 82}
+[1, 32] : ideal 1
+[33, 44] : ideal(y,x)
+[45, 52] : ideal(x,y^2)
+[53, 55] : ideal(y^2,x*y,x^2)
+[56, 64] : ideal(x*y,x^2,y^3)
+[65, 67] : ideal(x^2,y^3,x*y^2)
+[68, 73] : ideal(x^2,x*y^2,y^4)
+[74, 76] : ideal(x*y^2,x^2*y,x^3,y^4)
+[77, 79] : ideal(x^2*y,x^3,y^4,x*y^3)
+[80, 82] : ideal(x^2*y,x^3,x*y^3,y^5)
+
+p = 83
+f = y^7+x^4
+g = 25*x^2*y^5+y^7+x^2*y^4+x^4
+t1 = 1, t2 = 25
+irred = true
+nu-inv = {32, 44, 52, 55, 64, 67, 73, 76, 79, 82}
+[1, 32] : ideal 1
+[33, 44] : ideal(y,x)
+[45, 52] : ideal(x,y^2)
+[53, 55] : ideal(y^2,x*y,x^2)
+[56, 64] : ideal(x*y,x^2,y^3)
+[65, 67] : ideal(x^2,y^3,x*y^2)
+[68, 73] : ideal(x^2,x*y^2,y^4)
+[74, 76] : ideal(x*y^2,x^2*y,x^3,y^4)
+[77, 79] : ideal(x^2*y,x^3,y^4,x*y^3)
+[80, 82] : ideal(x^2*y,x^3,x*y^3,y^5)
+
+p = 83
+f = y^7+x^4
+g = 26*x^2*y^5+y^7+x^2*y^4+x^4
+t1 = 1, t2 = 26
+irred = true
+nu-inv = {32, 44, 52, 55, 64, 67, 73, 76, 79, 82}
+[1, 32] : ideal 1
+[33, 44] : ideal(y,x)
+[45, 52] : ideal(x,y^2)
+[53, 55] : ideal(y^2,x*y,x^2)
+[56, 64] : ideal(x*y,x^2,y^3)
+[65, 67] : ideal(x^2,y^3,x*y^2)
+[68, 73] : ideal(x^2,x*y^2,y^4)
+[74, 76] : ideal(x*y^2,x^2*y,x^3,y^4)
+[77, 79] : ideal(x^2*y,x^3,y^4,x*y^3)
+[80, 82] : ideal(x^2*y,x^3,x*y^3,y^5)
+
+p = 83
+f = y^7+x^4
+g = 27*x^2*y^5+y^7+x^2*y^4+x^4
+t1 = 1, t2 = 27
+irred = true
+nu-inv = {32, 44, 52, 55, 64, 67, 73, 76, 79, 82}
+[1, 32] : ideal 1
+[33, 44] : ideal(y,x)
+[45, 52] : ideal(x,y^2)
+[53, 55] : ideal(y^2,x*y,x^2)
+[56, 64] : ideal(x*y,x^2,y^3)
+[65, 67] : ideal(x^2,y^3,x*y^2)
+[68, 73] : ideal(x^2,x*y^2,y^4)
+[74, 76] : ideal(x*y^2,x^2*y,x^3,y^4)
+[77, 79] : ideal(x^2*y,x^3,y^4,x*y^3)
+[80, 82] : ideal(x^2*y,x^3,x*y^3,y^5)
+
+p = 83
+f = y^7+x^4
+g = 28*x^2*y^5+y^7+x^2*y^4+x^4
+t1 = 1, t2 = 28
+irred = true
+nu-inv = {32, 44, 52, 55, 64, 67, 73, 76, 79, 82}
+[1, 32] : ideal 1
+[33, 44] : ideal(y,x)
+[45, 52] : ideal(x,y^2)
+[53, 55] : ideal(y^2,x*y,x^2)
+[56, 64] : ideal(x*y,x^2,y^3)
+[65, 67] : ideal(x^2,y^3,x*y^2)
+[68, 73] : ideal(x^2,x*y^2,y^4)
+[74, 76] : ideal(x*y^2,x^2*y,x^3,y^4)
+[77, 79] : ideal(x^2*y,x^3,y^4,x*y^3)
+[80, 82] : ideal(x^2*y,x^3,x*y^3,y^5)
+
+p = 83
+f = y^7+x^4
+g = 29*x^2*y^5+y^7+x^2*y^4+x^4
+t1 = 1, t2 = 29
+irred = true
+nu-inv = {32, 44, 52, 55, 64, 67, 73, 76, 79, 82}
+[1, 32] : ideal 1
+[33, 44] : ideal(y,x)
+[45, 52] : ideal(x,y^2)
+[53, 55] : ideal(y^2,x*y,x^2)
+[56, 64] : ideal(x*y,x^2,y^3)
+[65, 67] : ideal(x^2,y^3,x*y^2)
+[68, 73] : ideal(x^2,x*y^2,y^4)
+[74, 76] : ideal(x*y^2,x^2*y,x^3,y^4)
+[77, 79] : ideal(x^2*y,x^3,y^4,x*y^3)
+[80, 82] : ideal(x^2*y,x^3,x*y^3,y^5)
+
+p = 83
+f = y^7+x^4
+g = 30*x^2*y^5+y^7+x^2*y^4+x^4
+t1 = 1, t2 = 30
+irred = true
+nu-inv = {32, 44, 52, 55, 64, 67, 73, 76, 79, 82}
+[1, 32] : ideal 1
+[33, 44] : ideal(y,x)
+[45, 52] : ideal(x,y^2)
+[53, 55] : ideal(y^2,x*y,x^2)
+[56, 64] : ideal(x*y,x^2,y^3)
+[65, 67] : ideal(x^2,y^3,x*y^2)
+[68, 73] : ideal(x^2,x*y^2,y^4)
+[74, 76] : ideal(x*y^2,x^2*y,x^3,y^4)
+[77, 79] : ideal(x^2*y,x^3,y^4,x*y^3)
+[80, 82] : ideal(x^2*y,x^3,x*y^3,y^5)
+
+p = 83
+f = y^7+x^4
+g = 31*x^2*y^5+y^7+x^2*y^4+x^4
+t1 = 1, t2 = 31
+irred = true
+nu-inv = {32, 44, 52, 55, 64, 67, 73, 76, 79, 82}
+[1, 32] : ideal 1
+[33, 44] : ideal(y,x)
+[45, 52] : ideal(x,y^2)
+[53, 55] : ideal(y^2,x*y,x^2)
+[56, 64] : ideal(x*y,x^2,y^3)
+[65, 67] : ideal(x^2,y^3,x*y^2)
+[68, 73] : ideal(x^2,x*y^2,y^4)
+[74, 76] : ideal(x*y^2,x^2*y,x^3,y^4)
+[77, 79] : ideal(x^2*y,x^3,y^4,x*y^3)
+[80, 82] : ideal(x^2*y,x^3,x*y^3,y^5)
+
+p = 83
+f = y^7+x^4
+g = 32*x^2*y^5+y^7+x^2*y^4+x^4
+t1 = 1, t2 = 32
+irred = true
+nu-inv = {32, 44, 52, 55, 64, 67, 73, 76, 79, 82}
+[1, 32] : ideal 1
+[33, 44] : ideal(y,x)
+[45, 52] : ideal(x,y^2)
+[53, 55] : ideal(y^2,x*y,x^2)
+[56, 64] : ideal(x*y,x^2,y^3)
+[65, 67] : ideal(x^2,y^3,x*y^2)
+[68, 73] : ideal(x^2,x*y^2,y^4)
+[74, 76] : ideal(x*y^2,x^2*y,x^3,y^4)
+[77, 79] : ideal(x^2*y,x^3,y^4,x*y^3)
+[80, 82] : ideal(x^2*y,x^3,x*y^3,y^5)
+
+p = 83
+f = y^7+x^4
+g = 33*x^2*y^5+y^7+x^2*y^4+x^4
+t1 = 1, t2 = 33
+irred = true
+nu-inv = {32, 44, 52, 55, 64, 67, 73, 76, 79, 82}
+[1, 32] : ideal 1
+[33, 44] : ideal(y,x)
+[45, 52] : ideal(x,y^2)
+[53, 55] : ideal(y^2,x*y,x^2)
+[56, 64] : ideal(x*y,x^2,y^3)
+[65, 67] : ideal(x^2,y^3,x*y^2)
+[68, 73] : ideal(x^2,x*y^2,y^4)
+[74, 76] : ideal(x*y^2,x^2*y,x^3,y^4)
+[77, 79] : ideal(x^2*y,x^3,y^4,x*y^3)
+[80, 82] : ideal(x^2*y,x^3,x*y^3,y^5)
+
+p = 83
+f = y^7+x^4
+g = 34*x^2*y^5+y^7+x^2*y^4+x^4
+t1 = 1, t2 = 34
+irred = true
+nu-inv = {32, 44, 52, 55, 64, 67, 73, 76, 79, 82}
+[1, 32] : ideal 1
+[33, 44] : ideal(y,x)
+[45, 52] : ideal(x,y^2)
+[53, 55] : ideal(y^2,x*y,x^2)
+[56, 64] : ideal(x*y,x^2,y^3)
+[65, 67] : ideal(x^2,y^3,x*y^2)
+[68, 73] : ideal(x^2,x*y^2,y^4)
+[74, 76] : ideal(x*y^2,x^2*y,x^3,y^4)
+[77, 79] : ideal(x^2*y,x^3,y^4,x*y^3)
+[80, 82] : ideal(x^2*y,x^3,x*y^3,y^5)
+
+p = 83
+f = y^7+x^4
+g = 35*x^2*y^5+y^7+x^2*y^4+x^4
+t1 = 1, t2 = 35
+irred = true
+nu-inv = {32, 44, 52, 55, 64, 67, 73, 76, 79, 82}
+[1, 32] : ideal 1
+[33, 44] : ideal(y,x)
+[45, 52] : ideal(x,y^2)
+[53, 55] : ideal(y^2,x*y,x^2)
+[56, 64] : ideal(x*y,x^2,y^3)
+[65, 67] : ideal(x^2,y^3,x*y^2)
+[68, 73] : ideal(x^2,x*y^2,y^4)
+[74, 76] : ideal(x*y^2,x^2*y,x^3,y^4)
+[77, 79] : ideal(x^2*y,x^3,y^4,x*y^3)
+[80, 82] : ideal(x^2*y,x^3,x*y^3,y^5)
+
+p = 83
+f = y^7+x^4
+g = 36*x^2*y^5+y^7+x^2*y^4+x^4
+t1 = 1, t2 = 36
+irred = true
+nu-inv = {32, 44, 52, 55, 64, 67, 73, 76, 79, 82}
+[1, 32] : ideal 1
+[33, 44] : ideal(y,x)
+[45, 52] : ideal(x,y^2)
+[53, 55] : ideal(y^2,x*y,x^2)
+[56, 64] : ideal(x*y,x^2,y^3)
+[65, 67] : ideal(x^2,y^3,x*y^2)
+[68, 73] : ideal(x^2,x*y^2,y^4)
+[74, 76] : ideal(x*y^2,x^2*y,x^3,y^4)
+[77, 79] : ideal(x^2*y,x^3,y^4,x*y^3)
+[80, 82] : ideal(x^2*y,x^3,x*y^3,y^5)
+
+p = 83
+f = y^7+x^4
+g = 37*x^2*y^5+y^7+x^2*y^4+x^4
+t1 = 1, t2 = 37
+irred = true
+nu-inv = {32, 44, 52, 55, 64, 67, 73, 76, 79, 82}
+[1, 32] : ideal 1
+[33, 44] : ideal(y,x)
+[45, 52] : ideal(x,y^2)
+[53, 55] : ideal(y^2,x*y,x^2)
+[56, 64] : ideal(x*y,x^2,y^3)
+[65, 67] : ideal(x^2,y^3,x*y^2)
+[68, 73] : ideal(x^2,x*y^2,y^4)
+[74, 76] : ideal(x*y^2,x^2*y,x^3,y^4)
+[77, 79] : ideal(x^2*y,x^3,y^4,x*y^3)
+[80, 82] : ideal(x^2*y,x^3,x*y^3,y^5)
+
+p = 83
+f = y^7+x^4
+g = 38*x^2*y^5+y^7+x^2*y^4+x^4
+t1 = 1, t2 = 38
+irred = true
+nu-inv = {32, 44, 52, 55, 64, 67, 73, 76, 79, 82}
+[1, 32] : ideal 1
+[33, 44] : ideal(y,x)
+[45, 52] : ideal(x,y^2)
+[53, 55] : ideal(y^2,x*y,x^2)
+[56, 64] : ideal(x*y,x^2,y^3)
+[65, 67] : ideal(x^2,y^3,x*y^2)
+[68, 73] : ideal(x^2,x*y^2,y^4)
+[74, 76] : ideal(x*y^2,x^2*y,x^3,y^4,x*y^3)
+[77, 79] : ideal(x^2*y,x^3,y^4,x*y^3)
+[80, 82] : ideal(x^2*y,x^3,x*y^3,y^5)
+
+p = 83
+f = y^7+x^4
+g = 39*x^2*y^5+y^7+x^2*y^4+x^4
+t1 = 1, t2 = 39
+irred = true
+nu-inv = {32, 44, 52, 55, 64, 67, 73, 76, 79, 82}
+[1, 32] : ideal 1
+[33, 44] : ideal(y,x)
+[45, 52] : ideal(x,y^2)
+[53, 55] : ideal(y^2,x*y,x^2)
+[56, 64] : ideal(x*y,x^2,y^3)
+[65, 67] : ideal(x^2,y^3,x*y^2)
+[68, 73] : ideal(x^2,x*y^2,y^4)
+[74, 76] : ideal(x*y^2,x^2*y,x^3,y^4)
+[77, 79] : ideal(x^2*y,x^3,y^4,x*y^3)
+[80, 82] : ideal(x^2*y,x^3,x*y^3,y^5)
+
+p = 83
+f = y^7+x^4
+g = 40*x^2*y^5+y^7+x^2*y^4+x^4
+t1 = 1, t2 = 40
+irred = true
+nu-inv = {32, 44, 52, 55, 64, 67, 73, 76, 79, 82}
+[1, 32] : ideal 1
+[33, 44] : ideal(y,x)
+[45, 52] : ideal(x,y^2)
+[53, 55] : ideal(y^2,x*y,x^2)
+[56, 64] : ideal(x*y,x^2,y^3)
+[65, 67] : ideal(x^2,y^3,x*y^2)
+[68, 73] : ideal(x^2,x*y^2,y^4)
+[74, 76] : ideal(x*y^2,x^2*y,x^3,y^4)
+[77, 79] : ideal(x^2*y,x^3,y^4,x*y^3)
+[80, 82] : ideal(x^2*y,x^3,x*y^3,y^5)
+
+p = 83
+f = y^7+x^4
+g = 41*x^2*y^5+y^7+x^2*y^4+x^4
+t1 = 1, t2 = 41
+irred = true
+nu-inv = {32, 44, 52, 55, 64, 67, 73, 76, 79, 82}
+[1, 32] : ideal 1
+[33, 44] : ideal(y,x)
+[45, 52] : ideal(x,y^2)
+[53, 55] : ideal(y^2,x*y,x^2)
+[56, 64] : ideal(x*y,x^2,y^3)
+[65, 67] : ideal(x^2,y^3,x*y^2)
+[68, 73] : ideal(x^2,x*y^2,y^4)
+[74, 76] : ideal(x*y^2,x^2*y,x^3,y^4)
+[77, 79] : ideal(x^2*y,x^3,y^4,x*y^3)
+[80, 82] : ideal(x^2*y,x^3,x*y^3,y^5)
+
+p = 83
+f = y^7+x^4
+g = -41*x^2*y^5+y^7+x^2*y^4+x^4
+t1 = 1, t2 = 42
+irred = true
+nu-inv = {32, 44, 52, 55, 64, 67, 73, 76, 79, 82}
+[1, 32] : ideal 1
+[33, 44] : ideal(y,x)
+[45, 52] : ideal(x,y^2)
+[53, 55] : ideal(y^2,x*y,x^2)
+[56, 64] : ideal(x*y,x^2,y^3)
+[65, 67] : ideal(x^2,y^3,x*y^2)
+[68, 73] : ideal(x^2,x*y^2,y^4)
+[74, 76] : ideal(x*y^2,x^2*y,x^3,y^4)
+[77, 79] : ideal(x^2*y,x^3,y^4,x*y^3)
+[80, 82] : ideal(x^2*y,x^3,x*y^3,y^5)
+
+p = 83
+f = y^7+x^4
+g = -40*x^2*y^5+y^7+x^2*y^4+x^4
+t1 = 1, t2 = 43
+irred = true
+nu-inv = {32, 44, 52, 55, 64, 67, 73, 76, 79, 82}
+[1, 32] : ideal 1
+[33, 44] : ideal(y,x)
+[45, 52] : ideal(x,y^2)
+[53, 55] : ideal(y^2,x*y,x^2)
+[56, 64] : ideal(x*y,x^2,y^3)
+[65, 67] : ideal(x^2,y^3,x*y^2)
+[68, 73] : ideal(x^2,x*y^2,y^4)
+[74, 76] : ideal(x*y^2,x^2*y,x^3,y^4)
+[77, 79] : ideal(x^2*y,x^3,y^4,x*y^3)
+[80, 82] : ideal(x^2*y,x^3,x*y^3,y^5)
+
+p = 83
+f = y^7+x^4
+g = -39*x^2*y^5+y^7+x^2*y^4+x^4
+t1 = 1, t2 = 44
+irred = true
+nu-inv = {32, 44, 52, 55, 64, 67, 73, 76, 79, 82}
+[1, 32] : ideal 1
+[33, 44] : ideal(y,x)
+[45, 52] : ideal(x,y^2)
+[53, 55] : ideal(y^2,x*y,x^2)
+[56, 64] : ideal(x*y,x^2,y^3)
+[65, 67] : ideal(x^2,y^3,x*y^2)
+[68, 73] : ideal(x^2,x*y^2,y^4)
+[74, 76] : ideal(x*y^2,x^2*y,x^3,y^4)
+[77, 79] : ideal(x^2*y,x^3,y^4,x*y^3)
+[80, 82] : ideal(x^2*y,x^3,x*y^3,y^5)
+
+p = 83
+f = y^7+x^4
+g = -38*x^2*y^5+y^7+x^2*y^4+x^4
+t1 = 1, t2 = 45
+irred = true
+nu-inv = {32, 44, 52, 55, 64, 67, 73, 76, 79, 82}
+[1, 32] : ideal 1
+[33, 44] : ideal(y,x)
+[45, 52] : ideal(x,y^2)
+[53, 55] : ideal(y^2,x*y,x^2)
+[56, 64] : ideal(x*y,x^2,y^3)
+[65, 67] : ideal(x^2,y^3,x*y^2)
+[68, 73] : ideal(x^2,x*y^2,y^4)
+[74, 76] : ideal(x*y^2,x^2*y,x^3,y^4)
+[77, 79] : ideal(x^2*y,x^3,y^4,x*y^3)
+[80, 82] : ideal(x^2*y,x^3,x*y^3,y^5)
+
+p = 83
+f = y^7+x^4
+g = -37*x^2*y^5+y^7+x^2*y^4+x^4
+t1 = 1, t2 = 46
+irred = true
+nu-inv = {32, 44, 52, 55, 64, 67, 73, 76, 79, 82}
+[1, 32] : ideal 1
+[33, 44] : ideal(y,x)
+[45, 52] : ideal(x,y^2)
+[53, 55] : ideal(y^2,x*y,x^2)
+[56, 64] : ideal(x*y,x^2,y^3)
+[65, 67] : ideal(x^2,y^3,x*y^2)
+[68, 73] : ideal(x^2,x*y^2,y^4)
+[74, 76] : ideal(x*y^2,x^2*y,x^3,y^4)
+[77, 79] : ideal(x^2*y,x^3,y^4,x*y^3)
+[80, 82] : ideal(x^2*y,x^3,x*y^3,y^5)
+
+p = 83
+f = y^7+x^4
+g = -36*x^2*y^5+y^7+x^2*y^4+x^4
+t1 = 1, t2 = 47
+irred = true
+nu-inv = {32, 44, 52, 55, 64, 67, 73, 76, 79, 82}
+[1, 32] : ideal 1
+[33, 44] : ideal(y,x)
+[45, 52] : ideal(x,y^2)
+[53, 55] : ideal(y^2,x*y,x^2)
+[56, 64] : ideal(x*y,x^2,y^3)
+[65, 67] : ideal(x^2,y^3,x*y^2)
+[68, 73] : ideal(x^2,x*y^2,y^4)
+[74, 76] : ideal(x*y^2,x^2*y,x^3,y^4)
+[77, 79] : ideal(x^2*y,x^3,y^4,x*y^3)
+[80, 82] : ideal(x^2*y,x^3,x*y^3,y^5)
+
+p = 83
+f = y^7+x^4
+g = -35*x^2*y^5+y^7+x^2*y^4+x^4
+t1 = 1, t2 = 48
+irred = true
+nu-inv = {32, 44, 52, 55, 64, 67, 73, 76, 79, 82}
+[1, 32] : ideal 1
+[33, 44] : ideal(y,x)
+[45, 52] : ideal(x,y^2)
+[53, 55] : ideal(y^2,x*y,x^2)
+[56, 64] : ideal(x*y,x^2,y^3)
+[65, 67] : ideal(x^2,y^3,x*y^2)
+[68, 73] : ideal(x^2,x*y^2,y^4)
+[74, 76] : ideal(x*y^2,x^2*y,x^3,y^4)
+[77, 79] : ideal(x^2*y,x^3,y^4,x*y^3)
+[80, 82] : ideal(x^2*y,x^3,x*y^3,y^5)
+
+p = 83
+f = y^7+x^4
+g = -34*x^2*y^5+y^7+x^2*y^4+x^4
+t1 = 1, t2 = 49
+irred = true
+nu-inv = {32, 44, 52, 55, 64, 67, 73, 76, 79, 82}
+[1, 32] : ideal 1
+[33, 44] : ideal(y,x)
+[45, 52] : ideal(x,y^2)
+[53, 55] : ideal(y^2,x*y,x^2)
+[56, 64] : ideal(x*y,x^2,y^3)
+[65, 67] : ideal(x^2,y^3,x*y^2)
+[68, 73] : ideal(x^2,x*y^2,y^4)
+[74, 76] : ideal(x*y^2,x^2*y,x^3,y^4)
+[77, 79] : ideal(x^2*y,x^3,y^4,x*y^3)
+[80, 82] : ideal(x^2*y,x^3,x*y^3,y^5)
+
+p = 83
+f = y^7+x^4
+g = -33*x^2*y^5+y^7+x^2*y^4+x^4
+t1 = 1, t2 = 50
+irred = true
+nu-inv = {32, 44, 52, 55, 64, 67, 73, 76, 79, 82}
+[1, 32] : ideal 1
+[33, 44] : ideal(y,x)
+[45, 52] : ideal(x,y^2)
+[53, 55] : ideal(y^2,x*y,x^2)
+[56, 64] : ideal(x*y,x^2,y^3)
+[65, 67] : ideal(x^2,y^3,x*y^2)
+[68, 73] : ideal(x^2,x*y^2,y^4)
+[74, 76] : ideal(x*y^2,x^2*y,x^3,y^4)
+[77, 79] : ideal(x^2*y,x^3,y^4,x*y^3)
+[80, 82] : ideal(x^2*y,x^3,x*y^3,y^5)
+
+p = 83
+f = y^7+x^4
+g = -32*x^2*y^5+y^7+x^2*y^4+x^4
+t1 = 1, t2 = 51
+irred = true
+nu-inv = {32, 44, 52, 55, 64, 67, 73, 76, 79, 82}
+[1, 32] : ideal 1
+[33, 44] : ideal(y,x)
+[45, 52] : ideal(x,y^2)
+[53, 55] : ideal(y^2,x*y,x^2)
+[56, 64] : ideal(x*y,x^2,y^3)
+[65, 67] : ideal(x^2,y^3,x*y^2)
+[68, 73] : ideal(x^2,x*y^2,y^4)
+[74, 76] : ideal(x*y^2,x^2*y,x^3,y^4)
+[77, 79] : ideal(x^2*y,x^3,y^4,x*y^3)
+[80, 82] : ideal(x^2*y,x^3,x*y^3,y^5)
+
+p = 83
+f = y^7+x^4
+g = -31*x^2*y^5+y^7+x^2*y^4+x^4
+t1 = 1, t2 = 52
+irred = true
+nu-inv = {32, 44, 52, 55, 64, 67, 73, 76, 79, 82}
+[1, 32] : ideal 1
+[33, 44] : ideal(y,x)
+[45, 52] : ideal(x,y^2)
+[53, 55] : ideal(y^2,x*y,x^2)
+[56, 64] : ideal(x*y,x^2,y^3)
+[65, 67] : ideal(x^2,y^3,x*y^2)
+[68, 73] : ideal(x^2,x*y^2,y^4)
+[74, 76] : ideal(x*y^2,x^2*y,x^3,y^4)
+[77, 79] : ideal(x^2*y,x^3,y^4,x*y^3)
+[80, 82] : ideal(x^2*y,x^3,x*y^3,y^5)
+
+p = 83
+f = y^7+x^4
+g = -30*x^2*y^5+y^7+x^2*y^4+x^4
+t1 = 1, t2 = 53
+irred = true
+nu-inv = {32, 44, 52, 55, 64, 67, 73, 76, 79, 82}
+[1, 32] : ideal 1
+[33, 44] : ideal(y,x)
+[45, 52] : ideal(x,y^2)
+[53, 55] : ideal(y^2,x*y,x^2)
+[56, 64] : ideal(x*y,x^2,y^3)
+[65, 67] : ideal(x^2,y^3,x*y^2)
+[68, 73] : ideal(x^2,x*y^2,y^4)
+[74, 76] : ideal(x*y^2,x^2*y,x^3,y^4)
+[77, 79] : ideal(x^2*y,x^3,y^4,x*y^3)
+[80, 82] : ideal(x^2*y,x^3,x*y^3,y^5)
+
+p = 83
+f = y^7+x^4
+g = -29*x^2*y^5+y^7+x^2*y^4+x^4
+t1 = 1, t2 = 54
+irred = true
+nu-inv = {32, 44, 52, 55, 64, 67, 73, 76, 79, 82}
+[1, 32] : ideal 1
+[33, 44] : ideal(y,x)
+[45, 52] : ideal(x,y^2)
+[53, 55] : ideal(y^2,x*y,x^2)
+[56, 64] : ideal(x*y,x^2,y^3)
+[65, 67] : ideal(x^2,y^3,x*y^2)
+[68, 73] : ideal(x^2,x*y^2,y^4)
+[74, 76] : ideal(x*y^2,x^2*y,x^3,y^4)
+[77, 79] : ideal(x^2*y,x^3,y^4,x*y^3)
+[80, 82] : ideal(x^2*y,x^3,x*y^3,y^5)
+
+p = 83
+f = y^7+x^4
+g = -28*x^2*y^5+y^7+x^2*y^4+x^4
+t1 = 1, t2 = 55
+irred = true
+nu-inv = {32, 44, 52, 55, 64, 67, 73, 76, 79, 82}
+[1, 32] : ideal 1
+[33, 44] : ideal(y,x)
+[45, 52] : ideal(x,y^2)
+[53, 55] : ideal(y^2,x*y,x^2)
+[56, 64] : ideal(x*y,x^2,y^3)
+[65, 67] : ideal(x^2,y^3,x*y^2)
+[68, 73] : ideal(x^2,x*y^2,y^4)
+[74, 76] : ideal(x*y^2,x^2*y,x^3,y^4)
+[77, 79] : ideal(x^2*y,x^3,y^4,x*y^3)
+[80, 82] : ideal(x^2*y,x^3,x*y^3,y^5)
+
+p = 83
+f = y^7+x^4
+g = -27*x^2*y^5+y^7+x^2*y^4+x^4
+t1 = 1, t2 = 56
+irred = true
+nu-inv = {32, 44, 52, 55, 64, 67, 73, 76, 79, 82}
+[1, 32] : ideal 1
+[33, 44] : ideal(y,x)
+[45, 52] : ideal(x,y^2)
+[53, 55] : ideal(y^2,x*y,x^2)
+[56, 64] : ideal(x*y,x^2,y^3)
+[65, 67] : ideal(x^2,y^3,x*y^2)
+[68, 73] : ideal(x^2,x*y^2,y^4)
+[74, 76] : ideal(x*y^2,x^2*y,x^3,y^4)
+[77, 79] : ideal(x^2*y,x^3,y^4,x*y^3)
+[80, 82] : ideal(x^2*y,x^3,x*y^3,y^5)
+
+p = 83
+f = y^7+x^4
+g = -26*x^2*y^5+y^7+x^2*y^4+x^4
+t1 = 1, t2 = 57
+irred = true
+nu-inv = {32, 44, 52, 55, 64, 67, 73, 76, 79, 82}
+[1, 32] : ideal 1
+[33, 44] : ideal(y,x)
+[45, 52] : ideal(x,y^2)
+[53, 55] : ideal(y^2,x*y,x^2)
+[56, 64] : ideal(x*y,x^2,y^3)
+[65, 67] : ideal(x^2,y^3,x*y^2)
+[68, 73] : ideal(x^2,x*y^2,y^4)
+[74, 76] : ideal(x*y^2,x^2*y,x^3,y^4)
+[77, 79] : ideal(x^2*y,x^3,y^4,x*y^3)
+[80, 82] : ideal(x^2*y,x^3,x*y^3,y^5)
+
+p = 83
+f = y^7+x^4
+g = -25*x^2*y^5+y^7+x^2*y^4+x^4
+t1 = 1, t2 = 58
+irred = true
+nu-inv = {32, 44, 52, 55, 64, 67, 73, 76, 79, 82}
+[1, 32] : ideal 1
+[33, 44] : ideal(y,x)
+[45, 52] : ideal(x,y^2)
+[53, 55] : ideal(y^2,x*y,x^2)
+[56, 64] : ideal(x*y,x^2,y^3)
+[65, 67] : ideal(x^2,y^3,x*y^2)
+[68, 73] : ideal(x^2,x*y^2,y^4)
+[74, 76] : ideal(x*y^2,x^2*y,x^3,y^4)
+[77, 79] : ideal(x^2*y,x^3,y^4,x*y^3)
+[80, 82] : ideal(x^2*y,x^3,x*y^3,y^5)
+
+p = 83
+f = y^7+x^4
+g = -24*x^2*y^5+y^7+x^2*y^4+x^4
+t1 = 1, t2 = 59
+irred = true
+nu-inv = {32, 44, 52, 55, 64, 67, 73, 76, 79, 82}
+[1, 32] : ideal 1
+[33, 44] : ideal(y,x)
+[45, 52] : ideal(x,y^2)
+[53, 55] : ideal(y^2,x*y,x^2)
+[56, 64] : ideal(x*y,x^2,y^3)
+[65, 67] : ideal(x^2,y^3,x*y^2)
+[68, 73] : ideal(x^2,x*y^2,y^4)
+[74, 76] : ideal(x*y^2,x^2*y,x^3,y^4)
+[77, 79] : ideal(x^2*y,x^3,y^4,x*y^3)
+[80, 82] : ideal(x^2*y,x^3,x*y^3,y^5)
+
+p = 83
+f = y^7+x^4
+g = -23*x^2*y^5+y^7+x^2*y^4+x^4
+t1 = 1, t2 = 60
+irred = true
+nu-inv = {32, 44, 52, 55, 64, 67, 73, 76, 79, 82}
+[1, 32] : ideal 1
+[33, 44] : ideal(y,x)
+[45, 52] : ideal(x,y^2)
+[53, 55] : ideal(y^2,x*y,x^2)
+[56, 64] : ideal(x*y,x^2,y^3)
+[65, 67] : ideal(x^2,y^3,x*y^2)
+[68, 73] : ideal(x^2,x*y^2,y^4)
+[74, 76] : ideal(x*y^2,x^2*y,x^3,y^4)
+[77, 79] : ideal(x^2*y,x^3,y^4,x*y^3)
+[80, 82] : ideal(x^2*y,x^3,x*y^3,y^5)
+
+p = 83
+f = y^7+x^4
+g = -22*x^2*y^5+y^7+x^2*y^4+x^4
+t1 = 1, t2 = 61
+irred = true
+nu-inv = {32, 44, 52, 55, 64, 67, 73, 76, 79, 82}
+[1, 32] : ideal 1
+[33, 44] : ideal(y,x)
+[45, 52] : ideal(x,y^2)
+[53, 55] : ideal(y^2,x*y,x^2)
+[56, 64] : ideal(x*y,x^2,y^3)
+[65, 67] : ideal(x^2,y^3,x*y^2)
+[68, 73] : ideal(x^2,x*y^2,y^4)
+[74, 76] : ideal(x*y^2,x^2*y,x^3,y^4)
+[77, 79] : ideal(x^2*y,x^3,y^4,x*y^3)
+[80, 82] : ideal(x^2*y,x^3,x*y^3,y^5)
+
+p = 83
+f = y^7+x^4
+g = -21*x^2*y^5+y^7+x^2*y^4+x^4
+t1 = 1, t2 = 62
+irred = true
+nu-inv = {32, 44, 52, 55, 64, 67, 73, 76, 79, 82}
+[1, 32] : ideal 1
+[33, 44] : ideal(y,x)
+[45, 52] : ideal(x,y^2)
+[53, 55] : ideal(y^2,x*y,x^2)
+[56, 64] : ideal(x*y,x^2,y^3)
+[65, 67] : ideal(x^2,y^3,x*y^2)
+[68, 73] : ideal(x^2,x*y^2,y^4)
+[74, 76] : ideal(x*y^2,x^2*y,x^3,y^4)
+[77, 79] : ideal(x^2*y,x^3,y^4,x*y^3)
+[80, 82] : ideal(x^2*y,x^3,x*y^3,y^5)
+
+p = 83
+f = y^7+x^4
+g = -20*x^2*y^5+y^7+x^2*y^4+x^4
+t1 = 1, t2 = 63
+irred = true
+nu-inv = {32, 44, 52, 55, 64, 67, 73, 76, 79, 82}
+[1, 32] : ideal 1
+[33, 44] : ideal(y,x)
+[45, 52] : ideal(x,y^2)
+[53, 55] : ideal(y^2,x*y,x^2)
+[56, 64] : ideal(x*y,x^2,y^3)
+[65, 67] : ideal(x^2,y^3,x*y^2)
+[68, 73] : ideal(x^2,x*y^2,y^4)
+[74, 76] : ideal(x*y^2,x^2*y,x^3,y^4)
+[77, 79] : ideal(x^2*y,x^3,y^4,x*y^3)
+[80, 82] : ideal(x^2*y,x^3,x*y^3,y^5)
+
+p = 83
+f = y^7+x^4
+g = -19*x^2*y^5+y^7+x^2*y^4+x^4
+t1 = 1, t2 = 64
+irred = true
+nu-inv = {32, 44, 52, 55, 64, 67, 73, 76, 79, 82}
+[1, 32] : ideal 1
+[33, 44] : ideal(y,x)
+[45, 52] : ideal(x,y^2)
+[53, 55] : ideal(y^2,x*y,x^2)
+[56, 64] : ideal(x*y,x^2,y^3)
+[65, 67] : ideal(x^2,y^3,x*y^2)
+[68, 73] : ideal(x^2,x*y^2,y^4)
+[74, 76] : ideal(x*y^2,x^2*y,x^3,y^4)
+[77, 79] : ideal(x^2*y,x^3,y^4,x*y^3)
+[80, 82] : ideal(x^2*y,x^3,x*y^3,y^5)
+
+p = 83
+f = y^7+x^4
+g = -18*x^2*y^5+y^7+x^2*y^4+x^4
+t1 = 1, t2 = 65
+irred = true
+nu-inv = {32, 44, 52, 55, 64, 67, 73, 76, 79, 82}
+[1, 32] : ideal 1
+[33, 44] : ideal(y,x)
+[45, 52] : ideal(x,y^2)
+[53, 55] : ideal(y^2,x*y,x^2)
+[56, 64] : ideal(x*y,x^2,y^3)
+[65, 67] : ideal(x^2,y^3,x*y^2)
+[68, 73] : ideal(x^2,x*y^2,y^4)
+[74, 76] : ideal(x*y^2,x^2*y,x^3,y^4)
+[77, 79] : ideal(x^2*y,x^3,y^4,x*y^3)
+[80, 82] : ideal(x^2*y,x^3,x*y^3,y^5)
+
+p = 83
+f = y^7+x^4
+g = -17*x^2*y^5+y^7+x^2*y^4+x^4
+t1 = 1, t2 = 66
+irred = true
+nu-inv = {32, 44, 52, 55, 64, 67, 73, 76, 79, 82}
+[1, 32] : ideal 1
+[33, 44] : ideal(y,x)
+[45, 52] : ideal(x,y^2)
+[53, 55] : ideal(y^2,x*y,x^2)
+[56, 64] : ideal(x*y,x^2,y^3)
+[65, 67] : ideal(x^2,y^3,x*y^2)
+[68, 73] : ideal(x^2,x*y^2,y^4)
+[74, 76] : ideal(x*y^2,x^2*y,x^3,y^4)
+[77, 79] : ideal(x^2*y,x^3,y^4,x*y^3)
+[80, 82] : ideal(x^2*y,x^3,x*y^3,y^5)
+
+p = 83
+f = y^7+x^4
+g = -16*x^2*y^5+y^7+x^2*y^4+x^4
+t1 = 1, t2 = 67
+irred = true
+nu-inv = {32, 44, 52, 55, 64, 67, 73, 76, 79, 82}
+[1, 32] : ideal 1
+[33, 44] : ideal(y,x)
+[45, 52] : ideal(x,y^2)
+[53, 55] : ideal(y^2,x*y,x^2)
+[56, 64] : ideal(x*y,x^2,y^3)
+[65, 67] : ideal(x^2,y^3,x*y^2)
+[68, 73] : ideal(x^2,x*y^2,y^4)
+[74, 76] : ideal(x*y^2,x^2*y,x^3,y^4)
+[77, 79] : ideal(x^2*y,x^3,y^4,x*y^3)
+[80, 82] : ideal(x^2*y,x^3,x*y^3,y^5)
+
+p = 83
+f = y^7+x^4
+g = -15*x^2*y^5+y^7+x^2*y^4+x^4
+t1 = 1, t2 = 68
+irred = true
+nu-inv = {32, 44, 52, 55, 64, 67, 73, 76, 79, 82}
+[1, 32] : ideal 1
+[33, 44] : ideal(y,x)
+[45, 52] : ideal(x,y^2)
+[53, 55] : ideal(y^2,x*y,x^2)
+[56, 64] : ideal(x*y,x^2,y^3)
+[65, 67] : ideal(x^2,y^3,x*y^2)
+[68, 73] : ideal(x^2,x*y^2,y^4)
+[74, 76] : ideal(x*y^2,x^2*y,x^3,y^4)
+[77, 79] : ideal(x^2*y,x^3,y^4,x*y^3)
+[80, 82] : ideal(x^2*y,x^3,x*y^3,y^5)
+
+p = 83
+f = y^7+x^4
+g = -14*x^2*y^5+y^7+x^2*y^4+x^4
+t1 = 1, t2 = 69
+irred = true
+nu-inv = {32, 44, 52, 55, 64, 67, 73, 76, 79, 82}
+[1, 32] : ideal 1
+[33, 44] : ideal(y,x)
+[45, 52] : ideal(x,y^2)
+[53, 55] : ideal(y^2,x*y,x^2)
+[56, 64] : ideal(x*y,x^2,y^3)
+[65, 67] : ideal(x^2,y^3,x*y^2)
+[68, 73] : ideal(x^2,x*y^2,y^4)
+[74, 76] : ideal(x*y^2,x^2*y,x^3,y^4)
+[77, 79] : ideal(x^2*y,x^3,y^4,x*y^3)
+[80, 82] : ideal(x^2*y,x^3,x*y^3,y^5)
+
+p = 83
+f = y^7+x^4
+g = -13*x^2*y^5+y^7+x^2*y^4+x^4
+t1 = 1, t2 = 70
+irred = true
+nu-inv = {32, 44, 52, 55, 64, 67, 73, 76, 79, 82}
+[1, 32] : ideal 1
+[33, 44] : ideal(y,x)
+[45, 52] : ideal(x,y^2)
+[53, 55] : ideal(y^2,x*y,x^2)
+[56, 64] : ideal(x*y,x^2,y^3)
+[65, 67] : ideal(x^2,y^3,x*y^2)
+[68, 73] : ideal(x^2,x*y^2,y^4)
+[74, 76] : ideal(x*y^2,x^2*y,x^3,y^4)
+[77, 79] : ideal(x^2*y,x^3,y^4,x*y^3)
+[80, 82] : ideal(x^2*y,x^3,x*y^3,y^5)
+
+p = 83
+f = y^7+x^4
+g = -12*x^2*y^5+y^7+x^2*y^4+x^4
+t1 = 1, t2 = 71
+irred = true
+nu-inv = {32, 44, 52, 55, 64, 67, 73, 76, 79, 82}
+[1, 32] : ideal 1
+[33, 44] : ideal(y,x)
+[45, 52] : ideal(x,y^2)
+[53, 55] : ideal(y^2,x*y,x^2)
+[56, 64] : ideal(x*y,x^2,y^3)
+[65, 67] : ideal(x^2,y^3,x*y^2)
+[68, 73] : ideal(x^2,x*y^2,y^4)
+[74, 76] : ideal(x*y^2,x^2*y,x^3,y^4)
+[77, 79] : ideal(x^2*y,x^3,y^4,x*y^3)
+[80, 82] : ideal(x^2*y,x^3,x*y^3,y^5)
+
+p = 83
+f = y^7+x^4
+g = -11*x^2*y^5+y^7+x^2*y^4+x^4
+t1 = 1, t2 = 72
+irred = true
+nu-inv = {32, 44, 52, 55, 64, 67, 73, 76, 79, 82}
+[1, 32] : ideal 1
+[33, 44] : ideal(y,x)
+[45, 52] : ideal(x,y^2)
+[53, 55] : ideal(y^2,x*y,x^2)
+[56, 64] : ideal(x*y,x^2,y^3)
+[65, 67] : ideal(x^2,y^3,x*y^2)
+[68, 73] : ideal(x^2,x*y^2,y^4)
+[74, 76] : ideal(x*y^2,x^2*y,x^3,y^4)
+[77, 79] : ideal(x^2*y,x^3,y^4,x*y^3)
+[80, 82] : ideal(x^2*y,x^3,x*y^3,y^5)
+
+p = 83
+f = y^7+x^4
+g = -10*x^2*y^5+y^7+x^2*y^4+x^4
+t1 = 1, t2 = 73
+irred = true
+nu-inv = {32, 44, 52, 55, 64, 67, 73, 76, 79, 82}
+[1, 32] : ideal 1
+[33, 44] : ideal(y,x)
+[45, 52] : ideal(x,y^2)
+[53, 55] : ideal(y^2,x*y,x^2)
+[56, 64] : ideal(x*y,x^2,y^3)
+[65, 67] : ideal(x^2,y^3,x*y^2)
+[68, 73] : ideal(x^2,x*y^2,y^4)
+[74, 76] : ideal(x*y^2,x^2*y,x^3,y^4)
+[77, 79] : ideal(x^2*y,x^3,y^4,x*y^3)
+[80, 82] : ideal(x^2*y,x^3,x*y^3,y^5)
+
+p = 83
+f = y^7+x^4
+g = -9*x^2*y^5+y^7+x^2*y^4+x^4
+t1 = 1, t2 = 74
+irred = true
+nu-inv = {32, 44, 52, 55, 64, 67, 73, 76, 79, 82}
+[1, 32] : ideal 1
+[33, 44] : ideal(y,x)
+[45, 52] : ideal(x,y^2)
+[53, 55] : ideal(y^2,x*y,x^2)
+[56, 64] : ideal(x*y,x^2,y^3)
+[65, 67] : ideal(x^2,y^3,x*y^2)
+[68, 73] : ideal(x^2,x*y^2,y^4)
+[74, 76] : ideal(x*y^2,x^2*y,x^3,y^4)
+[77, 79] : ideal(x^2*y,x^3,y^4,x*y^3)
+[80, 82] : ideal(x^2*y,x^3,x*y^3,y^5)
+
+p = 83
+f = y^7+x^4
+g = -8*x^2*y^5+y^7+x^2*y^4+x^4
+t1 = 1, t2 = 75
+irred = true
+nu-inv = {32, 44, 52, 55, 64, 67, 73, 76, 79, 82}
+[1, 32] : ideal 1
+[33, 44] : ideal(y,x)
+[45, 52] : ideal(x,y^2)
+[53, 55] : ideal(y^2,x*y,x^2)
+[56, 64] : ideal(x*y,x^2,y^3)
+[65, 67] : ideal(x^2,y^3,x*y^2)
+[68, 73] : ideal(x^2,x*y^2,y^4)
+[74, 76] : ideal(x*y^2,x^2*y,x^3,y^4)
+[77, 79] : ideal(x^2*y,x^3,y^4,x*y^3)
+[80, 82] : ideal(x^2*y,x^3,x*y^3,y^5)
+
+p = 83
+f = y^7+x^4
+g = -7*x^2*y^5+y^7+x^2*y^4+x^4
+t1 = 1, t2 = 76
+irred = true
+nu-inv = {32, 44, 52, 55, 64, 67, 73, 76, 79, 82}
+[1, 32] : ideal 1
+[33, 44] : ideal(y,x)
+[45, 52] : ideal(x,y^2)
+[53, 55] : ideal(y^2,x*y,x^2)
+[56, 64] : ideal(x*y,x^2,y^3)
+[65, 67] : ideal(x^2,y^3,x*y^2)
+[68, 73] : ideal(x^2,x*y^2,y^4)
+[74, 76] : ideal(x*y^2,x^2*y,x^3,y^4)
+[77, 79] : ideal(x^2*y,x^3,y^4,x*y^3)
+[80, 82] : ideal(x^2*y,x^3,x*y^3,y^5)
+
+p = 83
+f = y^7+x^4
+g = -6*x^2*y^5+y^7+x^2*y^4+x^4
+t1 = 1, t2 = 77
+irred = true
+nu-inv = {32, 44, 52, 55, 64, 67, 73, 76, 79, 82}
+[1, 32] : ideal 1
+[33, 44] : ideal(y,x)
+[45, 52] : ideal(x,y^2)
+[53, 55] : ideal(y^2,x*y,x^2)
+[56, 64] : ideal(x*y,x^2,y^3)
+[65, 67] : ideal(x^2,y^3,x*y^2)
+[68, 73] : ideal(x^2,x*y^2,y^4)
+[74, 76] : ideal(x*y^2,x^2*y,x^3,y^4)
+[77, 79] : ideal(x^2*y,x^3,y^4,x*y^3)
+[80, 82] : ideal(x^2*y,x^3,x*y^3,y^5)
+
+p = 83
+f = y^7+x^4
+g = -5*x^2*y^5+y^7+x^2*y^4+x^4
+t1 = 1, t2 = 78
+irred = true
+nu-inv = {32, 44, 52, 55, 64, 67, 73, 76, 79, 82}
+[1, 32] : ideal 1
+[33, 44] : ideal(y,x)
+[45, 52] : ideal(x,y^2)
+[53, 55] : ideal(y^2,x*y,x^2)
+[56, 64] : ideal(x*y,x^2,y^3)
+[65, 67] : ideal(x^2,y^3,x*y^2)
+[68, 73] : ideal(x^2,x*y^2,y^4)
+[74, 76] : ideal(x*y^2,x^2*y,x^3,y^4)
+[77, 79] : ideal(x^2*y,x^3,y^4,x*y^3)
+[80, 82] : ideal(x^2*y,x^3,x*y^3,y^5)
+
+p = 83
+f = y^7+x^4
+g = -4*x^2*y^5+y^7+x^2*y^4+x^4
+t1 = 1, t2 = 79
+irred = true
+nu-inv = {32, 44, 52, 55, 64, 67, 73, 76, 79, 82}
+[1, 32] : ideal 1
+[33, 44] : ideal(y,x)
+[45, 52] : ideal(x,y^2)
+[53, 55] : ideal(y^2,x*y,x^2)
+[56, 64] : ideal(x*y,x^2,y^3)
+[65, 67] : ideal(x^2,y^3,x*y^2)
+[68, 73] : ideal(x^2,x*y^2,y^4)
+[74, 76] : ideal(x*y^2,x^2*y,x^3,y^4)
+[77, 79] : ideal(x^2*y,x^3,y^4,x*y^3)
+[80, 82] : ideal(x^2*y,x^3,x*y^3,y^5)
+
+p = 83
+f = y^7+x^4
+g = -3*x^2*y^5+y^7+x^2*y^4+x^4
+t1 = 1, t2 = 80
+irred = true
+nu-inv = {32, 44, 52, 55, 64, 67, 73, 76, 79, 82}
+[1, 32] : ideal 1
+[33, 44] : ideal(y,x)
+[45, 52] : ideal(x,y^2)
+[53, 55] : ideal(y^2,x*y,x^2)
+[56, 64] : ideal(x*y,x^2,y^3)
+[65, 67] : ideal(x^2,y^3,x*y^2)
+[68, 73] : ideal(x^2,x*y^2,y^4)
+[74, 76] : ideal(x*y^2,x^2*y,x^3,y^4)
+[77, 79] : ideal(x^2*y,x^3,y^4,x*y^3)
+[80, 82] : ideal(x^2*y,x^3,x*y^3,y^5)
+
+p = 83
+f = y^7+x^4
+g = -2*x^2*y^5+y^7+x^2*y^4+x^4
+t1 = 1, t2 = 81
+irred = true
+nu-inv = {32, 44, 52, 55, 64, 67, 73, 76, 79, 82}
+[1, 32] : ideal 1
+[33, 44] : ideal(y,x)
+[45, 52] : ideal(x,y^2)
+[53, 55] : ideal(y^2,x*y,x^2)
+[56, 64] : ideal(x*y,x^2,y^3)
+[65, 67] : ideal(x^2,y^3,x*y^2)
+[68, 73] : ideal(x^2,x*y^2,y^4)
+[74, 76] : ideal(x*y^2,x^2*y,x^3,y^4)
+[77, 79] : ideal(x^2*y,x^3,y^4,x*y^3)
+[80, 82] : ideal(x^2*y,x^3,x*y^3,y^5)
+
+p = 83
+f = y^7+x^4
+g = -x^2*y^5+y^7+x^2*y^4+x^4
+t1 = 1, t2 = 82
+irred = true
+nu-inv = {32, 44, 52, 55, 64, 67, 73, 76, 79, 82}
+[1, 32] : ideal 1
+[33, 44] : ideal(y,x)
+[45, 52] : ideal(x,y^2)
+[53, 55] : ideal(y^2,x*y,x^2)
+[56, 64] : ideal(x*y,x^2,y^3)
+[65, 67] : ideal(x^2,y^3,x*y^2)
+[68, 73] : ideal(x^2,x*y^2,y^4)
+[74, 76] : ideal(x*y^2,x^2*y,x^3,y^4)
+[77, 79] : ideal(x^2*y,x^3,y^4,x*y^3)
+[80, 82] : ideal(x^2*y,x^3,x*y^3,y^5)
+
+p = 83
+f = y^7+x^4
+g = y^7+2*x^2*y^4+x^4
+t1 = 2, t2 = 0
+irred = true
+nu-inv = {32, 44, 52, 55, 64, 67, 73, 76, 79, 82}
+[1, 32] : ideal 1
+[33, 44] : ideal(y,x)
+[45, 52] : ideal(x,y^2)
+[53, 55] : ideal(y^2,x*y,x^2)
+[56, 64] : ideal(x*y,x^2,y^3)
+[65, 67] : ideal(x^2,y^3,x*y^2)
+[68, 73] : ideal(x^2,x*y^2,y^4)
+[74, 76] : ideal(x*y^2,x^2*y,x^3,y^4)
+[77, 79] : ideal(x^2*y,x^3,y^4,x*y^3)
+[80, 82] : ideal(x^2*y,x^3,x*y^3,y^5)
+
+p = 83
+f = y^7+x^4
+g = x^2*y^5+y^7+2*x^2*y^4+x^4
+t1 = 2, t2 = 1
+irred = true
+nu-inv = {32, 44, 52, 55, 64, 67, 73, 76, 79, 82}
+[1, 32] : ideal 1
+[33, 44] : ideal(y,x)
+[45, 52] : ideal(x,y^2)
+[53, 55] : ideal(y^2,x*y,x^2)
+[56, 64] : ideal(x*y,x^2,y^3)
+[65, 67] : ideal(x^2,y^3,x*y^2)
+[68, 73] : ideal(x^2,x*y^2,y^4)
+[74, 76] : ideal(x*y^2,x^2*y,x^3,y^4)
+[77, 79] : ideal(x^2*y,x^3,y^4,x*y^3)
+[80, 82] : ideal(x^2*y,x^3,x*y^3,y^5)
+
+p = 83
+f = y^7+x^4
+g = 2*x^2*y^5+y^7+2*x^2*y^4+x^4
+t1 = 2, t2 = 2
+irred = true
+nu-inv = {32, 44, 52, 55, 64, 67, 73, 76, 79, 82}
+[1, 32] : ideal 1
+[33, 44] : ideal(y,x)
+[45, 52] : ideal(x,y^2)
+[53, 55] : ideal(y^2,x*y,x^2)
+[56, 64] : ideal(x*y,x^2,y^3)
+[65, 67] : ideal(x^2,y^3,x*y^2)
+[68, 73] : ideal(x^2,x*y^2,y^4)
+[74, 76] : ideal(x*y^2,x^2*y,x^3,y^4)
+[77, 79] : ideal(x^2*y,x^3,y^4,x*y^3)
+[80, 82] : ideal(x^2*y,x^3,x*y^3,y^5)
+
+p = 83
+f = y^7+x^4
+g = 3*x^2*y^5+y^7+2*x^2*y^4+x^4
+t1 = 2, t2 = 3
+irred = true
+nu-inv = {32, 44, 52, 55, 64, 67, 73, 76, 79, 82}
+[1, 32] : ideal 1
+[33, 44] : ideal(y,x)
+[45, 52] : ideal(x,y^2)
+[53, 55] : ideal(y^2,x*y,x^2)
+[56, 64] : ideal(x*y,x^2,y^3)
+[65, 67] : ideal(x^2,y^3,x*y^2)
+[68, 73] : ideal(x^2,x*y^2,y^4)
+[74, 76] : ideal(x*y^2,x^2*y,x^3,y^4)
+[77, 79] : ideal(x^2*y,x^3,y^4,x*y^3)
+[80, 82] : ideal(x^2*y,x^3,x*y^3,y^5)
+
+p = 83
+f = y^7+x^4
+g = 4*x^2*y^5+y^7+2*x^2*y^4+x^4
+t1 = 2, t2 = 4
+irred = true
+nu-inv = {32, 44, 52, 55, 64, 67, 73, 76, 79, 82}
+[1, 32] : ideal 1
+[33, 44] : ideal(y,x)
+[45, 52] : ideal(x,y^2)
+[53, 55] : ideal(y^2,x*y,x^2)
+[56, 64] : ideal(x*y,x^2,y^3)
+[65, 67] : ideal(x^2,y^3,x*y^2)
+[68, 73] : ideal(x^2,x*y^2,y^4)
+[74, 76] : ideal(x*y^2,x^2*y,x^3,y^4)
+[77, 79] : ideal(x^2*y,x^3,y^4,x*y^3)
+[80, 82] : ideal(x^2*y,x^3,x*y^3,y^5)
+
+p = 83
+f = y^7+x^4
+g = 5*x^2*y^5+y^7+2*x^2*y^4+x^4
+t1 = 2, t2 = 5
+irred = true
+nu-inv = {32, 44, 52, 55, 64, 67, 73, 76, 79, 82}
+[1, 32] : ideal 1
+[33, 44] : ideal(y,x)
+[45, 52] : ideal(x,y^2)
+[53, 55] : ideal(y^2,x*y,x^2)
+[56, 64] : ideal(x*y,x^2,y^3)
+[65, 67] : ideal(x^2,y^3,x*y^2)
+[68, 73] : ideal(x^2,x*y^2,y^4)
+[74, 76] : ideal(x*y^2,x^2*y,x^3,y^4)
+[77, 79] : ideal(x^2*y,x^3,y^4,x*y^3)
+[80, 82] : ideal(x^2*y,x^3,x*y^3,y^5)
+
+p = 83
+f = y^7+x^4
+g = 6*x^2*y^5+y^7+2*x^2*y^4+x^4
+t1 = 2, t2 = 6
+irred = true
+nu-inv = {32, 44, 52, 55, 64, 67, 73, 76, 79, 82}
+[1, 32] : ideal 1
+[33, 44] : ideal(y,x)
+[45, 52] : ideal(x,y^2)
+[53, 55] : ideal(y^2,x*y,x^2)
+[56, 64] : ideal(x*y,x^2,y^3)
+[65, 67] : ideal(x^2,y^3,x*y^2)
+[68, 73] : ideal(x^2,x*y^2,y^4)
+[74, 76] : ideal(x*y^2,x^2*y,x^3,y^4)
+[77, 79] : ideal(x^2*y,x^3,y^4,x*y^3)
+[80, 82] : ideal(x^2*y,x^3,x*y^3,y^5)
+
+p = 83
+f = y^7+x^4
+g = 7*x^2*y^5+y^7+2*x^2*y^4+x^4
+t1 = 2, t2 = 7
+irred = true
+nu-inv = {32, 44, 52, 55, 64, 67, 73, 76, 79, 82}
+[1, 32] : ideal 1
+[33, 44] : ideal(y,x)
+[45, 52] : ideal(x,y^2)
+[53, 55] : ideal(y^2,x*y,x^2)
+[56, 64] : ideal(x*y,x^2,y^3)
+[65, 67] : ideal(x^2,y^3,x*y^2)
+[68, 73] : ideal(x^2,x*y^2,y^4)
+[74, 76] : ideal(x*y^2,x^2*y,x^3,y^4)
+[77, 79] : ideal(x^2*y,x^3,y^4,x*y^3)
+[80, 82] : ideal(x^2*y,x^3,x*y^3,y^5)
+
+p = 83
+f = y^7+x^4
+g = 8*x^2*y^5+y^7+2*x^2*y^4+x^4
+t1 = 2, t2 = 8
+irred = true
+nu-inv = {32, 44, 52, 55, 64, 67, 73, 76, 79, 82}
+[1, 32] : ideal 1
+[33, 44] : ideal(y,x)
+[45, 52] : ideal(x,y^2)
+[53, 55] : ideal(y^2,x*y,x^2)
+[56, 64] : ideal(x*y,x^2,y^3)
+[65, 67] : ideal(x^2,y^3,x*y^2)
+[68, 73] : ideal(x^2,x*y^2,y^4)
+[74, 76] : ideal(x*y^2,x^2*y,x^3,y^4)
+[77, 79] : ideal(x^2*y,x^3,y^4,x*y^3)
+[80, 82] : ideal(x^2*y,x^3,x*y^3,y^5)
+
+p = 83
+f = y^7+x^4
+g = 9*x^2*y^5+y^7+2*x^2*y^4+x^4
+t1 = 2, t2 = 9
+irred = true
+nu-inv = {32, 44, 52, 55, 64, 67, 73, 76, 79, 82}
+[1, 32] : ideal 1
+[33, 44] : ideal(y,x)
+[45, 52] : ideal(x,y^2)
+[53, 55] : ideal(y^2,x*y,x^2)
+[56, 64] : ideal(x*y,x^2,y^3)
+[65, 67] : ideal(x^2,y^3,x*y^2)
+[68, 73] : ideal(x^2,x*y^2,y^4)
+[74, 76] : ideal(x*y^2,x^2*y,x^3,y^4)
+[77, 79] : ideal(x^2*y,x^3,y^4,x*y^3)
+[80, 82] : ideal(x^2*y,x^3,x*y^3,y^5)
+
+p = 83
+f = y^7+x^4
+g = 10*x^2*y^5+y^7+2*x^2*y^4+x^4
+t1 = 2, t2 = 10
+irred = true
+nu-inv = {32, 44, 52, 55, 64, 67, 73, 76, 79, 82}
+[1, 32] : ideal 1
+[33, 44] : ideal(y,x)
+[45, 52] : ideal(x,y^2)
+[53, 55] : ideal(y^2,x*y,x^2)
+[56, 64] : ideal(x*y,x^2,y^3)
+[65, 67] : ideal(x^2,y^3,x*y^2)
+[68, 73] : ideal(x^2,x*y^2,y^4)
+[74, 76] : ideal(x*y^2,x^2*y,x^3,y^4)
+[77, 79] : ideal(x^2*y,x^3,y^4,x*y^3)
+[80, 82] : ideal(x^2*y,x^3,x*y^3,y^5)
+
+p = 83
+f = y^7+x^4
+g = 11*x^2*y^5+y^7+2*x^2*y^4+x^4
+t1 = 2, t2 = 11
+irred = true
+nu-inv = {32, 44, 52, 55, 64, 67, 73, 76, 79, 82}
+[1, 32] : ideal 1
+[33, 44] : ideal(y,x)
+[45, 52] : ideal(x,y^2)
+[53, 55] : ideal(y^2,x*y,x^2)
+[56, 64] : ideal(x*y,x^2,y^3)
+[65, 67] : ideal(x^2,y^3,x*y^2)
+[68, 73] : ideal(x^2,x*y^2,y^4)
+[74, 76] : ideal(x*y^2,x^2*y,x^3,y^4)
+[77, 79] : ideal(x^2*y,x^3,y^4,x*y^3)
+[80, 82] : ideal(x^2*y,x^3,x*y^3,y^5)
+
+p = 83
+f = y^7+x^4
+g = 12*x^2*y^5+y^7+2*x^2*y^4+x^4
+t1 = 2, t2 = 12
+irred = true
+nu-inv = {32, 44, 52, 55, 64, 67, 73, 76, 79, 82}
+[1, 32] : ideal 1
+[33, 44] : ideal(y,x)
+[45, 52] : ideal(x,y^2)
+[53, 55] : ideal(y^2,x*y,x^2)
+[56, 64] : ideal(x*y,x^2,y^3)
+[65, 67] : ideal(x^2,y^3,x*y^2)
+[68, 73] : ideal(x^2,x*y^2,y^4)
+[74, 76] : ideal(x*y^2,x^2*y,x^3,y^4)
+[77, 79] : ideal(x^2*y,x^3,y^4,x*y^3)
+[80, 82] : ideal(x^2*y,x^3,x*y^3,y^5)
+
+p = 83
+f = y^7+x^4
+g = 13*x^2*y^5+y^7+2*x^2*y^4+x^4
+t1 = 2, t2 = 13
+irred = true
+nu-inv = {32, 44, 52, 55, 64, 67, 73, 76, 79, 82}
+[1, 32] : ideal 1
+[33, 44] : ideal(y,x)
+[45, 52] : ideal(x,y^2)
+[53, 55] : ideal(y^2,x*y,x^2)
+[56, 64] : ideal(x*y,x^2,y^3)
+[65, 67] : ideal(x^2,y^3,x*y^2)
+[68, 73] : ideal(x^2,x*y^2,y^4)
+[74, 76] : ideal(x*y^2,x^2*y,x^3,y^4)
+[77, 79] : ideal(x^2*y,x^3,y^4,x*y^3)
+[80, 82] : ideal(x^2*y,x^3,x*y^3,y^5)
+
+p = 83
+f = y^7+x^4
+g = 14*x^2*y^5+y^7+2*x^2*y^4+x^4
+t1 = 2, t2 = 14
+irred = true
+nu-inv = {32, 44, 52, 55, 64, 67, 73, 76, 79, 82}
+[1, 32] : ideal 1
+[33, 44] : ideal(y,x)
+[45, 52] : ideal(x,y^2)
+[53, 55] : ideal(y^2,x*y,x^2)
+[56, 64] : ideal(x*y,x^2,y^3)
+[65, 67] : ideal(x^2,y^3,x*y^2)
+[68, 73] : ideal(x^2,x*y^2,y^4)
+[74, 76] : ideal(x*y^2,x^2*y,x^3,y^4)
+[77, 79] : ideal(x^2*y,x^3,y^4,x*y^3)
+[80, 82] : ideal(x^2*y,x^3,x*y^3,y^5)
+
+p = 83
+f = y^7+x^4
+g = 15*x^2*y^5+y^7+2*x^2*y^4+x^4
+t1 = 2, t2 = 15
+irred = true
+nu-inv = {32, 44, 52, 55, 64, 67, 73, 76, 79, 82}
+[1, 32] : ideal 1
+[33, 44] : ideal(y,x)
+[45, 52] : ideal(x,y^2)
+[53, 55] : ideal(y^2,x*y,x^2)
+[56, 64] : ideal(x*y,x^2,y^3)
+[65, 67] : ideal(x^2,y^3,x*y^2)
+[68, 73] : ideal(x^2,x*y^2,y^4)
+[74, 76] : ideal(x*y^2,x^2*y,x^3,y^4)
+[77, 79] : ideal(x^2*y,x^3,y^4,x*y^3)
+[80, 82] : ideal(x^2*y,x^3,x*y^3,y^5)
+
+p = 83
+f = y^7+x^4
+g = 16*x^2*y^5+y^7+2*x^2*y^4+x^4
+t1 = 2, t2 = 16
+irred = true
+nu-inv = {32, 44, 52, 55, 64, 67, 73, 76, 79, 82}
+[1, 32] : ideal 1
+[33, 44] : ideal(y,x)
+[45, 52] : ideal(x,y^2)
+[53, 55] : ideal(y^2,x*y,x^2)
+[56, 64] : ideal(x*y,x^2,y^3)
+[65, 67] : ideal(x^2,y^3,x*y^2)
+[68, 73] : ideal(x^2,x*y^2,y^4)
+[74, 76] : ideal(x*y^2,x^2*y,x^3,y^4)
+[77, 79] : ideal(x^2*y,x^3,y^4,x*y^3)
+[80, 82] : ideal(x^2*y,x^3,x*y^3,y^5)
+
+p = 83
+f = y^7+x^4
+g = 17*x^2*y^5+y^7+2*x^2*y^4+x^4
+t1 = 2, t2 = 17
+irred = true
+nu-inv = {32, 44, 52, 55, 64, 67, 73, 76, 79, 82}
+[1, 32] : ideal 1
+[33, 44] : ideal(y,x)
+[45, 52] : ideal(x,y^2)
+[53, 55] : ideal(y^2,x*y,x^2)
+[56, 64] : ideal(x*y,x^2,y^3)
+[65, 67] : ideal(x^2,y^3,x*y^2)
+[68, 73] : ideal(x^2,x*y^2,y^4)
+[74, 76] : ideal(x*y^2,x^2*y,x^3,y^4)
+[77, 79] : ideal(x^2*y,x^3,y^4,x*y^3)
+[80, 82] : ideal(x^2*y,x^3,x*y^3,y^5)
+
+p = 83
+f = y^7+x^4
+g = 18*x^2*y^5+y^7+2*x^2*y^4+x^4
+t1 = 2, t2 = 18
+irred = true
+nu-inv = {32, 44, 52, 55, 64, 67, 73, 76, 79, 82}
+[1, 32] : ideal 1
+[33, 44] : ideal(y,x)
+[45, 52] : ideal(x,y^2)
+[53, 55] : ideal(y^2,x*y,x^2)
+[56, 64] : ideal(x*y,x^2,y^3)
+[65, 67] : ideal(x^2,y^3,x*y^2)
+[68, 73] : ideal(x^2,x*y^2,y^4)
+[74, 76] : ideal(x*y^2,x^2*y,x^3,y^4)
+[77, 79] : ideal(x^2*y,x^3,y^4,x*y^3)
+[80, 82] : ideal(x^2*y,x^3,x*y^3,y^5)
+
+p = 83
+f = y^7+x^4
+g = 19*x^2*y^5+y^7+2*x^2*y^4+x^4
+t1 = 2, t2 = 19
+irred = true
+nu-inv = {32, 44, 52, 55, 64, 67, 73, 76, 79, 82}
+[1, 32] : ideal 1
+[33, 44] : ideal(y,x)
+[45, 52] : ideal(x,y^2)
+[53, 55] : ideal(y^2,x*y,x^2)
+[56, 64] : ideal(x*y,x^2,y^3)
+[65, 67] : ideal(x^2,y^3,x*y^2)
+[68, 73] : ideal(x^2,x*y^2,y^4)
+[74, 76] : ideal(x*y^2,x^2*y,x^3,y^4)
+[77, 79] : ideal(x^2*y,x^3,y^4,x*y^3)
+[80, 82] : ideal(x^2*y,x^3,x*y^3,y^5)
+
+p = 83
+f = y^7+x^4
+g = 20*x^2*y^5+y^7+2*x^2*y^4+x^4
+t1 = 2, t2 = 20
+irred = true
+nu-inv = {32, 44, 52, 55, 64, 67, 73, 76, 79, 82}
+[1, 32] : ideal 1
+[33, 44] : ideal(y,x)
+[45, 52] : ideal(x,y^2)
+[53, 55] : ideal(y^2,x*y,x^2)
+[56, 64] : ideal(x*y,x^2,y^3)
+[65, 67] : ideal(x^2,y^3,x*y^2)
+[68, 73] : ideal(x^2,x*y^2,y^4)
+[74, 76] : ideal(x*y^2,x^2*y,x^3,y^4)
+[77, 79] : ideal(x^2*y,x^3,y^4,x*y^3)
+[80, 82] : ideal(x^2*y,x^3,x*y^3,y^5)
+
+p = 83
+f = y^7+x^4
+g = 21*x^2*y^5+y^7+2*x^2*y^4+x^4
+t1 = 2, t2 = 21
+irred = true
+nu-inv = {32, 44, 52, 55, 64, 67, 73, 76, 79, 82}
+[1, 32] : ideal 1
+[33, 44] : ideal(y,x)
+[45, 52] : ideal(x,y^2)
+[53, 55] : ideal(y^2,x*y,x^2)
+[56, 64] : ideal(x*y,x^2,y^3)
+[65, 67] : ideal(x^2,y^3,x*y^2)
+[68, 73] : ideal(x^2,x*y^2,y^4)
+[74, 76] : ideal(x*y^2,x^2*y,x^3,y^4)
+[77, 79] : ideal(x^2*y,x^3,y^4,x*y^3)
+[80, 82] : ideal(x^2*y,x^3,x*y^3,y^5)
+
+p = 83
+f = y^7+x^4
+g = 22*x^2*y^5+y^7+2*x^2*y^4+x^4
+t1 = 2, t2 = 22
+irred = true
+nu-inv = {32, 44, 52, 55, 64, 67, 73, 76, 79, 82}
+[1, 32] : ideal 1
+[33, 44] : ideal(y,x)
+[45, 52] : ideal(x,y^2)
+[53, 55] : ideal(y^2,x*y,x^2)
+[56, 64] : ideal(x*y,x^2,y^3)
+[65, 67] : ideal(x^2,y^3,x*y^2)
+[68, 73] : ideal(x^2,x*y^2,y^4)
+[74, 76] : ideal(x*y^2,x^2*y,x^3,y^4)
+[77, 79] : ideal(x^2*y,x^3,y^4,x*y^3)
+[80, 82] : ideal(x^2*y,x^3,x*y^3,y^5)
+
+p = 83
+f = y^7+x^4
+g = 23*x^2*y^5+y^7+2*x^2*y^4+x^4
+t1 = 2, t2 = 23
+irred = true
+nu-inv = {32, 44, 52, 55, 64, 67, 73, 76, 79, 82}
+[1, 32] : ideal 1
+[33, 44] : ideal(y,x)
+[45, 52] : ideal(x,y^2)
+[53, 55] : ideal(y^2,x*y,x^2)
+[56, 64] : ideal(x*y,x^2,y^3)
+[65, 67] : ideal(x^2,y^3,x*y^2)
+[68, 73] : ideal(x^2,x*y^2,y^4)
+[74, 76] : ideal(x*y^2,x^2*y,x^3,y^4)
+[77, 79] : ideal(x^2*y,x^3,y^4,x*y^3)
+[80, 82] : ideal(x^2*y,x^3,x*y^3,y^5)
+
+p = 83
+f = y^7+x^4
+g = 24*x^2*y^5+y^7+2*x^2*y^4+x^4
+t1 = 2, t2 = 24
+irred = true
+nu-inv = {32, 44, 52, 55, 64, 67, 73, 76, 79, 82}
+[1, 32] : ideal 1
+[33, 44] : ideal(y,x)
+[45, 52] : ideal(x,y^2)
+[53, 55] : ideal(y^2,x*y,x^2)
+[56, 64] : ideal(x*y,x^2,y^3)
+[65, 67] : ideal(x^2,y^3,x*y^2)
+[68, 73] : ideal(x^2,x*y^2,y^4)
+[74, 76] : ideal(x*y^2,x^2*y,x^3,y^4)
+[77, 79] : ideal(x^2*y,x^3,y^4,x*y^3)
+[80, 82] : ideal(x^2*y,x^3,x*y^3,y^5)
+
+p = 83
+f = y^7+x^4
+g = 25*x^2*y^5+y^7+2*x^2*y^4+x^4
+t1 = 2, t2 = 25
+irred = true
+nu-inv = {32, 44, 52, 55, 64, 67, 73, 76, 79, 82}
+[1, 32] : ideal 1
+[33, 44] : ideal(y,x)
+[45, 52] : ideal(x,y^2)
+[53, 55] : ideal(y^2,x*y,x^2)
+[56, 64] : ideal(x*y,x^2,y^3)
+[65, 67] : ideal(x^2,y^3,x*y^2)
+[68, 73] : ideal(x^2,x*y^2,y^4)
+[74, 76] : ideal(x*y^2,x^2*y,x^3,y^4)
+[77, 79] : ideal(x^2*y,x^3,y^4,x*y^3)
+[80, 82] : ideal(x^2*y,x^3,x*y^3,y^5)
+
+p = 83
+f = y^7+x^4
+g = 26*x^2*y^5+y^7+2*x^2*y^4+x^4
+t1 = 2, t2 = 26
+irred = true
+nu-inv = {32, 44, 52, 55, 64, 67, 73, 76, 79, 82}
+[1, 32] : ideal 1
+[33, 44] : ideal(y,x)
+[45, 52] : ideal(x,y^2)
+[53, 55] : ideal(y^2,x*y,x^2)
+[56, 64] : ideal(x*y,x^2,y^3)
+[65, 67] : ideal(x^2,y^3,x*y^2)
+[68, 73] : ideal(x^2,x*y^2,y^4)
+[74, 76] : ideal(x*y^2,x^2*y,x^3,y^4)
+[77, 79] : ideal(x^2*y,x^3,y^4,x*y^3)
+[80, 82] : ideal(x^2*y,x^3,x*y^3,y^5)
+
+p = 83
+f = y^7+x^4
+g = 27*x^2*y^5+y^7+2*x^2*y^4+x^4
+t1 = 2, t2 = 27
+irred = true
+nu-inv = {32, 44, 52, 55, 64, 67, 73, 76, 79, 82}
+[1, 32] : ideal 1
+[33, 44] : ideal(y,x)
+[45, 52] : ideal(x,y^2)
+[53, 55] : ideal(y^2,x*y,x^2)
+[56, 64] : ideal(x*y,x^2,y^3)
+[65, 67] : ideal(x^2,y^3,x*y^2)
+[68, 73] : ideal(x^2,x*y^2,y^4)
+[74, 76] : ideal(x*y^2,x^2*y,x^3,y^4)
+[77, 79] : ideal(x^2*y,x^3,y^4,x*y^3)
+[80, 82] : ideal(x^2*y,x^3,x*y^3,y^5)
+
+p = 83
+f = y^7+x^4
+g = 28*x^2*y^5+y^7+2*x^2*y^4+x^4
+t1 = 2, t2 = 28
+irred = true
+nu-inv = {32, 44, 52, 55, 64, 67, 73, 76, 79, 82}
+[1, 32] : ideal 1
+[33, 44] : ideal(y,x)
+[45, 52] : ideal(x,y^2)
+[53, 55] : ideal(y^2,x*y,x^2)
+[56, 64] : ideal(x*y,x^2,y^3)
+[65, 67] : ideal(x^2,y^3,x*y^2)
+[68, 73] : ideal(x^2,x*y^2,y^4)
+[74, 76] : ideal(x*y^2,x^2*y,x^3,y^4)
+[77, 79] : ideal(x^2*y,x^3,y^4,x*y^3)
+[80, 82] : ideal(x^2*y,x^3,x*y^3,y^5)
+
+p = 83
+f = y^7+x^4
+g = 29*x^2*y^5+y^7+2*x^2*y^4+x^4
+t1 = 2, t2 = 29
+irred = true
+nu-inv = {32, 44, 52, 55, 64, 67, 73, 76, 79, 82}
+[1, 32] : ideal 1
+[33, 44] : ideal(y,x)
+[45, 52] : ideal(x,y^2)
+[53, 55] : ideal(y^2,x*y,x^2)
+[56, 64] : ideal(x*y,x^2,y^3)
+[65, 67] : ideal(x^2,y^3,x*y^2)
+[68, 73] : ideal(x^2,x*y^2,y^4)
+[74, 76] : ideal(x*y^2,x^2*y,x^3,y^4)
+[77, 79] : ideal(x^2*y,x^3,y^4,x*y^3)
+[80, 82] : ideal(x^2*y,x^3,x*y^3,y^5)
+
+p = 83
+f = y^7+x^4
+g = 30*x^2*y^5+y^7+2*x^2*y^4+x^4
+t1 = 2, t2 = 30
+irred = true
+nu-inv = {32, 44, 52, 55, 64, 67, 73, 76, 79, 82}
+[1, 32] : ideal 1
+[33, 44] : ideal(y,x)
+[45, 52] : ideal(x,y^2)
+[53, 55] : ideal(y^2,x*y,x^2)
+[56, 64] : ideal(x*y,x^2,y^3)
+[65, 67] : ideal(x^2,y^3,x*y^2)
+[68, 73] : ideal(x^2,x*y^2,y^4)
+[74, 76] : ideal(x*y^2,x^2*y,x^3,y^4)
+[77, 79] : ideal(x^2*y,x^3,y^4,x*y^3)
+[80, 82] : ideal(x^2*y,x^3,x*y^3,y^5)
+
+p = 83
+f = y^7+x^4
+g = 31*x^2*y^5+y^7+2*x^2*y^4+x^4
+t1 = 2, t2 = 31
+irred = true
+nu-inv = {32, 44, 52, 55, 64, 67, 73, 76, 79, 82}
+[1, 32] : ideal 1
+[33, 44] : ideal(y,x)
+[45, 52] : ideal(x,y^2)
+[53, 55] : ideal(y^2,x*y,x^2)
+[56, 64] : ideal(x*y,x^2,y^3)
+[65, 67] : ideal(x^2,y^3,x*y^2)
+[68, 73] : ideal(x^2,x*y^2,y^4)
+[74, 76] : ideal(x*y^2,x^2*y,x^3,y^4)
+[77, 79] : ideal(x^2*y,x^3,y^4,x*y^3)
+[80, 82] : ideal(x^2*y,x^3,x*y^3,y^5)
+
+p = 83
+f = y^7+x^4
+g = 32*x^2*y^5+y^7+2*x^2*y^4+x^4
+t1 = 2, t2 = 32
+irred = true
+nu-inv = {32, 44, 52, 55, 64, 67, 73, 76, 79, 82}
+[1, 32] : ideal 1
+[33, 44] : ideal(y,x)
+[45, 52] : ideal(x,y^2)
+[53, 55] : ideal(y^2,x*y,x^2)
+[56, 64] : ideal(x*y,x^2,y^3)
+[65, 67] : ideal(x^2,y^3,x*y^2)
+[68, 73] : ideal(x^2,x*y^2,y^4)
+[74, 76] : ideal(x*y^2,x^2*y,x^3,y^4)
+[77, 79] : ideal(x^2*y,x^3,y^4,x*y^3)
+[80, 82] : ideal(x^2*y,x^3,x*y^3,y^5)
+
+p = 83
+f = y^7+x^4
+g = 33*x^2*y^5+y^7+2*x^2*y^4+x^4
+t1 = 2, t2 = 33
+irred = true
+nu-inv = {32, 44, 52, 55, 64, 67, 73, 76, 79, 82}
+[1, 32] : ideal 1
+[33, 44] : ideal(y,x)
+[45, 52] : ideal(x,y^2)
+[53, 55] : ideal(y^2,x*y,x^2)
+[56, 64] : ideal(x*y,x^2,y^3)
+[65, 67] : ideal(x^2,y^3,x*y^2)
+[68, 73] : ideal(x^2,x*y^2,y^4)
+[74, 76] : ideal(x*y^2,x^2*y,x^3,y^4)
+[77, 79] : ideal(x^2*y,x^3,y^4,x*y^3)
+[80, 82] : ideal(x^2*y,x^3,x*y^3,y^5)
+
+p = 83
+f = y^7+x^4
+g = 34*x^2*y^5+y^7+2*x^2*y^4+x^4
+t1 = 2, t2 = 34
+irred = true
+nu-inv = {32, 44, 52, 55, 64, 67, 73, 76, 79, 82}
+[1, 32] : ideal 1
+[33, 44] : ideal(y,x)
+[45, 52] : ideal(x,y^2)
+[53, 55] : ideal(y^2,x*y,x^2)
+[56, 64] : ideal(x*y,x^2,y^3)
+[65, 67] : ideal(x^2,y^3,x*y^2)
+[68, 73] : ideal(x^2,x*y^2,y^4)
+[74, 76] : ideal(x*y^2,x^2*y,x^3,y^4)
+[77, 79] : ideal(x^2*y,x^3,y^4,x*y^3)
+[80, 82] : ideal(x^2*y,x^3,x*y^3,y^5)
+
+p = 83
+f = y^7+x^4
+g = 35*x^2*y^5+y^7+2*x^2*y^4+x^4
+t1 = 2, t2 = 35
+irred = true
+nu-inv = {32, 44, 52, 55, 64, 67, 73, 76, 79, 82}
+[1, 32] : ideal 1
+[33, 44] : ideal(y,x)
+[45, 52] : ideal(x,y^2)
+[53, 55] : ideal(y^2,x*y,x^2)
+[56, 64] : ideal(x*y,x^2,y^3)
+[65, 67] : ideal(x^2,y^3,x*y^2)
+[68, 73] : ideal(x^2,x*y^2,y^4)
+[74, 76] : ideal(x*y^2,x^2*y,x^3,y^4)
+[77, 79] : ideal(x^2*y,x^3,y^4,x*y^3)
+[80, 82] : ideal(x^2*y,x^3,x*y^3,y^5)
+
+p = 83
+f = y^7+x^4
+g = 36*x^2*y^5+y^7+2*x^2*y^4+x^4
+t1 = 2, t2 = 36
+irred = true
+nu-inv = {32, 44, 52, 55, 64, 67, 73, 76, 79, 82}
+[1, 32] : ideal 1
+[33, 44] : ideal(y,x)
+[45, 52] : ideal(x,y^2)
+[53, 55] : ideal(y^2,x*y,x^2)
+[56, 64] : ideal(x*y,x^2,y^3)
+[65, 67] : ideal(x^2,y^3,x*y^2)
+[68, 73] : ideal(x^2,x*y^2,y^4)
+[74, 76] : ideal(x*y^2,x^2*y,x^3,y^4)
+[77, 79] : ideal(x^2*y,x^3,y^4,x*y^3)
+[80, 82] : ideal(x^2*y,x^3,x*y^3,y^5)
+
+p = 83
+f = y^7+x^4
+g = 37*x^2*y^5+y^7+2*x^2*y^4+x^4
+t1 = 2, t2 = 37
+irred = true
+nu-inv = {32, 44, 52, 55, 64, 67, 73, 76, 79, 82}
+[1, 32] : ideal 1
+[33, 44] : ideal(y,x)
+[45, 52] : ideal(x,y^2)
+[53, 55] : ideal(y^2,x*y,x^2)
+[56, 64] : ideal(x*y,x^2,y^3)
+[65, 67] : ideal(x^2,y^3,x*y^2)
+[68, 73] : ideal(x^2,x*y^2,y^4)
+[74, 76] : ideal(x*y^2,x^2*y,x^3,y^4)
+[77, 79] : ideal(x^2*y,x^3,y^4,x*y^3)
+[80, 82] : ideal(x^2*y,x^3,x*y^3,y^5)
+
+p = 83
+f = y^7+x^4
+g = 38*x^2*y^5+y^7+2*x^2*y^4+x^4
+t1 = 2, t2 = 38
+irred = true
+nu-inv = {32, 44, 52, 55, 64, 67, 73, 76, 79, 82}
+[1, 32] : ideal 1
+[33, 44] : ideal(y,x)
+[45, 52] : ideal(x,y^2)
+[53, 55] : ideal(y^2,x*y,x^2)
+[56, 64] : ideal(x*y,x^2,y^3)
+[65, 67] : ideal(x^2,y^3,x*y^2)
+[68, 73] : ideal(x^2,x*y^2,y^4)
+[74, 76] : ideal(x*y^2,x^2*y,x^3,y^4)
+[77, 79] : ideal(x^2*y,x^3,y^4,x*y^3)
+[80, 82] : ideal(x^2*y,x^3,x*y^3,y^5)
+
+p = 83
+f = y^7+x^4
+g = 39*x^2*y^5+y^7+2*x^2*y^4+x^4
+t1 = 2, t2 = 39
+irred = true
+nu-inv = {32, 44, 52, 55, 64, 67, 73, 76, 79, 82}
+[1, 32] : ideal 1
+[33, 44] : ideal(y,x)
+[45, 52] : ideal(x,y^2)
+[53, 55] : ideal(y^2,x*y,x^2)
+[56, 64] : ideal(x*y,x^2,y^3)
+[65, 67] : ideal(x^2,y^3,x*y^2)
+[68, 73] : ideal(x^2,x*y^2,y^4)
+[74, 76] : ideal(x*y^2,x^2*y,x^3,y^4)
+[77, 79] : ideal(x^2*y,x^3,y^4,x*y^3)
+[80, 82] : ideal(x^2*y,x^3,x*y^3,y^5)
+
+p = 83
+f = y^7+x^4
+g = 40*x^2*y^5+y^7+2*x^2*y^4+x^4
+t1 = 2, t2 = 40
+irred = true
+nu-inv = {32, 44, 52, 55, 64, 67, 73, 76, 79, 82}
+[1, 32] : ideal 1
+[33, 44] : ideal(y,x)
+[45, 52] : ideal(x,y^2)
+[53, 55] : ideal(y^2,x*y,x^2)
+[56, 64] : ideal(x*y,x^2,y^3)
+[65, 67] : ideal(x^2,y^3,x*y^2)
+[68, 73] : ideal(x^2,x*y^2,y^4)
+[74, 76] : ideal(x*y^2,x^2*y,x^3,y^4)
+[77, 79] : ideal(x^2*y,x^3,y^4,x*y^3)
+[80, 82] : ideal(x^2*y,x^3,x*y^3,y^5)
+
+p = 83
+f = y^7+x^4
+g = 41*x^2*y^5+y^7+2*x^2*y^4+x^4
+t1 = 2, t2 = 41
+irred = true
+nu-inv = {32, 44, 52, 55, 64, 67, 73, 76, 79, 82}
+[1, 32] : ideal 1
+[33, 44] : ideal(y,x)
+[45, 52] : ideal(x,y^2)
+[53, 55] : ideal(y^2,x*y,x^2)
+[56, 64] : ideal(x*y,x^2,y^3)
+[65, 67] : ideal(x^2,y^3,x*y^2)
+[68, 73] : ideal(x^2,x*y^2,y^4)
+[74, 76] : ideal(x*y^2,x^2*y,x^3,y^4)
+[77, 79] : ideal(x^2*y,x^3,y^4,x*y^3)
+[80, 82] : ideal(x^2*y,x^3,x*y^3,y^5)
+
+p = 83
+f = y^7+x^4
+g = -41*x^2*y^5+y^7+2*x^2*y^4+x^4
+t1 = 2, t2 = 42
+irred = true
+nu-inv = {32, 44, 52, 55, 64, 67, 73, 76, 79, 82}
+[1, 32] : ideal 1
+[33, 44] : ideal(y,x)
+[45, 52] : ideal(x,y^2)
+[53, 55] : ideal(y^2,x*y,x^2)
+[56, 64] : ideal(x*y,x^2,y^3)
+[65, 67] : ideal(x^2,y^3,x*y^2)
+[68, 73] : ideal(x^2,x*y^2,y^4)
+[74, 76] : ideal(x*y^2,x^2*y,x^3,y^4)
+[77, 79] : ideal(x^2*y,x^3,y^4,x*y^3)
+[80, 82] : ideal(x^2*y,x^3,x*y^3,y^5)
+
+p = 83
+f = y^7+x^4
+g = -40*x^2*y^5+y^7+2*x^2*y^4+x^4
+t1 = 2, t2 = 43
+irred = true
+nu-inv = {32, 44, 52, 55, 64, 67, 73, 76, 79, 82}
+[1, 32] : ideal 1
+[33, 44] : ideal(y,x)
+[45, 52] : ideal(x,y^2)
+[53, 55] : ideal(y^2,x*y,x^2)
+[56, 64] : ideal(x*y,x^2,y^3)
+[65, 67] : ideal(x^2,y^3,x*y^2)
+[68, 73] : ideal(x^2,x*y^2,y^4)
+[74, 76] : ideal(x*y^2,x^2*y,x^3,y^4)
+[77, 79] : ideal(x^2*y,x^3,y^4,x*y^3)
+[80, 82] : ideal(x^2*y,x^3,x*y^3,y^5)
+
+p = 83
+f = y^7+x^4
+g = -39*x^2*y^5+y^7+2*x^2*y^4+x^4
+t1 = 2, t2 = 44
+irred = true
+nu-inv = {32, 44, 52, 55, 64, 67, 73, 76, 79, 82}
+[1, 32] : ideal 1
+[33, 44] : ideal(y,x)
+[45, 52] : ideal(x,y^2)
+[53, 55] : ideal(y^2,x*y,x^2)
+[56, 64] : ideal(x*y,x^2,y^3)
+[65, 67] : ideal(x^2,y^3,x*y^2)
+[68, 73] : ideal(x^2,x*y^2,y^4)
+[74, 76] : ideal(x*y^2,x^2*y,x^3,y^4)
+[77, 79] : ideal(x^2*y,x^3,y^4,x*y^3)
+[80, 82] : ideal(x^2*y,x^3,x*y^3,y^5)
+
+p = 83
+f = y^7+x^4
+g = -38*x^2*y^5+y^7+2*x^2*y^4+x^4
+t1 = 2, t2 = 45
+irred = true
+nu-inv = {32, 44, 52, 55, 64, 67, 73, 76, 79, 82}
+[1, 32] : ideal 1
+[33, 44] : ideal(y,x)
+[45, 52] : ideal(x,y^2)
+[53, 55] : ideal(y^2,x*y,x^2)
+[56, 64] : ideal(x*y,x^2,y^3)
+[65, 67] : ideal(x^2,y^3,x*y^2)
+[68, 73] : ideal(x^2,x*y^2,y^4)
+[74, 76] : ideal(x*y^2,x^2*y,x^3,y^4)
+[77, 79] : ideal(x^2*y,x^3,y^4,x*y^3)
+[80, 82] : ideal(x^2*y,x^3,x*y^3,y^5)
+
+p = 83
+f = y^7+x^4
+g = -37*x^2*y^5+y^7+2*x^2*y^4+x^4
+t1 = 2, t2 = 46
+irred = true
+nu-inv = {32, 44, 52, 55, 64, 67, 73, 76, 79, 82}
+[1, 32] : ideal 1
+[33, 44] : ideal(y,x)
+[45, 52] : ideal(x,y^2)
+[53, 55] : ideal(y^2,x*y,x^2)
+[56, 64] : ideal(x*y,x^2,y^3)
+[65, 67] : ideal(x^2,y^3,x*y^2)
+[68, 73] : ideal(x^2,x*y^2,y^4)
+[74, 76] : ideal(x*y^2,x^2*y,x^3,y^4)
+[77, 79] : ideal(x^2*y,x^3,y^4,x*y^3)
+[80, 82] : ideal(x^2*y,x^3,x*y^3,y^5)
+
+p = 83
+f = y^7+x^4
+g = -36*x^2*y^5+y^7+2*x^2*y^4+x^4
+t1 = 2, t2 = 47
+irred = true
+nu-inv = {32, 44, 52, 55, 64, 67, 73, 76, 79, 82}
+[1, 32] : ideal 1
+[33, 44] : ideal(y,x)
+[45, 52] : ideal(x,y^2)
+[53, 55] : ideal(y^2,x*y,x^2)
+[56, 64] : ideal(x*y,x^2,y^3)
+[65, 67] : ideal(x^2,y^3,x*y^2)
+[68, 73] : ideal(x^2,x*y^2,y^4)
+[74, 76] : ideal(x*y^2,x^2*y,x^3,y^4)
+[77, 79] : ideal(x^2*y,x^3,y^4,x*y^3)
+[80, 82] : ideal(x^2*y,x^3,x*y^3,y^5)
+
+p = 83
+f = y^7+x^4
+g = -35*x^2*y^5+y^7+2*x^2*y^4+x^4
+t1 = 2, t2 = 48
+irred = true
+nu-inv = {32, 44, 52, 55, 64, 67, 73, 76, 79, 82}
+[1, 32] : ideal 1
+[33, 44] : ideal(y,x)
+[45, 52] : ideal(x,y^2)
+[53, 55] : ideal(y^2,x*y,x^2)
+[56, 64] : ideal(x*y,x^2,y^3)
+[65, 67] : ideal(x^2,y^3,x*y^2)
+[68, 73] : ideal(x^2,x*y^2,y^4)
+[74, 76] : ideal(x*y^2,x^2*y,x^3,y^4)
+[77, 79] : ideal(x^2*y,x^3,y^4,x*y^3)
+[80, 82] : ideal(x^2*y,x^3,x*y^3,y^5)
+
+p = 83
+f = y^7+x^4
+g = -34*x^2*y^5+y^7+2*x^2*y^4+x^4
+t1 = 2, t2 = 49
+irred = true
+nu-inv = {32, 44, 52, 55, 64, 67, 73, 76, 79, 82}
+[1, 32] : ideal 1
+[33, 44] : ideal(y,x)
+[45, 52] : ideal(x,y^2)
+[53, 55] : ideal(y^2,x*y,x^2)
+[56, 64] : ideal(x*y,x^2,y^3)
+[65, 67] : ideal(x^2,y^3,x*y^2)
+[68, 73] : ideal(x^2,x*y^2,y^4)
+[74, 76] : ideal(x*y^2,x^2*y,x^3,y^4)
+[77, 79] : ideal(x^2*y,x^3,y^4,x*y^3)
+[80, 82] : ideal(x^2*y,x^3,x*y^3,y^5)
+
+p = 83
+f = y^7+x^4
+g = -33*x^2*y^5+y^7+2*x^2*y^4+x^4
+t1 = 2, t2 = 50
+irred = true
+nu-inv = {32, 44, 52, 55, 64, 67, 73, 76, 79, 82}
+[1, 32] : ideal 1
+[33, 44] : ideal(y,x)
+[45, 52] : ideal(x,y^2)
+[53, 55] : ideal(y^2,x*y,x^2)
+[56, 64] : ideal(x*y,x^2,y^3)
+[65, 67] : ideal(x^2,y^3,x*y^2)
+[68, 73] : ideal(x^2,x*y^2,y^4)
+[74, 76] : ideal(x*y^2,x^2*y,x^3,y^4)
+[77, 79] : ideal(x^2*y,x^3,y^4,x*y^3)
+[80, 82] : ideal(x^2*y,x^3,x*y^3,y^5)
+
+p = 83
+f = y^7+x^4
+g = -32*x^2*y^5+y^7+2*x^2*y^4+x^4
+t1 = 2, t2 = 51
+irred = true
+nu-inv = {32, 44, 52, 55, 64, 67, 73, 76, 79, 82}
+[1, 32] : ideal 1
+[33, 44] : ideal(y,x)
+[45, 52] : ideal(x,y^2)
+[53, 55] : ideal(y^2,x*y,x^2)
+[56, 64] : ideal(x*y,x^2,y^3)
+[65, 67] : ideal(x^2,y^3,x*y^2)
+[68, 73] : ideal(x^2,x*y^2,y^4)
+[74, 76] : ideal(x*y^2,x^2*y,x^3,y^4)
+[77, 79] : ideal(x^2*y,x^3,y^4,x*y^3)
+[80, 82] : ideal(x^2*y,x^3,x*y^3,y^5)
+
+p = 83
+f = y^7+x^4
+g = -31*x^2*y^5+y^7+2*x^2*y^4+x^4
+t1 = 2, t2 = 52
+irred = true
+nu-inv = {32, 44, 52, 55, 64, 67, 73, 76, 79, 82}
+[1, 32] : ideal 1
+[33, 44] : ideal(y,x)
+[45, 52] : ideal(x,y^2)
+[53, 55] : ideal(y^2,x*y,x^2)
+[56, 64] : ideal(x*y,x^2,y^3)
+[65, 67] : ideal(x^2,y^3,x*y^2)
+[68, 73] : ideal(x^2,x*y^2,y^4)
+[74, 76] : ideal(x*y^2,x^2*y,x^3,y^4)
+[77, 79] : ideal(x^2*y,x^3,y^4,x*y^3)
+[80, 82] : ideal(x^2*y,x^3,x*y^3,y^5)
+
+p = 83
+f = y^7+x^4
+g = -30*x^2*y^5+y^7+2*x^2*y^4+x^4
+t1 = 2, t2 = 53
+irred = true
+nu-inv = {32, 44, 52, 55, 64, 67, 73, 76, 79, 82}
+[1, 32] : ideal 1
+[33, 44] : ideal(y,x)
+[45, 52] : ideal(x,y^2)
+[53, 55] : ideal(y^2,x*y,x^2)
+[56, 64] : ideal(x*y,x^2,y^3)
+[65, 67] : ideal(x^2,y^3,x*y^2)
+[68, 73] : ideal(x^2,x*y^2,y^4)
+[74, 76] : ideal(x*y^2,x^2*y,x^3,y^4)
+[77, 79] : ideal(x^2*y,x^3,y^4,x*y^3)
+[80, 82] : ideal(x^2*y,x^3,x*y^3,y^5)
+
+p = 83
+f = y^7+x^4
+g = -29*x^2*y^5+y^7+2*x^2*y^4+x^4
+t1 = 2, t2 = 54
+irred = true
+nu-inv = {32, 44, 52, 55, 64, 67, 73, 76, 79, 82}
+[1, 32] : ideal 1
+[33, 44] : ideal(y,x)
+[45, 52] : ideal(x,y^2)
+[53, 55] : ideal(y^2,x*y,x^2)
+[56, 64] : ideal(x*y,x^2,y^3)
+[65, 67] : ideal(x^2,y^3,x*y^2)
+[68, 73] : ideal(x^2,x*y^2,y^4)
+[74, 76] : ideal(x*y^2,x^2*y,x^3,y^4)
+[77, 79] : ideal(x^2*y,x^3,y^4,x*y^3)
+[80, 82] : ideal(x^2*y,x^3,x*y^3,y^5)
+
+p = 83
+f = y^7+x^4
+g = -28*x^2*y^5+y^7+2*x^2*y^4+x^4
+t1 = 2, t2 = 55
+irred = true
+nu-inv = {32, 44, 52, 55, 64, 67, 73, 76, 79, 82}
+[1, 32] : ideal 1
+[33, 44] : ideal(y,x)
+[45, 52] : ideal(x,y^2)
+[53, 55] : ideal(y^2,x*y,x^2)
+[56, 64] : ideal(x*y,x^2,y^3)
+[65, 67] : ideal(x^2,y^3,x*y^2)
+[68, 73] : ideal(x^2,x*y^2,y^4)
+[74, 76] : ideal(x*y^2,x^2*y,x^3,y^4,x*y^3)
+[77, 79] : ideal(x^2*y,x^3,y^4,x*y^3)
+[80, 82] : ideal(x^2*y,x^3,x*y^3,y^5)
+
+p = 83
+f = y^7+x^4
+g = -27*x^2*y^5+y^7+2*x^2*y^4+x^4
+t1 = 2, t2 = 56
+irred = true
+nu-inv = {32, 44, 52, 55, 64, 67, 73, 76, 79, 82}
+[1, 32] : ideal 1
+[33, 44] : ideal(y,x)
+[45, 52] : ideal(x,y^2)
+[53, 55] : ideal(y^2,x*y,x^2)
+[56, 64] : ideal(x*y,x^2,y^3)
+[65, 67] : ideal(x^2,y^3,x*y^2)
+[68, 73] : ideal(x^2,x*y^2,y^4)
+[74, 76] : ideal(x*y^2,x^2*y,x^3,y^4)
+[77, 79] : ideal(x^2*y,x^3,y^4,x*y^3)
+[80, 82] : ideal(x^2*y,x^3,x*y^3,y^5)
+
+p = 83
+f = y^7+x^4
+g = -26*x^2*y^5+y^7+2*x^2*y^4+x^4
+t1 = 2, t2 = 57
+irred = true
+nu-inv = {32, 44, 52, 55, 64, 67, 73, 76, 79, 82}
+[1, 32] : ideal 1
+[33, 44] : ideal(y,x)
+[45, 52] : ideal(x,y^2)
+[53, 55] : ideal(y^2,x*y,x^2)
+[56, 64] : ideal(x*y,x^2,y^3)
+[65, 67] : ideal(x^2,y^3,x*y^2)
+[68, 73] : ideal(x^2,x*y^2,y^4)
+[74, 76] : ideal(x*y^2,x^2*y,x^3,y^4)
+[77, 79] : ideal(x^2*y,x^3,y^4,x*y^3)
+[80, 82] : ideal(x^2*y,x^3,x*y^3,y^5)
+
+p = 83
+f = y^7+x^4
+g = -25*x^2*y^5+y^7+2*x^2*y^4+x^4
+t1 = 2, t2 = 58
+irred = true
+nu-inv = {32, 44, 52, 55, 64, 67, 73, 76, 79, 82}
+[1, 32] : ideal 1
+[33, 44] : ideal(y,x)
+[45, 52] : ideal(x,y^2)
+[53, 55] : ideal(y^2,x*y,x^2)
+[56, 64] : ideal(x*y,x^2,y^3)
+[65, 67] : ideal(x^2,y^3,x*y^2)
+[68, 73] : ideal(x^2,x*y^2,y^4)
+[74, 76] : ideal(x*y^2,x^2*y,x^3,y^4)
+[77, 79] : ideal(x^2*y,x^3,y^4,x*y^3)
+[80, 82] : ideal(x^2*y,x^3,x*y^3,y^5)
+
+p = 83
+f = y^7+x^4
+g = -24*x^2*y^5+y^7+2*x^2*y^4+x^4
+t1 = 2, t2 = 59
+irred = true
+nu-inv = {32, 44, 52, 55, 64, 67, 73, 76, 79, 82}
+[1, 32] : ideal 1
+[33, 44] : ideal(y,x)
+[45, 52] : ideal(x,y^2)
+[53, 55] : ideal(y^2,x*y,x^2)
+[56, 64] : ideal(x*y,x^2,y^3)
+[65, 67] : ideal(x^2,y^3,x*y^2)
+[68, 73] : ideal(x^2,x*y^2,y^4)
+[74, 76] : ideal(x*y^2,x^2*y,x^3,y^4)
+[77, 79] : ideal(x^2*y,x^3,y^4,x*y^3)
+[80, 82] : ideal(x^2*y,x^3,x*y^3,y^5)
+
+p = 83
+f = y^7+x^4
+g = -23*x^2*y^5+y^7+2*x^2*y^4+x^4
+t1 = 2, t2 = 60
+irred = true
+nu-inv = {32, 44, 52, 55, 64, 67, 73, 76, 79, 82}
+[1, 32] : ideal 1
+[33, 44] : ideal(y,x)
+[45, 52] : ideal(x,y^2)
+[53, 55] : ideal(y^2,x*y,x^2)
+[56, 64] : ideal(x*y,x^2,y^3)
+[65, 67] : ideal(x^2,y^3,x*y^2)
+[68, 73] : ideal(x^2,x*y^2,y^4)
+[74, 76] : ideal(x*y^2,x^2*y,x^3,y^4)
+[77, 79] : ideal(x^2*y,x^3,y^4,x*y^3)
+[80, 82] : ideal(x^2*y,x^3,x*y^3,y^5)
+
+p = 83
+f = y^7+x^4
+g = -22*x^2*y^5+y^7+2*x^2*y^4+x^4
+t1 = 2, t2 = 61
+irred = true
+nu-inv = {32, 44, 52, 55, 64, 67, 73, 76, 79, 82}
+[1, 32] : ideal 1
+[33, 44] : ideal(y,x)
+[45, 52] : ideal(x,y^2)
+[53, 55] : ideal(y^2,x*y,x^2)
+[56, 64] : ideal(x*y,x^2,y^3)
+[65, 67] : ideal(x^2,y^3,x*y^2)
+[68, 73] : ideal(x^2,x*y^2,y^4)
+[74, 76] : ideal(x*y^2,x^2*y,x^3,y^4,x*y^3)
+[77, 79] : ideal(x^2*y,x^3,y^4,x*y^3)
+[80, 82] : ideal(x^2*y,x^3,x*y^3,y^5)
+
+p = 83
+f = y^7+x^4
+g = -21*x^2*y^5+y^7+2*x^2*y^4+x^4
+t1 = 2, t2 = 62
+irred = true
+nu-inv = {32, 44, 52, 55, 64, 67, 73, 76, 79, 82}
+[1, 32] : ideal 1
+[33, 44] : ideal(y,x)
+[45, 52] : ideal(x,y^2)
+[53, 55] : ideal(y^2,x*y,x^2)
+[56, 64] : ideal(x*y,x^2,y^3)
+[65, 67] : ideal(x^2,y^3,x*y^2)
+[68, 73] : ideal(x^2,x*y^2,y^4)
+[74, 76] : ideal(x*y^2,x^2*y,x^3,y^4)
+[77, 79] : ideal(x^2*y,x^3,y^4,x*y^3)
+[80, 82] : ideal(x^2*y,x^3,x*y^3,y^5)
+
+p = 83
+f = y^7+x^4
+g = -20*x^2*y^5+y^7+2*x^2*y^4+x^4
+t1 = 2, t2 = 63
+irred = true
+nu-inv = {32, 44, 52, 55, 64, 67, 73, 76, 79, 82}
+[1, 32] : ideal 1
+[33, 44] : ideal(y,x)
+[45, 52] : ideal(x,y^2)
+[53, 55] : ideal(y^2,x*y,x^2)
+[56, 64] : ideal(x*y,x^2,y^3)
+[65, 67] : ideal(x^2,y^3,x*y^2)
+[68, 73] : ideal(x^2,x*y^2,y^4)
+[74, 76] : ideal(x*y^2,x^2*y,x^3,y^4)
+[77, 79] : ideal(x^2*y,x^3,y^4,x*y^3)
+[80, 82] : ideal(x^2*y,x^3,x*y^3,y^5)
+
+p = 83
+f = y^7+x^4
+g = -19*x^2*y^5+y^7+2*x^2*y^4+x^4
+t1 = 2, t2 = 64
+irred = true
+nu-inv = {32, 44, 52, 55, 64, 67, 73, 76, 79, 82}
+[1, 32] : ideal 1
+[33, 44] : ideal(y,x)
+[45, 52] : ideal(x,y^2)
+[53, 55] : ideal(y^2,x*y,x^2)
+[56, 64] : ideal(x*y,x^2,y^3)
+[65, 67] : ideal(x^2,y^3,x*y^2)
+[68, 73] : ideal(x^2,x*y^2,y^4)
+[74, 76] : ideal(x*y^2,x^2*y,x^3,y^4)
+[77, 79] : ideal(x^2*y,x^3,y^4,x*y^3)
+[80, 82] : ideal(x^2*y,x^3,x*y^3,y^5)
+
+p = 83
+f = y^7+x^4
+g = -18*x^2*y^5+y^7+2*x^2*y^4+x^4
+t1 = 2, t2 = 65
+irred = true
+nu-inv = {32, 44, 52, 55, 64, 67, 73, 76, 79, 82}
+[1, 32] : ideal 1
+[33, 44] : ideal(y,x)
+[45, 52] : ideal(x,y^2)
+[53, 55] : ideal(y^2,x*y,x^2)
+[56, 64] : ideal(x*y,x^2,y^3)
+[65, 67] : ideal(x^2,y^3,x*y^2)
+[68, 73] : ideal(x^2,x*y^2,y^4)
+[74, 76] : ideal(x*y^2,x^2*y,x^3,y^4)
+[77, 79] : ideal(x^2*y,x^3,y^4,x*y^3)
+[80, 82] : ideal(x^2*y,x^3,x*y^3,y^5)
+
+p = 83
+f = y^7+x^4
+g = -17*x^2*y^5+y^7+2*x^2*y^4+x^4
+t1 = 2, t2 = 66
+irred = true
+nu-inv = {32, 44, 52, 55, 64, 67, 73, 76, 79, 82}
+[1, 32] : ideal 1
+[33, 44] : ideal(y,x)
+[45, 52] : ideal(x,y^2)
+[53, 55] : ideal(y^2,x*y,x^2)
+[56, 64] : ideal(x*y,x^2,y^3)
+[65, 67] : ideal(x^2,y^3,x*y^2)
+[68, 73] : ideal(x^2,x*y^2,y^4)
+[74, 76] : ideal(x*y^2,x^2*y,x^3,y^4)
+[77, 79] : ideal(x^2*y,x^3,y^4,x*y^3)
+[80, 82] : ideal(x^2*y,x^3,x*y^3,y^5)
+
+p = 83
+f = y^7+x^4
+g = -16*x^2*y^5+y^7+2*x^2*y^4+x^4
+t1 = 2, t2 = 67
+irred = true
+nu-inv = {32, 44, 52, 55, 64, 67, 73, 76, 79, 82}
+[1, 32] : ideal 1
+[33, 44] : ideal(y,x)
+[45, 52] : ideal(x,y^2)
+[53, 55] : ideal(y^2,x*y,x^2)
+[56, 64] : ideal(x*y,x^2,y^3)
+[65, 67] : ideal(x^2,y^3,x*y^2)
+[68, 73] : ideal(x^2,x*y^2,y^4)
+[74, 76] : ideal(x*y^2,x^2*y,x^3,y^4)
+[77, 79] : ideal(x^2*y,x^3,y^4,x*y^3)
+[80, 82] : ideal(x^2*y,x^3,x*y^3,y^5)
+
+p = 83
+f = y^7+x^4
+g = -15*x^2*y^5+y^7+2*x^2*y^4+x^4
+t1 = 2, t2 = 68
+irred = true
+nu-inv = {32, 44, 52, 55, 64, 67, 73, 76, 79, 82}
+[1, 32] : ideal 1
+[33, 44] : ideal(y,x)
+[45, 52] : ideal(x,y^2)
+[53, 55] : ideal(y^2,x*y,x^2)
+[56, 64] : ideal(x*y,x^2,y^3)
+[65, 67] : ideal(x^2,y^3,x*y^2)
+[68, 73] : ideal(x^2,x*y^2,y^4)
+[74, 76] : ideal(x*y^2,x^2*y,x^3,y^4)
+[77, 79] : ideal(x^2*y,x^3,y^4,x*y^3)
+[80, 82] : ideal(x^2*y,x^3,x*y^3,y^5)
+
+p = 83
+f = y^7+x^4
+g = -14*x^2*y^5+y^7+2*x^2*y^4+x^4
+t1 = 2, t2 = 69
+irred = true
+nu-inv = {32, 44, 52, 55, 64, 67, 73, 76, 79, 82}
+[1, 32] : ideal 1
+[33, 44] : ideal(y,x)
+[45, 52] : ideal(x,y^2)
+[53, 55] : ideal(y^2,x*y,x^2)
+[56, 64] : ideal(x*y,x^2,y^3)
+[65, 67] : ideal(x^2,y^3,x*y^2)
+[68, 73] : ideal(x^2,x*y^2,y^4)
+[74, 76] : ideal(x*y^2,x^2*y,x^3,y^4)
+[77, 79] : ideal(x^2*y,x^3,y^4,x*y^3)
+[80, 82] : ideal(x^2*y,x^3,x*y^3,y^5)
+
+p = 83
+f = y^7+x^4
+g = -13*x^2*y^5+y^7+2*x^2*y^4+x^4
+t1 = 2, t2 = 70
+irred = true
+nu-inv = {32, 44, 52, 55, 64, 67, 73, 76, 79, 82}
+[1, 32] : ideal 1
+[33, 44] : ideal(y,x)
+[45, 52] : ideal(x,y^2)
+[53, 55] : ideal(y^2,x*y,x^2)
+[56, 64] : ideal(x*y,x^2,y^3)
+[65, 67] : ideal(x^2,y^3,x*y^2)
+[68, 73] : ideal(x^2,x*y^2,y^4)
+[74, 76] : ideal(x*y^2,x^2*y,x^3,y^4)
+[77, 79] : ideal(x^2*y,x^3,y^4,x*y^3)
+[80, 82] : ideal(x^2*y,x^3,x*y^3,y^5)
+
+p = 83
+f = y^7+x^4
+g = -12*x^2*y^5+y^7+2*x^2*y^4+x^4
+t1 = 2, t2 = 71
+irred = true
+nu-inv = {32, 44, 52, 55, 64, 67, 73, 76, 79, 82}
+[1, 32] : ideal 1
+[33, 44] : ideal(y,x)
+[45, 52] : ideal(x,y^2)
+[53, 55] : ideal(y^2,x*y,x^2)
+[56, 64] : ideal(x*y,x^2,y^3)
+[65, 67] : ideal(x^2,y^3,x*y^2)
+[68, 73] : ideal(x^2,x*y^2,y^4)
+[74, 76] : ideal(x*y^2,x^2*y,x^3,y^4)
+[77, 79] : ideal(x^2*y,x^3,y^4,x*y^3)
+[80, 82] : ideal(x^2*y,x^3,x*y^3,y^5)
+
+p = 83
+f = y^7+x^4
+g = -11*x^2*y^5+y^7+2*x^2*y^4+x^4
+t1 = 2, t2 = 72
+irred = true
+nu-inv = {32, 44, 52, 55, 64, 67, 73, 76, 79, 82}
+[1, 32] : ideal 1
+[33, 44] : ideal(y,x)
+[45, 52] : ideal(x,y^2)
+[53, 55] : ideal(y^2,x*y,x^2)
+[56, 64] : ideal(x*y,x^2,y^3)
+[65, 67] : ideal(x^2,y^3,x*y^2)
+[68, 73] : ideal(x^2,x*y^2,y^4)
+[74, 76] : ideal(x*y^2,x^2*y,x^3,y^4)
+[77, 79] : ideal(x^2*y,x^3,y^4,x*y^3)
+[80, 82] : ideal(x^2*y,x^3,x*y^3,y^5)
+
+p = 83
+f = y^7+x^4
+g = -10*x^2*y^5+y^7+2*x^2*y^4+x^4
+t1 = 2, t2 = 73
+irred = true
+nu-inv = {32, 44, 52, 55, 64, 67, 73, 76, 79, 82}
+[1, 32] : ideal 1
+[33, 44] : ideal(y,x)
+[45, 52] : ideal(x,y^2)
+[53, 55] : ideal(y^2,x*y,x^2)
+[56, 64] : ideal(x*y,x^2,y^3)
+[65, 67] : ideal(x^2,y^3,x*y^2)
+[68, 73] : ideal(x^2,x*y^2,y^4)
+[74, 76] : ideal(x*y^2,x^2*y,x^3,y^4)
+[77, 79] : ideal(x^2*y,x^3,y^4,x*y^3)
+[80, 82] : ideal(x^2*y,x^3,x*y^3,y^5)
+
+p = 83
+f = y^7+x^4
+g = -9*x^2*y^5+y^7+2*x^2*y^4+x^4
+t1 = 2, t2 = 74
+irred = true
+nu-inv = {32, 44, 52, 55, 64, 67, 73, 76, 79, 82}
+[1, 32] : ideal 1
+[33, 44] : ideal(y,x)
+[45, 52] : ideal(x,y^2)
+[53, 55] : ideal(y^2,x*y,x^2)
+[56, 64] : ideal(x*y,x^2,y^3)
+[65, 67] : ideal(x^2,y^3,x*y^2)
+[68, 73] : ideal(x^2,x*y^2,y^4)
+[74, 76] : ideal(x*y^2,x^2*y,x^3,y^4)
+[77, 79] : ideal(x^2*y,x^3,y^4,x*y^3)
+[80, 82] : ideal(x^2*y,x^3,x*y^3,y^5)
+
+p = 83
+f = y^7+x^4
+g = -8*x^2*y^5+y^7+2*x^2*y^4+x^4
+t1 = 2, t2 = 75
+irred = true
+nu-inv = {32, 44, 52, 55, 64, 67, 73, 76, 79, 82}
+[1, 32] : ideal 1
+[33, 44] : ideal(y,x)
+[45, 52] : ideal(x,y^2)
+[53, 55] : ideal(y^2,x*y,x^2)
+[56, 64] : ideal(x*y,x^2,y^3)
+[65, 67] : ideal(x^2,y^3,x*y^2)
+[68, 73] : ideal(x^2,x*y^2,y^4)
+[74, 76] : ideal(x*y^2,x^2*y,x^3,y^4)
+[77, 79] : ideal(x^2*y,x^3,y^4,x*y^3)
+[80, 82] : ideal(x^2*y,x^3,x*y^3,y^5)
+
+p = 83
+f = y^7+x^4
+g = -7*x^2*y^5+y^7+2*x^2*y^4+x^4
+t1 = 2, t2 = 76
+irred = true
+nu-inv = {32, 44, 52, 55, 64, 67, 73, 76, 79, 82}
+[1, 32] : ideal 1
+[33, 44] : ideal(y,x)
+[45, 52] : ideal(x,y^2)
+[53, 55] : ideal(y^2,x*y,x^2)
+[56, 64] : ideal(x*y,x^2,y^3)
+[65, 67] : ideal(x^2,y^3,x*y^2)
+[68, 73] : ideal(x^2,x*y^2,y^4)
+[74, 76] : ideal(x*y^2,x^2*y,x^3,y^4)
+[77, 79] : ideal(x^2*y,x^3,y^4,x*y^3)
+[80, 82] : ideal(x^2*y,x^3,x*y^3,y^5)
+
+p = 83
+f = y^7+x^4
+g = -6*x^2*y^5+y^7+2*x^2*y^4+x^4
+t1 = 2, t2 = 77
+irred = true
+nu-inv = {32, 44, 52, 55, 64, 67, 73, 76, 79, 82}
+[1, 32] : ideal 1
+[33, 44] : ideal(y,x)
+[45, 52] : ideal(x,y^2)
+[53, 55] : ideal(y^2,x*y,x^2)
+[56, 64] : ideal(x*y,x^2,y^3)
+[65, 67] : ideal(x^2,y^3,x*y^2)
+[68, 73] : ideal(x^2,x*y^2,y^4)
+[74, 76] : ideal(x*y^2,x^2*y,x^3,y^4)
+[77, 79] : ideal(x^2*y,x^3,y^4,x*y^3)
+[80, 82] : ideal(x^2*y,x^3,x*y^3,y^5)
+
+p = 83
+f = y^7+x^4
+g = -5*x^2*y^5+y^7+2*x^2*y^4+x^4
+t1 = 2, t2 = 78
+irred = true
+nu-inv = {32, 44, 52, 55, 64, 67, 73, 76, 79, 82}
+[1, 32] : ideal 1
+[33, 44] : ideal(y,x)
+[45, 52] : ideal(x,y^2)
+[53, 55] : ideal(y^2,x*y,x^2)
+[56, 64] : ideal(x*y,x^2,y^3)
+[65, 67] : ideal(x^2,y^3,x*y^2)
+[68, 73] : ideal(x^2,x*y^2,y^4)
+[74, 76] : ideal(x*y^2,x^2*y,x^3,y^4)
+[77, 79] : ideal(x^2*y,x^3,y^4,x*y^3)
+[80, 82] : ideal(x^2*y,x^3,x*y^3,y^5)
+
+p = 83
+f = y^7+x^4
+g = -4*x^2*y^5+y^7+2*x^2*y^4+x^4
+t1 = 2, t2 = 79
+irred = true
+nu-inv = {32, 44, 52, 55, 64, 67, 73, 76, 79, 82}
+[1, 32] : ideal 1
+[33, 44] : ideal(y,x)
+[45, 52] : ideal(x,y^2)
+[53, 55] : ideal(y^2,x*y,x^2)
+[56, 64] : ideal(x*y,x^2,y^3)
+[65, 67] : ideal(x^2,y^3,x*y^2)
+[68, 73] : ideal(x^2,x*y^2,y^4)
+[74, 76] : ideal(x*y^2,x^2*y,x^3,y^4)
+[77, 79] : ideal(x^2*y,x^3,y^4,x*y^3)
+[80, 82] : ideal(x^2*y,x^3,x*y^3,y^5)
+
+p = 83
+f = y^7+x^4
+g = -3*x^2*y^5+y^7+2*x^2*y^4+x^4
+t1 = 2, t2 = 80
+irred = true
+nu-inv = {32, 44, 52, 55, 64, 67, 73, 76, 79, 82}
+[1, 32] : ideal 1
+[33, 44] : ideal(y,x)
+[45, 52] : ideal(x,y^2)
+[53, 55] : ideal(y^2,x*y,x^2)
+[56, 64] : ideal(x*y,x^2,y^3)
+[65, 67] : ideal(x^2,y^3,x*y^2)
+[68, 73] : ideal(x^2,x*y^2,y^4)
+[74, 76] : ideal(x*y^2,x^2*y,x^3,y^4)
+[77, 79] : ideal(x^2*y,x^3,y^4,x*y^3)
+[80, 82] : ideal(x^2*y,x^3,x*y^3,y^5)
+
+p = 83
+f = y^7+x^4
+g = -2*x^2*y^5+y^7+2*x^2*y^4+x^4
+t1 = 2, t2 = 81
+irred = true
+nu-inv = {32, 44, 52, 55, 64, 67, 73, 76, 79, 82}
+[1, 32] : ideal 1
+[33, 44] : ideal(y,x)
+[45, 52] : ideal(x,y^2)
+[53, 55] : ideal(y^2,x*y,x^2)
+[56, 64] : ideal(x*y,x^2,y^3)
+[65, 67] : ideal(x^2,y^3,x*y^2)
+[68, 73] : ideal(x^2,x*y^2,y^4)
+[74, 76] : ideal(x*y^2,x^2*y,x^3,y^4)
+[77, 79] : ideal(x^2*y,x^3,y^4,x*y^3)
+[80, 82] : ideal(x^2*y,x^3,x*y^3,y^5)
+
+p = 83
+f = y^7+x^4
+g = -x^2*y^5+y^7+2*x^2*y^4+x^4
+t1 = 2, t2 = 82
+irred = true
+nu-inv = {32, 44, 52, 55, 64, 67, 73, 76, 79, 82}
+[1, 32] : ideal 1
+[33, 44] : ideal(y,x)
+[45, 52] : ideal(x,y^2)
+[53, 55] : ideal(y^2,x*y,x^2)
+[56, 64] : ideal(x*y,x^2,y^3)
+[65, 67] : ideal(x^2,y^3,x*y^2)
+[68, 73] : ideal(x^2,x*y^2,y^4)
+[74, 76] : ideal(x*y^2,x^2*y,x^3,y^4)
+[77, 79] : ideal(x^2*y,x^3,y^4,x*y^3)
+[80, 82] : ideal(x^2*y,x^3,x*y^3,y^5)
+
+p = 83
+f = y^7+x^4
+g = y^7+3*x^2*y^4+x^4
+t1 = 3, t2 = 0
+irred = true
+nu-inv = {32, 44, 52, 55, 64, 67, 73, 76, 79, 82}
+[1, 32] : ideal 1
+[33, 44] : ideal(y,x)
+[45, 52] : ideal(x,y^2)
+[53, 55] : ideal(y^2,x*y,x^2)
+[56, 64] : ideal(x*y,x^2,y^3)
+[65, 67] : ideal(x^2,y^3,x*y^2)
+[68, 73] : ideal(x^2,x*y^2,y^4)
+[74, 76] : ideal(x*y^2,x^2*y,x^3,y^4)
+[77, 79] : ideal(x^2*y,x^3,y^4,x*y^3)
+[80, 82] : ideal(x^2*y,x^3,x*y^3,y^5)
+
+p = 83
+f = y^7+x^4
+g = x^2*y^5+y^7+3*x^2*y^4+x^4
+t1 = 3, t2 = 1
+irred = true
+nu-inv = {32, 44, 52, 55, 64, 67, 73, 76, 79, 82}
+[1, 32] : ideal 1
+[33, 44] : ideal(y,x)
+[45, 52] : ideal(x,y^2)
+[53, 55] : ideal(y^2,x*y,x^2)
+[56, 64] : ideal(x*y,x^2,y^3)
+[65, 67] : ideal(x^2,y^3,x*y^2)
+[68, 73] : ideal(x^2,x*y^2,y^4)
+[74, 76] : ideal(x*y^2,x^2*y,x^3,y^4)
+[77, 79] : ideal(x^2*y,x^3,y^4,x*y^3)
+[80, 82] : ideal(x^2*y,x^3,x*y^3,y^5)
+
+p = 83
+f = y^7+x^4
+g = 2*x^2*y^5+y^7+3*x^2*y^4+x^4
+t1 = 3, t2 = 2
+irred = true
+nu-inv = {32, 44, 52, 55, 64, 67, 73, 76, 79, 82}
+[1, 32] : ideal 1
+[33, 44] : ideal(y,x)
+[45, 52] : ideal(x,y^2)
+[53, 55] : ideal(y^2,x*y,x^2)
+[56, 64] : ideal(x*y,x^2,y^3)
+[65, 67] : ideal(x^2,y^3,x*y^2)
+[68, 73] : ideal(x^2,x*y^2,y^4)
+[74, 76] : ideal(x*y^2,x^2*y,x^3,y^4)
+[77, 79] : ideal(x^2*y,x^3,y^4,x*y^3)
+[80, 82] : ideal(x^2*y,x^3,x*y^3,y^5)
+
+p = 83
+f = y^7+x^4
+g = 3*x^2*y^5+y^7+3*x^2*y^4+x^4
+t1 = 3, t2 = 3
+irred = true
+nu-inv = {32, 44, 52, 55, 64, 67, 73, 76, 79, 82}
+[1, 32] : ideal 1
+[33, 44] : ideal(y,x)
+[45, 52] : ideal(x,y^2)
+[53, 55] : ideal(y^2,x*y,x^2)
+[56, 64] : ideal(x*y,x^2,y^3)
+[65, 67] : ideal(x^2,y^3,x*y^2)
+[68, 73] : ideal(x^2,x*y^2,y^4)
+[74, 76] : ideal(x*y^2,x^2*y,x^3,y^4)
+[77, 79] : ideal(x^2*y,x^3,y^4,x*y^3)
+[80, 82] : ideal(x^2*y,x^3,x*y^3,y^5)
+
+p = 83
+f = y^7+x^4
+g = 4*x^2*y^5+y^7+3*x^2*y^4+x^4
+t1 = 3, t2 = 4
+irred = true
+nu-inv = {32, 44, 52, 55, 64, 67, 73, 76, 79, 82}
+[1, 32] : ideal 1
+[33, 44] : ideal(y,x)
+[45, 52] : ideal(x,y^2)
+[53, 55] : ideal(y^2,x*y,x^2)
+[56, 64] : ideal(x*y,x^2,y^3)
+[65, 67] : ideal(x^2,y^3,x*y^2)
+[68, 73] : ideal(x^2,x*y^2,y^4)
+[74, 76] : ideal(x*y^2,x^2*y,x^3,y^4)
+[77, 79] : ideal(x^2*y,x^3,y^4,x*y^3)
+[80, 82] : ideal(x^2*y,x^3,x*y^3,y^5)
+
+p = 83
+f = y^7+x^4
+g = 5*x^2*y^5+y^7+3*x^2*y^4+x^4
+t1 = 3, t2 = 5
+irred = true
+nu-inv = {32, 44, 52, 55, 64, 67, 73, 76, 79, 82}
+[1, 32] : ideal 1
+[33, 44] : ideal(y,x)
+[45, 52] : ideal(x,y^2)
+[53, 55] : ideal(y^2,x*y,x^2)
+[56, 64] : ideal(x*y,x^2,y^3)
+[65, 67] : ideal(x^2,y^3,x*y^2)
+[68, 73] : ideal(x^2,x*y^2,y^4)
+[74, 76] : ideal(x*y^2,x^2*y,x^3,y^4)
+[77, 79] : ideal(x^2*y,x^3,y^4,x*y^3)
+[80, 82] : ideal(x^2*y,x^3,x*y^3,y^5)
+
+p = 83
+f = y^7+x^4
+g = 6*x^2*y^5+y^7+3*x^2*y^4+x^4
+t1 = 3, t2 = 6
+irred = true
+nu-inv = {32, 44, 52, 55, 64, 67, 73, 76, 79, 82}
+[1, 32] : ideal 1
+[33, 44] : ideal(y,x)
+[45, 52] : ideal(x,y^2)
+[53, 55] : ideal(y^2,x*y,x^2)
+[56, 64] : ideal(x*y,x^2,y^3)
+[65, 67] : ideal(x^2,y^3,x*y^2)
+[68, 73] : ideal(x^2,x*y^2,y^4)
+[74, 76] : ideal(x*y^2,x^2*y,x^3,y^4)
+[77, 79] : ideal(x^2*y,x^3,y^4,x*y^3)
+[80, 82] : ideal(x^2*y,x^3,x*y^3,y^5)
+
+p = 83
+f = y^7+x^4
+g = 7*x^2*y^5+y^7+3*x^2*y^4+x^4
+t1 = 3, t2 = 7
+irred = true
+nu-inv = {32, 44, 52, 55, 64, 67, 73, 76, 79, 82}
+[1, 32] : ideal 1
+[33, 44] : ideal(y,x)
+[45, 52] : ideal(x,y^2)
+[53, 55] : ideal(y^2,x*y,x^2)
+[56, 64] : ideal(x*y,x^2,y^3)
+[65, 67] : ideal(x^2,y^3,x*y^2)
+[68, 73] : ideal(x^2,x*y^2,y^4)
+[74, 76] : ideal(x*y^2,x^2*y,x^3,y^4)
+[77, 79] : ideal(x^2*y,x^3,y^4,x*y^3)
+[80, 82] : ideal(x^2*y,x^3,x*y^3,y^5)
+
+p = 83
+f = y^7+x^4
+g = 8*x^2*y^5+y^7+3*x^2*y^4+x^4
+t1 = 3, t2 = 8
+irred = true
+nu-inv = {32, 44, 52, 55, 64, 67, 73, 76, 79, 82}
+[1, 32] : ideal 1
+[33, 44] : ideal(y,x)
+[45, 52] : ideal(x,y^2)
+[53, 55] : ideal(y^2,x*y,x^2)
+[56, 64] : ideal(x*y,x^2,y^3)
+[65, 67] : ideal(x^2,y^3,x*y^2)
+[68, 73] : ideal(x^2,x*y^2,y^4)
+[74, 76] : ideal(x*y^2,x^2*y,x^3,y^4)
+[77, 79] : ideal(x^2*y,x^3,y^4,x*y^3)
+[80, 82] : ideal(x^2*y,x^3,x*y^3,y^5)
+
+p = 83
+f = y^7+x^4
+g = 9*x^2*y^5+y^7+3*x^2*y^4+x^4
+t1 = 3, t2 = 9
+irred = true
+nu-inv = {32, 44, 52, 55, 64, 67, 73, 76, 79, 82}
+[1, 32] : ideal 1
+[33, 44] : ideal(y,x)
+[45, 52] : ideal(x,y^2)
+[53, 55] : ideal(y^2,x*y,x^2)
+[56, 64] : ideal(x*y,x^2,y^3)
+[65, 67] : ideal(x^2,y^3,x*y^2)
+[68, 73] : ideal(x^2,x*y^2,y^4)
+[74, 76] : ideal(x*y^2,x^2*y,x^3,y^4)
+[77, 79] : ideal(x^2*y,x^3,y^4,x*y^3)
+[80, 82] : ideal(x^2*y,x^3,x*y^3,y^5)
+
+p = 83
+f = y^7+x^4
+g = 10*x^2*y^5+y^7+3*x^2*y^4+x^4
+t1 = 3, t2 = 10
+irred = true
+nu-inv = {32, 44, 52, 55, 64, 67, 73, 76, 79, 82}
+[1, 32] : ideal 1
+[33, 44] : ideal(y,x)
+[45, 52] : ideal(x,y^2)
+[53, 55] : ideal(y^2,x*y,x^2)
+[56, 64] : ideal(x*y,x^2,y^3)
+[65, 67] : ideal(x^2,y^3,x*y^2)
+[68, 73] : ideal(x^2,x*y^2,y^4)
+[74, 76] : ideal(x*y^2,x^2*y,x^3,y^4)
+[77, 79] : ideal(x^2*y,x^3,y^4,x*y^3)
+[80, 82] : ideal(x^2*y,x^3,x*y^3,y^5)
+
+p = 83
+f = y^7+x^4
+g = 11*x^2*y^5+y^7+3*x^2*y^4+x^4
+t1 = 3, t2 = 11
+irred = true
+nu-inv = {32, 44, 52, 55, 64, 67, 73, 76, 79, 82}
+[1, 32] : ideal 1
+[33, 44] : ideal(y,x)
+[45, 52] : ideal(x,y^2)
+[53, 55] : ideal(y^2,x*y,x^2)
+[56, 64] : ideal(x*y,x^2,y^3)
+[65, 67] : ideal(x^2,y^3,x*y^2)
+[68, 73] : ideal(x^2,x*y^2,y^4)
+[74, 76] : ideal(x*y^2,x^2*y,x^3,y^4)
+[77, 79] : ideal(x^2*y,x^3,y^4,x*y^3)
+[80, 82] : ideal(x^2*y,x^3,x*y^3,y^5)
+
+p = 83
+f = y^7+x^4
+g = 12*x^2*y^5+y^7+3*x^2*y^4+x^4
+t1 = 3, t2 = 12
+irred = true
+nu-inv = {32, 44, 52, 55, 64, 67, 73, 76, 79, 82}
+[1, 32] : ideal 1
+[33, 44] : ideal(y,x)
+[45, 52] : ideal(x,y^2)
+[53, 55] : ideal(y^2,x*y,x^2)
+[56, 64] : ideal(x*y,x^2,y^3)
+[65, 67] : ideal(x^2,y^3,x*y^2)
+[68, 73] : idea={"|"}l(x^2,x*y^2,y^4)
+[74, 76] : ideal(x*y^2,x^2*y,x^3,y^4)
+[77, 79] : ideal(x^2*y,x^3,y^4,x*y^3)
+[80, 82] : ideal(x^2*y,x^3,x*y^3,y^5)
+
+p = 83
+f = y^7+x^4
+g = 13*x^2*y^5+y^7+3*x^2*y^4+x^4
+t1 = 3, t2 = 13
+irred = true
+nu-inv = {32, 44, 52, 55, 64, 67, 73, 76, 79, 82}
+[1, 32] : ideal 1
+[33, 44] : ideal(y,x)
+[45, 52] : ideal(x,y^2)
+[53, 55] : ideal(y^2,x*y,x^2)
+[56, 64] : ideal(x*y,x^2,y^3)
+[65, 67] : ideal(x^2,y^3,x*y^2)
+[68, 73] : ideal(x^2,x*y^2,y^4)
+[74, 76] : ideal(x*y^2,x^2*y,x^3,y^4)
+[77, 79] : ideal(x^2*y,x^3,y^4,x*y^3)
+[80, 82] : ideal(x^2*y,x^3,x*y^3,y^5)
+
+p = 83
+f = y^7+x^4
+g = 14*x^2*y^5+y^7+3*x^2*y^4+x^4
+t1 = 3, t2 = 14
+irred = true
+nu-inv = {32, 44, 52, 55, 64, 67, 73, 76, 79, 82}
+[1, 32] : ideal 1
+[33, 44] : ideal(y,x)
+[45, 52] : ideal(x,y^2)
+[53, 55] : ideal(y^2,x*y,x^2)
+[56, 64] : ideal(x*y,x^2,y^3)
+[65, 67] : ideal(x^2,y^3,x*y^2)
+[68, 73] : ideal(x^2,x*y^2,y^4)
+[74, 76] : ideal(x*y^2,x^2*y,x^3,y^4)
+[77, 79] : ideal(x^2*y,x^3,y^4,x*y^3)
+[80, 82] : ideal(x^2*y,x^3,x*y^3,y^5)
+
+p = 83
+f = y^7+x^4
+g = 15*x^2*y^5+y^7+3*x^2*y^4+x^4
+t1 = 3, t2 = 15
+irred = true
+nu-inv = {32, 44, 52, 55, 64, 67, 73, 76, 79, 82}
+[1, 32] : ideal 1
+[33, 44] : ideal(y,x)
+[45, 52] : ideal(x,y^2)
+[53, 55] : ideal(y^2,x*y,x^2)
+[56, 64] : ideal(x*y,x^2,y^3)
+[65, 67] : ideal(x^2,y^3,x*y^2)
+[68, 73] : ideal(x^2,x*y^2,y^4)
+[74, 76] : ideal(x*y^2,x^2*y,x^3,y^4)
+[77, 79] : ideal(x^2*y,x^3,y^4,x*y^3)
+[80, 82] : ideal(x^2*y,x^3,x*y^3,y^5)
+
