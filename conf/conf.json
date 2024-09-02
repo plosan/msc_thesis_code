@@ -1,0 +1,14 @@
+{
+    "directories" : {
+        "data" : "data",
+        "dataframes" : "dataframes",
+        "image" : "images",
+        "src_cpp" : "src_cpp",
+        "src_m2" : "src_m2",
+        "src_python" : "src_python",
+        "primes" : "prime_numbers"
+    },
+    "files" : {
+        "primes" : "primes.txt"
+    }
+}

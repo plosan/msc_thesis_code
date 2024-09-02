@@ -45,6 +45,7 @@ def milnor_number(a, b):
 
 if __name__ == "__main__":
 
+    # x^4+y^7 + t_1*x^2*y^4+t_2*x^2*y^5
     a, b = 7, 5
     if len(sys.argv) == 3:
         a = int(sys.argv[1])
@@ -89,7 +90,9 @@ if __name__ == "__main__":
     print(type(ax))
     plot_binomial_line(ax, b, a, a * b, color='r', label='b x + a y = a b')
     plot_binomial_line(ax, b, a, a * b - a - b, color='b', label='b x + a y = a b - a - b')
-    plot_binomial_line(ax, b, a, a * b - a - b + 1, color='g', label='b x + a y = a b - a - b')
+    plot_binomial_line(ax, b, a, a * b - a - b + 1, color='g', label='b x + a y = a b - a - b + 1')
+    plot_binomial_line(ax, b, a, 15, color='m', label='b x + a y = 15')
+    plot_binomial_line(ax, b, a, 16, color='y', label='b x + a y = 16')
     ax.scatter(u_int_points, v_int_points, color='r', edgecolor='r', lw=1)
     ax.set_xlim(-0.5, a + 1)
     ax.set_ylim(-0.5, b + 1)
